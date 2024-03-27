@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/DEPLOY.dir/predict.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/predict.cpp",
+  "file": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/predict.cpp",
+  "output": "CMakeFiles/DEPLOY.dir/predict.cpp.o"
+},
+{
+  "directory": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++20 -o CMakeFiles/DEPLOY.dir/inference.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/inference.cpp",
+  "file": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/inference.cpp",
+  "output": "CMakeFiles/DEPLOY.dir/inference.cpp.o"
+}
+]

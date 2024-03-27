@@ -1,0 +1,1 @@
+yolo export model=./best.pt format=onnx
