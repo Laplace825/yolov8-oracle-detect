@@ -38,9 +38,7 @@ int main(int argc, char **argv)
 
         int detections = output.size();
         std::cout << "Number of detections:" << detections << std::endl;
-
-        // 若矩形框位置不对，下面这行可能需要
-        // cv::resize(frame, frame, cv::Size(480, 640));
+ 
 
         for (int i = 0; i < detections; ++i)
         {

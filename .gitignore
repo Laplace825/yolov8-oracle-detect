@@ -34,3 +34,4 @@
 # CMake build
 
 build/*
+*.jpg
