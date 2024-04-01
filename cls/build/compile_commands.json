@@ -1,8 +1,8 @@
 [
 {
   "directory": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/build",
-  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++20   -D WITH_CUDA=ON -o CMakeFiles/DEPLOY-cls.dir/predict.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp",
-  "file": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp",
-  "output": "CMakeFiles/DEPLOY-cls.dir/predict.cpp.o"
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++20   -D WITH_CUDA=ON -o CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp",
+  "file": "/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp",
+  "output": "CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o"
 }
 ]

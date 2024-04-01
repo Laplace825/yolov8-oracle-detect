@@ -8,7 +8,7 @@ find_package(CUDA REQUIRED)
 add_definitions(-D WITH_CUDA=ON)
 
 include_directories(${OpenCV_INCLUDE_DIRS})
-add_executable(DEPLOY-cls predict.cpp)
+add_executable(DEPLOY-cls predict-cls.cpp)
 
 target_link_libraries(DEPLOY-cls ${OpenCV_LIBS})
 target_link_libraries(DEPLOY-cls ${CUDA_LIBRARIES})

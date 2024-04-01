@@ -69,28 +69,28 @@ include CMakeFiles/DEPLOY-cls.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/DEPLOY-cls.dir/flags.make
 
-CMakeFiles/DEPLOY-cls.dir/predict.cpp.o: CMakeFiles/DEPLOY-cls.dir/flags.make
-CMakeFiles/DEPLOY-cls.dir/predict.cpp.o: /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp
-CMakeFiles/DEPLOY-cls.dir/predict.cpp.o: CMakeFiles/DEPLOY-cls.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DEPLOY-cls.dir/predict.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY-cls.dir/predict.cpp.o -MF CMakeFiles/DEPLOY-cls.dir/predict.cpp.o.d -o CMakeFiles/DEPLOY-cls.dir/predict.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp
+CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o: CMakeFiles/DEPLOY-cls.dir/flags.make
+CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o: /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp
+CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o: CMakeFiles/DEPLOY-cls.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o -MF CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o.d -o CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp
 
-CMakeFiles/DEPLOY-cls.dir/predict.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DEPLOY-cls.dir/predict.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp > CMakeFiles/DEPLOY-cls.dir/predict.cpp.i
+CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp > CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.i
 
-CMakeFiles/DEPLOY-cls.dir/predict.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DEPLOY-cls.dir/predict.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict.cpp -o CMakeFiles/DEPLOY-cls.dir/predict.cpp.s
+CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/predict-cls.cpp -o CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.s
 
 # Object files for target DEPLOY-cls
 DEPLOY__cls_OBJECTS = \
-"CMakeFiles/DEPLOY-cls.dir/predict.cpp.o"
+"CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o"
 
 # External object files for target DEPLOY-cls
 DEPLOY__cls_EXTERNAL_OBJECTS =
 
-/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/bin/DEPLOY-cls: CMakeFiles/DEPLOY-cls.dir/predict.cpp.o
+/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/bin/DEPLOY-cls: CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o
 /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/bin/DEPLOY-cls: CMakeFiles/DEPLOY-cls.dir/build.make
 /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/bin/DEPLOY-cls: /usr/local/lib/libopencv_gapi.so.4.9.0
 /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls/bin/DEPLOY-cls: /usr/local/lib/libopencv_stitching.so.4.9.0

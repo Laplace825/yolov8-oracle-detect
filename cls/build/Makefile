@@ -129,29 +129,29 @@ DEPLOY-cls/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/build
 .PHONY : DEPLOY-cls/fast
 
-predict.o: predict.cpp.o
-.PHONY : predict.o
+predict-cls.o: predict-cls.cpp.o
+.PHONY : predict-cls.o
 
 # target to build an object file
-predict.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict.cpp.o
-.PHONY : predict.cpp.o
+predict-cls.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.o
+.PHONY : predict-cls.cpp.o
 
-predict.i: predict.cpp.i
-.PHONY : predict.i
+predict-cls.i: predict-cls.cpp.i
+.PHONY : predict-cls.i
 
 # target to preprocess a source file
-predict.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict.cpp.i
-.PHONY : predict.cpp.i
+predict-cls.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.i
+.PHONY : predict-cls.cpp.i
 
-predict.s: predict.cpp.s
-.PHONY : predict.s
+predict-cls.s: predict-cls.cpp.s
+.PHONY : predict-cls.s
 
 # target to generate assembly for a file
-predict.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict.cpp.s
-.PHONY : predict.cpp.s
+predict-cls.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DEPLOY-cls.dir/build.make CMakeFiles/DEPLOY-cls.dir/predict-cls.cpp.s
+.PHONY : predict-cls.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... DEPLOY-cls"
-	@echo "... predict.o"
-	@echo "... predict.i"
-	@echo "... predict.s"
+	@echo "... predict-cls.o"
+	@echo "... predict-cls.i"
+	@echo "... predict-cls.s"
 .PHONY : help
 
 

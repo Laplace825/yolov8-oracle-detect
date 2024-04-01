@@ -3,7 +3,11 @@ project(DEPLOY)
 
 set(CMAKE_CXX_STANDARD 20)
 find_package(OpenCV REQUIRED)
+set(CMAKE_CXX_COMPILE /usr/bin/g++)
+set(CMAKE_C_COMPILE /usr/bin/gcc)
 
+message(${CMAKE_CXX_COMPILE})
+message(${CMAKE_C_COMPILE})
 include_directories(${OpenCV_INCLUDE_DIRS})
 add_executable(DEPLOY predict.cpp inference.cpp)
 

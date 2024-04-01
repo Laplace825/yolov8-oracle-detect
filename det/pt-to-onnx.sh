@@ -1,1 +1,1 @@
-yolo export model=./best.pt format=onnx
+yolo export model=./best_det.pt format=onnx

@@ -1,0 +1,3 @@
+/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles/DEPLOY.dir
+/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles/edit_cache.dir
+/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles/rebuild_cache.dir
