@@ -20,14 +20,15 @@ CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
-//No help, variable specified on the command line.
-CMAKE_BUILD_TYPE:STRING=Debug
+//Choose the type of build, options are: None Debug Release RelWithDebInfo
+// MinSizeRel ...
+CMAKE_BUILD_TYPE:STRING=
 
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
-//No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++
+//CXX compiler
+CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -52,8 +53,8 @@ CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
 //Flags used by the CXX compiler during RELWITHDEBINFO builds.
 CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 
-//No help, variable specified on the command line.
-CMAKE_C_COMPILER:FILEPATH=/usr/bin/gcc
+//C compiler
+CMAKE_C_COMPILER:FILEPATH=/usr/bin/cc
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -96,8 +97,8 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//No help, variable specified on the command line.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE
+//Enable/Disable output of compile commands during generation.
+CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 
 //Value Computed by CMake.
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles/pkgRedirects
@@ -241,7 +242,7 @@ CUDA_GENERATED_OUTPUT_DIR:PATH=
 CUDA_HOST_COMPILATION_CPP:BOOL=ON
 
 //Host side compiler used by NVCC
-CUDA_HOST_COMPILER:FILEPATH=/usr/bin/gcc
+CUDA_HOST_COMPILER:FILEPATH=/usr/bin/cc
 
 //Path to a program.
 CUDA_NVCC_EXECUTABLE:FILEPATH=/usr/local/cuda-12.1/bin/nvcc
@@ -442,6 +443,8 @@ CMAKE_EXE_LINKER_FLAGS_MINSIZEREL-ADVANCED:INTERNAL=1
 CMAKE_EXE_LINKER_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_EXPORT_COMPILE_COMMANDS
+CMAKE_EXPORT_COMPILE_COMMANDS-ADVANCED:INTERNAL=1
 //Name of external makefile project generator.
 CMAKE_EXTRA_GENERATOR:INTERNAL=
 //Name of generator.

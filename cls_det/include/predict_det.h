@@ -6,16 +6,15 @@
 #include <format>
 #include "inference.h"
 using namespace std;
-using namespace cv;
 
 void det()
 {
-    bool runOnGPU = false;
+    bool runOnGPU = false; // 如果GPU跑结果不对,改用CPU跑试试
 
     // 1. 读取onnx模型
     // Note that in this example the classes are hard-coded and 'classes.txt' is a place holder.
     Inference inf("../best_det.onnx", cv::Size(640, 640), "classes.txt", runOnGPU); // classes.txt 可以缺失
-
+    int padding = 10;                                                               // 用于扩大矩形框
     // 2. 读取输入图片路径下所有图片
     std::filesystem::path path = "../input_img";
     std::vector<std::string> imageNames;
@@ -48,6 +47,14 @@ void det()
 
             cv::Rect box = detection.box;
             cv::Scalar color = detection.color;
+            // 裁切图片,将识别到的文字保存到output_text_img文件夹
+            cv::Rect largeBox(
+                std::max(0, box.x - padding),
+                std::max(0, box.y - padding),
+                std::min(box.width + 2 * padding, frame.cols - std::max(0, box.x - padding)),
+                std::min(box.height + 2 * padding, frame.rows - std::max(0, box.y - padding)));
+            cv::Mat roi = frame(largeBox);
+            cv::imwrite("../output_text_img/" + std::to_string(j) + "_" + imageNames[i].substr(imageNames[i].find_last_of("/") + 1), roi);
 
             // Detection box
             cv::rectangle(frame, box, color, 2);
@@ -55,9 +62,6 @@ void det()
             std::cout << "frame:" << frame.cols << " " << frame.rows << std::endl;
             std::cout << "box:" << box.x << " " << box.y << " " << box.width << " " << box.height << std::endl;
 
-            // 裁切图片,将识别到的文字保存到output_text_img文件夹
-            cv::Mat roi = frame(box);
-            cv::imwrite("../output_text_img/" + std::to_string(j) + "_" + imageNames[i].substr(imageNames[i].find_last_of("/") + 1), roi);
             // Detection box text
             std::string classString = detection.className + ' ' + std::to_string(detection.confidence).substr(0, 4);
             cv::Size textSize = cv::getTextSize(classString, cv::FONT_HERSHEY_DUPLEX, 1, 2, 0);

@@ -73,29 +73,29 @@ CMakeFiles/DEPLOY.dir/main.cpp.o: CMakeFiles/DEPLOY.dir/flags.make
 CMakeFiles/DEPLOY.dir/main.cpp.o: /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp
 CMakeFiles/DEPLOY.dir/main.cpp.o: CMakeFiles/DEPLOY.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DEPLOY.dir/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY.dir/main.cpp.o -MF CMakeFiles/DEPLOY.dir/main.cpp.o.d -o CMakeFiles/DEPLOY.dir/main.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY.dir/main.cpp.o -MF CMakeFiles/DEPLOY.dir/main.cpp.o.d -o CMakeFiles/DEPLOY.dir/main.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp
 
 CMakeFiles/DEPLOY.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DEPLOY.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp > CMakeFiles/DEPLOY.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp > CMakeFiles/DEPLOY.dir/main.cpp.i
 
 CMakeFiles/DEPLOY.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DEPLOY.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp -o CMakeFiles/DEPLOY.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/main.cpp -o CMakeFiles/DEPLOY.dir/main.cpp.s
 
 CMakeFiles/DEPLOY.dir/inference.cpp.o: CMakeFiles/DEPLOY.dir/flags.make
 CMakeFiles/DEPLOY.dir/inference.cpp.o: /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp
 CMakeFiles/DEPLOY.dir/inference.cpp.o: CMakeFiles/DEPLOY.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DEPLOY.dir/inference.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY.dir/inference.cpp.o -MF CMakeFiles/DEPLOY.dir/inference.cpp.o.d -o CMakeFiles/DEPLOY.dir/inference.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DEPLOY.dir/inference.cpp.o -MF CMakeFiles/DEPLOY.dir/inference.cpp.o.d -o CMakeFiles/DEPLOY.dir/inference.cpp.o -c /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp
 
 CMakeFiles/DEPLOY.dir/inference.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DEPLOY.dir/inference.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp > CMakeFiles/DEPLOY.dir/inference.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp > CMakeFiles/DEPLOY.dir/inference.cpp.i
 
 CMakeFiles/DEPLOY.dir/inference.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DEPLOY.dir/inference.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp -o CMakeFiles/DEPLOY.dir/inference.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lap/app/AI/YOLOv8/ultralytics/deploy/cls_det/inference.cpp -o CMakeFiles/DEPLOY.dir/inference.cpp.s
 
 # Object files for target DEPLOY
 DEPLOY_OBJECTS = \
