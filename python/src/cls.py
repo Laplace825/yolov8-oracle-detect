@@ -93,20 +93,3 @@ def cls_yolo(pt_path, input_image_dir, output_txt_dir):
 # Main function
 if __name__ == "__main__":
     pass
-    # Read the class names from file and store them in a list
-
-    # cls(
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_cls.onnx",
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/ultralytics/cfg/datasets/data-cls-oracle/train/八",
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/class_cls.txt",
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_cls.txt",
-    # )
-
-    # Load the ONNX model
-    # results = model(
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_text_img/W00187_0.jpg"
-    # )
-    # for res in results:
-    #     res.save_txt("/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/out.txt")
-    #     res.tojson("/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/out.json")
-    # Iterate through the input image directory, preprocess and perform network inference on each image, and write the results to a file

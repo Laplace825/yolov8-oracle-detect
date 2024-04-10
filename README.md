@@ -1,18 +1,23 @@
 # yolov8-oracle-detect
 
-## **一个基于 C++ 的 yolov8 识别甲骨文部署实践**
-
-`predict.cpp`实现主要的部署操作，相当于`main`
-目前主要支持读取目标图像文件并输出检测结果文件
+## **一个基于 C++ & Python 的 yolov8 识别部署实践**
 
 ---
 
-**请确保有以下环境**(版本相关保持最新即可使用)
+**请确保有以下C++环境**(版本相关保持最新即可使用)
 + `OpenCV`
 + `CMake`
 + 支持 `C++17` 及以上的编译器
-  
+
+**请确保有以下Python环境**(版本相关保持最新即可)
++ `Yolo`
++ `tqdm`
++ `OpenCV-Python`
++ `onnxruntime`
++ `numpy`
 ---
+
+以上`Python`模块使用`pip`或`conda`安装即可。
 
 ## REFERENCE
 

@@ -7,23 +7,21 @@ import os
 import tqdm
 from ultralytics import YOLO
 
-input_img_det_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img/"
+# 获取 python 文件目录
+# ../python/src
+working_path = os.path.abspath(os.path.dirname(os.path.dirname(sys.argv[0])))
+
+input_img_det_path = working_path + "/input_img/"
 
 
 def use_onnx():
-    net_det_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.onnx"
-    output_det_img_path = (
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_text_img_onnx/"
-    )
+    net_det_path = working_path + "/best_det.onnx"
+    output_det_img_path = working_path + "/output_text_img_onnx/"
 
-    net_cls_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_cls.onnx"
-    input__img_cls_path = (
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_text_img_onnx/"
-    )
-    class_name_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/class_cls.txt"
-    output_cls_txt_path = (
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_cls.txt"
-    )
+    net_cls_path = working_path + "/best_cls.onnx"
+    input__img_cls_path = working_path + "/output_text_img_onnx/"
+    class_name_path = working_path + "/class_cls.txt"
+    output_cls_txt_path = working_path + "/output_cls.txt"
     # 读取input_img下所有图片，进行检测和分类
 
     for file in tqdm.tqdm(os.listdir(input_img_det_path), desc="Detecting"):
@@ -46,10 +44,10 @@ def use_onnx():
 
 
 def use_pt():
-    pt_det_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.pt"
-    output_det_dir = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_img_pt"
-    pt_cls_path = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_cls.pt"
-    output_cls_result = "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_img_pt/0/cls"
+    pt_det_path = working_path + "/best_det.pt"
+    output_det_dir = working_path + "/output_img_pt"
+    pt_cls_path = working_path + "/best_cls.pt"
+    output_cls_result = working_path + "/output_img_pt/0/cls"
     det.det_yolo(
         pt_det_path,
         input_img_det_path,
@@ -60,7 +58,12 @@ def use_pt():
         output_det_dir + "/0",
         output_cls_result,
     )
+    print(
+        f"""\033[1;33mDone! cls result save in \033[1;31m{output_cls_result}\033[0m
+\033[1;33mdet result after cropping save in \033[1;31m{output_det_dir + "/0"}\033[0m"""
+    )
 
 
 if __name__ == "__main__":
-    use_pt() 
+    print(f"\033[1;33mNow working on \033[1;31m{working_path}\033[0m")
+    use_pt()

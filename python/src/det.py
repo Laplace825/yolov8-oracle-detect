@@ -94,7 +94,7 @@ def det(onnx_model, input_image, output_image_dir):
         # draw_bounding_box(original_image, class_ids[index], scores[index], round(box[0] * scale), round(box[1] * scale),
         #                   round((box[0] + box[2]) * scale), round((box[1] + box[3]) * scale))
     # cv2.imwrite(
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test/img.jpg", original_image
+    #     "/test/img.jpg", original_image
     # )
 
 
@@ -124,9 +124,5 @@ def det_yolo(pt_path, input_img_dir, output_img_dir):
 
 
 if __name__ == "__main__":
-    # det(
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.onnx",
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img/h05548.jpg",
-    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/output_text_img",
-    # )
+
     pass

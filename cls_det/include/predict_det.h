@@ -14,7 +14,7 @@ void det()
     // 1. 读取onnx模型
     // Note that in this example the classes are hard-coded and 'classes.txt' is a place holder.
     Inference inf("../best_det.onnx", cv::Size(640, 640), "classes.txt", runOnGPU); // classes.txt 可以缺失
-    int padding = 10;                                                               // 用于扩大矩形框
+    int padding = 15;                                                               // 用于扩大矩形框
     // 2. 读取输入图片路径下所有图片
     std::filesystem::path path = "../input_img";
     std::vector<std::string> imageNames;
