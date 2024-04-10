@@ -1,0 +1,3059 @@
+../input_img/W00095.jpg
+Number of detections:4
+box.x:219 box.y:226 box.width:30 box.height:48
+box.x:184 box.y:187 box.width:32 box.height:40
+box.x:94 box.y:188 box.width:32 box.height:45
+box.x:148 box.y:186 box.width:32 box.height:45
+../input_img/W00110.jpg
+Number of detections:4
+box.x:87 box.y:198 box.width:42 box.height:81
+box.x:158 box.y:205 box.width:51 box.height:91
+box.x:164 box.y:140 box.width:31 box.height:41
+box.x:163 box.y:55 box.width:39 box.height:69
+../input_img/h05638Z.jpg
+Number of detections:8
+box.x:148 box.y:1049 box.width:65 box.height:62
+box.x:1381 box.y:1461 box.width:43 box.height:89
+box.x:1373 box.y:1295 box.width:49 box.height:54
+box.x:338 box.y:1213 box.width:82 box.height:109
+box.x:637 box.y:537 box.width:59 box.height:77
+box.x:1379 box.y:1573 box.width:34 box.height:82
+box.x:346 box.y:1422 box.width:77 box.height:106
+box.x:1564 box.y:806 box.width:68 box.height:73
+../input_img/h05607.jpg
+Number of detections:4
+box.x:95 box.y:70 box.width:43 box.height:67
+box.x:108 box.y:146 box.width:24 box.height:53
+box.x:164 box.y:138 box.width:19 box.height:73
+box.x:136 box.y:153 box.width:26 box.height:31
+../input_img/W00156.jpg
+Number of detections:5
+box.x:171 box.y:90 box.width:48 box.height:111
+box.x:96 box.y:64 box.width:59 box.height:107
+box.x:76 box.y:189 box.width:36 box.height:52
+box.x:110 box.y:186 box.width:52 box.height:37
+box.x:166 box.y:58 box.width:38 box.height:26
+../input_img/h05736.jpg
+Number of detections:7
+box.x:97 box.y:66 box.width:31 box.height:42
+box.x:187 box.y:146 box.width:37 box.height:77
+box.x:138 box.y:145 box.width:37 box.height:55
+box.x:109 box.y:159 box.width:22 box.height:48
+box.x:137 box.y:80 box.width:28 box.height:50
+box.x:69 box.y:162 box.width:30 box.height:46
+box.x:277 box.y:156 box.width:30 box.height:26
+../input_img/h05677.jpg
+Number of detections:8
+box.x:112 box.y:74 box.width:49 box.height:59
+box.x:114 box.y:153 box.width:58 box.height:72
+box.x:39 box.y:151 box.width:32 box.height:58
+box.x:181 box.y:106 box.width:38 box.height:87
+box.x:72 box.y:204 box.width:27 box.height:25
+box.x:77 box.y:121 box.width:31 box.height:73
+box.x:45 box.y:233 box.width:15 box.height:29
+box.x:36 box.y:82 box.width:39 box.height:64
+../input_img/h05748.jpg
+Number of detections:7
+box.x:178 box.y:324 box.width:41 box.height:56
+box.x:127 box.y:293 box.width:36 box.height:58
+box.x:71 box.y:307 box.width:31 box.height:70
+box.x:161 box.y:201 box.width:51 box.height:101
+box.x:73 box.y:210 box.width:39 box.height:60
+box.x:246 box.y:196 box.width:41 box.height:40
+box.x:232 box.y:324 box.width:51 box.height:59
+../input_img/h05690.jpg
+Number of detections:9
+box.x:122 box.y:134 box.width:57 box.height:102
+box.x:121 box.y:249 box.width:55 box.height:89
+box.x:209 box.y:209 box.width:42 box.height:133
+box.x:99 box.y:476 box.width:42 box.height:93
+box.x:69 box.y:146 box.width:45 box.height:71
+box.x:51 box.y:240 box.width:40 box.height:114
+box.x:115 box.y:373 box.width:36 box.height:86
+box.x:272 box.y:248 box.width:41 box.height:80
+box.x:36 box.y:387 box.width:31 box.height:65
+../input_img/W00094.jpg
+Number of detections:5
+box.x:185 box.y:144 box.width:35 box.height:51
+box.x:154 box.y:178 box.width:28 box.height:46
+box.x:180 box.y:71 box.width:38 box.height:64
+box.x:143 box.y:110 box.width:31 box.height:47
+box.x:96 box.y:129 box.width:41 box.height:56
+../input_img/h05577.jpg
+Number of detections:6
+box.x:72 box.y:210 box.width:50 box.height:100
+box.x:235 box.y:243 box.width:77 box.height:112
+box.x:213 box.y:72 box.width:82 box.height:153
+box.x:169 box.y:206 box.width:46 box.height:138
+box.x:150 box.y:92 box.width:54 box.height:89
+box.x:178 box.y:373 box.width:64 box.height:49
+../input_img/h05713Z.jpg
+Number of detections:3
+box.x:50 box.y:50 box.width:65 box.height:100
+box.x:51 box.y:270 box.width:55 box.height:52
+box.x:61 box.y:187 box.width:56 box.height:50
+../input_img/h05616.jpg
+Number of detections:3
+box.x:105 box.y:106 box.width:60 box.height:113
+box.x:102 box.y:233 box.width:37 box.height:89
+box.x:98 box.y:332 box.width:37 box.height:62
+../input_img/W00180.jpg
+Number of detections:2
+box.x:113 box.y:308 box.width:40 box.height:74
+box.x:170 box.y:218 box.width:76 box.height:81
+../input_img/h05560.jpg
+Number of detections:9
+box.x:246 box.y:326 box.width:43 box.height:88
+box.x:173 box.y:350 box.width:49 box.height:91
+box.x:240 box.y:229 box.width:46 box.height:80
+box.x:118 box.y:361 box.width:43 box.height:114
+box.x:240 box.y:72 box.width:47 box.height:99
+box.x:113 box.y:240 box.width:44 box.height:92
+box.x:116 box.y:96 box.width:43 box.height:101
+box.x:242 box.y:435 box.width:56 box.height:66
+box.x:169 box.y:248 box.width:59 box.height:72
+../input_img/W00153F.jpg
+Number of detections:1
+box.x:174 box.y:117 box.width:89 box.height:65
+../input_img/W00097F.jpg
+Number of detections:2
+box.x:111 box.y:78 box.width:73 box.height:164
+box.x:199 box.y:198 box.width:48 box.height:81
+../input_img/h05698.jpg
+Number of detections:4
+box.x:111 box.y:57 box.width:43 box.height:47
+box.x:214 box.y:57 box.width:39 box.height:18
+box.x:63 box.y:77 box.width:32 box.height:54
+box.x:180 box.y:48 box.width:23 box.height:61
+../input_img/W00027.jpg
+Number of detections:4
+box.x:98 box.y:173 box.width:49 box.height:68
+box.x:163 box.y:82 box.width:49 box.height:88
+box.x:93 box.y:111 box.width:50 box.height:41
+box.x:226 box.y:176 box.width:34 box.height:30
+../input_img/h05611F.jpg
+Number of detections:6
+box.x:717 box.y:1300 box.width:74 box.height:108
+box.x:784 box.y:1036 box.width:80 box.height:119
+box.x:643 box.y:1779 box.width:75 box.height:97
+box.x:976 box.y:851 box.width:82 box.height:79
+box.x:986 box.y:715 box.width:64 box.height:100
+box.x:680 box.y:846 box.width:60 box.height:110
+../input_img/h05585F.jpg
+Number of detections:2
+box.x:209 box.y:185 box.width:54 box.height:72
+box.x:209 box.y:84 box.width:48 box.height:69
+../input_img/h05647GJ.jpg
+Number of detections:1
+box.x:37 box.y:650 box.width:81 box.height:149
+../input_img/h05567.jpg
+Number of detections:7
+box.x:343 box.y:585 box.width:56 box.height:127
+box.x:172 box.y:433 box.width:70 box.height:84
+box.x:333 box.y:466 box.width:50 box.height:90
+box.x:259 box.y:455 box.width:55 box.height:102
+box.x:93 box.y:368 box.width:53 box.height:96
+box.x:169 box.y:544 box.width:60 box.height:98
+box.x:107 box.y:484 box.width:64 box.height:113
+../input_img/h05574.jpg
+Number of detections:6
+box.x:260 box.y:843 box.width:76 box.height:164
+box.x:103 box.y:826 box.width:68 box.height:138
+box.x:122 box.y:466 box.width:58 box.height:70
+box.x:125 box.y:577 box.width:31 box.height:93
+box.x:113 box.y:335 box.width:102 box.height:105
+box.x:136 box.y:993 box.width:37 box.height:83
+../input_img/W00069.jpg
+Number of detections:2
+box.x:140 box.y:96 box.width:31 box.height:50
+box.x:112 box.y:99 box.width:21 box.height:32
+../input_img/W00042.jpg
+Number of detections:5
+box.x:199 box.y:103 box.width:36 box.height:85
+box.x:137 box.y:106 box.width:49 box.height:73
+box.x:214 box.y:192 box.width:19 box.height:59
+box.x:253 box.y:169 box.width:24 box.height:33
+box.x:252 box.y:203 box.width:22 box.height:55
+../input_img/h05596.jpg
+Number of detections:6
+box.x:235 box.y:261 box.width:50 box.height:44
+box.x:229 box.y:170 box.width:44 box.height:79
+box.x:194 box.y:144 box.width:27 box.height:65
+box.x:441 box.y:238 box.width:37 box.height:55
+box.x:305 box.y:265 box.width:35 box.height:51
+box.x:285 box.y:174 box.width:45 box.height:86
+../input_img/h05737.jpg
+Number of detections:7
+box.x:370 box.y:281 box.width:44 box.height:60
+box.x:313 box.y:383 box.width:35 box.height:73
+box.x:308 box.y:284 box.width:38 box.height:79
+box.x:376 box.y:348 box.width:38 box.height:49
+box.x:368 box.y:476 box.width:39 box.height:71
+box.x:363 box.y:402 box.width:47 box.height:70
+box.x:308 box.y:475 box.width:42 box.height:91
+../input_img/W00096.jpg
+Number of detections:2
+box.x:213 box.y:90 box.width:50 box.height:45
+box.x:171 box.y:88 box.width:45 box.height:80
+../input_img/W00101Z.jpg
+Number of detections:7
+box.x:173 box.y:256 box.width:73 box.height:111
+box.x:119 box.y:238 box.width:43 box.height:111
+box.x:110 box.y:116 box.width:56 box.height:111
+box.x:253 box.y:132 box.width:64 box.height:83
+box.x:177 box.y:123 box.width:61 box.height:116
+box.x:125 box.y:360 box.width:34 box.height:48
+box.x:269 box.y:243 box.width:54 box.height:76
+../input_img/h05555.jpg
+Number of detections:2
+box.x:166 box.y:234 box.width:59 box.height:79
+box.x:91 box.y:220 box.width:45 box.height:95
+../input_img/h05724.jpg
+Number of detections:9
+box.x:160 box.y:145 box.width:28 box.height:65
+box.x:156 box.y:54 box.width:28 box.height:72
+box.x:109 box.y:173 box.width:44 box.height:61
+box.x:271 box.y:63 box.width:26 box.height:48
+box.x:193 box.y:104 box.width:58 box.height:106
+box.x:210 box.y:58 box.width:31 box.height:33
+box.x:114 box.y:105 box.width:23 box.height:34
+box.x:192 box.y:142 box.width:43 box.height:66
+box.x:261 box.y:173 box.width:22 box.height:44
+../input_img/h05576Z.jpg
+Number of detections:5
+box.x:237 box.y:583 box.width:142 box.height:244
+box.x:240 box.y:288 box.width:94 box.height:203
+box.x:96 box.y:393 box.width:121 box.height:210
+box.x:403 box.y:371 box.width:67 box.height:262
+box.x:271 box.y:57 box.width:74 box.height:80
+../input_img/h05556.jpg
+Number of detections:1
+box.x:212 box.y:338 box.width:45 box.height:98
+../input_img/h05746.jpg
+Number of detections:10
+box.x:79 box.y:158 box.width:35 box.height:73
+box.x:162 box.y:166 box.width:31 box.height:54
+box.x:120 box.y:206 box.width:49 box.height:65
+box.x:77 box.y:76 box.width:24 box.height:76
+box.x:122 box.y:150 box.width:27 box.height:51
+box.x:80 box.y:243 box.width:32 box.height:58
+box.x:233 box.y:142 box.width:32 box.height:58
+box.x:109 box.y:98 box.width:28 box.height:44
+box.x:204 box.y:130 box.width:22 box.height:72
+box.x:151 box.y:103 box.width:31 box.height:46
+../input_img/h05639Z.jpg
+Number of detections:13
+box.x:367 box.y:265 box.width:41 box.height:58
+box.x:451 box.y:272 box.width:36 box.height:63
+box.x:598 box.y:342 box.width:38 box.height:77
+box.x:509 box.y:159 box.width:48 box.height:91
+box.x:501 box.y:276 box.width:33 box.height:37
+box.x:589 box.y:296 box.width:42 box.height:36
+box.x:451 box.y:155 box.width:36 box.height:98
+box.x:384 box.y:156 box.width:59 box.height:91
+box.x:629 box.y:157 box.width:58 box.height:119
+box.x:316 box.y:159 box.width:56 box.height:90
+box.x:561 box.y:157 box.width:50 box.height:93
+box.x:374 box.y:326 box.width:43 box.height:52
+box.x:700 box.y:200 box.width:30 box.height:68
+../input_img/h05553Z.jpg
+Number of detections:3
+box.x:318 box.y:234 box.width:41 box.height:46
+box.x:309 box.y:208 box.width:41 box.height:23
+box.x:609 box.y:291 box.width:48 box.height:48
+../input_img/W00136.jpg
+Number of detections:2
+box.x:56 box.y:45 box.width:68 box.height:136
+box.x:75 box.y:190 box.width:43 box.height:83
+../input_img/W00031.jpg
+Number of detections:4
+box.x:125 box.y:352 box.width:48 box.height:58
+box.x:177 box.y:443 box.width:62 box.height:85
+box.x:382 box.y:450 box.width:46 box.height:59
+box.x:244 box.y:352 box.width:46 box.height:75
+../input_img/h05587.jpg
+Number of detections:4
+box.x:144 box.y:277 box.width:25 box.height:43
+box.x:123 box.y:186 box.width:17 box.height:29
+box.x:147 box.y:193 box.width:24 box.height:34
+box.x:109 box.y:256 box.width:35 box.height:49
+../input_img/W00045.jpg
+Number of detections:6
+box.x:101 box.y:197 box.width:38 box.height:76
+box.x:150 box.y:235 box.width:43 box.height:72
+box.x:160 box.y:177 box.width:34 box.height:46
+box.x:107 box.y:130 box.width:43 box.height:52
+box.x:110 box.y:39 box.width:46 box.height:82
+box.x:167 box.y:85 box.width:27 box.height:80
+../input_img/h05569Z.jpg
+Number of detections:6
+box.x:207 box.y:231 box.width:58 box.height:82
+box.x:79 box.y:232 box.width:46 box.height:96
+box.x:150 box.y:220 box.width:51 box.height:82
+box.x:81 box.y:414 box.width:44 box.height:59
+box.x:73 box.y:355 box.width:54 box.height:45
+box.x:144 box.y:348 box.width:62 box.height:138
+../input_img/h05692.jpg
+Number of detections:4
+box.x:151 box.y:217 box.width:38 box.height:69
+box.x:83 box.y:196 box.width:33 box.height:68
+box.x:137 box.y:131 box.width:33 box.height:65
+box.x:121 box.y:47 box.width:48 box.height:58
+../input_img/W00014Z.jpg
+Number of detections:8
+box.x:109 box.y:183 box.width:49 box.height:73
+box.x:159 box.y:234 box.width:53 box.height:99
+box.x:100 box.y:86 box.width:47 box.height:69
+box.x:108 box.y:263 box.width:45 box.height:81
+box.x:59 box.y:81 box.width:38 box.height:71
+box.x:197 box.y:140 box.width:34 box.height:94
+box.x:164 box.y:153 box.width:23 box.height:71
+box.x:63 box.y:181 box.width:37 box.height:96
+../input_img/W00029.jpg
+Number of detections:6
+box.x:125 box.y:220 box.width:50 box.height:79
+box.x:144 box.y:401 box.width:50 box.height:69
+box.x:219 box.y:344 box.width:61 box.height:63
+box.x:206 box.y:217 box.width:77 box.height:106
+box.x:70 box.y:350 box.width:43 box.height:79
+box.x:228 box.y:429 box.width:51 box.height:60
+../input_img/W00071.jpg
+Number of detections:23
+box.x:124 box.y:736 box.width:54 box.height:64
+box.x:198 box.y:213 box.width:44 box.height:120
+box.x:311 box.y:249 box.width:50 box.height:109
+box.x:281 box.y:504 box.width:57 box.height:76
+box.x:124 box.y:629 box.width:43 box.height:93
+box.x:377 box.y:288 box.width:54 box.height:68
+box.x:306 box.y:712 box.width:45 box.height:59
+box.x:248 box.y:94 box.width:53 box.height:75
+box.x:171 box.y:471 box.width:42 box.height:127
+box.x:256 box.y:273 box.width:38 box.height:61
+box.x:241 box.y:675 box.width:51 box.height:87
+box.x:356 box.y:607 box.width:45 box.height:129
+box.x:251 box.y:188 box.width:47 box.height:73
+box.x:414 box.y:604 box.width:45 box.height:80
+box.x:303 box.y:103 box.width:36 box.height:99
+box.x:384 box.y:199 box.width:53 box.height:88
+box.x:183 box.y:628 box.width:61 box.height:80
+box.x:122 box.y:502 box.width:34 box.height:60
+box.x:437 box.y:192 box.width:52 box.height:102
+box.x:290 box.y:595 box.width:58 box.height:45
+box.x:142 box.y:256 box.width:53 box.height:82
+box.x:355 box.y:99 box.width:71 box.height:71
+box.x:224 box.y:502 box.width:52 box.height:155
+../input_img/h05621.jpg
+Number of detections:7
+box.x:290 box.y:256 box.width:48 box.height:71
+box.x:83 box.y:318 box.width:42 box.height:55
+box.x:141 box.y:257 box.width:61 box.height:103
+box.x:84 box.y:261 box.width:22 box.height:49
+box.x:254 box.y:252 box.width:21 box.height:66
+box.x:210 box.y:253 box.width:27 box.height:97
+box.x:73 box.y:173 box.width:39 box.height:70
+../input_img/W00032Z.jpg
+Number of detections:15
+box.x:318 box.y:339 box.width:61 box.height:69
+box.x:197 box.y:260 box.width:40 box.height:74
+box.x:199 box.y:343 box.width:43 box.height:43
+box.x:191 box.y:172 box.width:51 box.height:73
+box.x:152 box.y:274 box.width:38 box.height:95
+box.x:96 box.y:203 box.width:41 box.height:81
+box.x:255 box.y:173 box.width:36 box.height:84
+box.x:357 box.y:147 box.width:39 box.height:92
+box.x:314 box.y:244 box.width:52 box.height:78
+box.x:148 box.y:187 box.width:36 box.height:64
+box.x:95 box.y:301 box.width:41 box.height:79
+box.x:369 box.y:245 box.width:40 box.height:47
+box.x:249 box.y:268 box.width:48 box.height:82
+box.x:388 box.y:350 box.width:25 box.height:40
+box.x:301 box.y:181 box.width:36 box.height:69
+../input_img/h05625.jpg
+Number of detections:27
+box.x:356 box.y:375 box.width:53 box.height:59
+box.x:379 box.y:203 box.width:41 box.height:74
+box.x:130 box.y:154 box.width:33 box.height:58
+box.x:430 box.y:190 box.width:53 box.height:86
+box.x:127 box.y:241 box.width:37 box.height:45
+box.x:87 box.y:295 box.width:34 box.height:49
+box.x:83 box.y:160 box.width:42 box.height:62
+box.x:316 box.y:452 box.width:35 box.height:34
+box.x:270 box.y:432 box.width:26 box.height:42
+box.x:310 box.y:249 box.width:43 box.height:54
+box.x:364 box.y:442 box.width:31 box.height:56
+box.x:237 box.y:394 box.width:35 box.height:27
+box.x:124 box.y:339 box.width:34 box.height:94
+box.x:224 box.y:202 box.width:27 box.height:43
+box.x:166 box.y:356 box.width:19 box.height:56
+box.x:87 box.y:251 box.width:30 box.height:23
+box.x:312 box.y:321 box.width:39 box.height:49
+box.x:318 box.y:393 box.width:20 box.height:39
+box.x:168 box.y:174 box.width:37 box.height:73
+box.x:102 box.y:104 box.width:16 box.height:47
+box.x:336 box.y:190 box.width:28 box.height:49
+box.x:241 box.y:439 box.width:21 box.height:37
+box.x:205 box.y:396 box.width:26 box.height:62
+box.x:193 box.y:472 box.width:45 box.height:29
+box.x:294 box.y:173 box.width:31 box.height:52
+box.x:441 box.y:423 box.width:22 box.height:66
+box.x:162 box.y:416 box.width:23 box.height:44
+../input_img/h05740.jpg
+Number of detections:6
+box.x:240 box.y:235 box.width:64 box.height:108
+box.x:243 box.y:371 box.width:59 box.height:127
+box.x:112 box.y:494 box.width:105 box.height:190
+box.x:244 box.y:512 box.width:50 box.height:67
+box.x:248 box.y:152 box.width:63 box.height:47
+box.x:309 box.y:604 box.width:44 box.height:31
+../input_img/h05681.jpg
+Number of detections:7
+box.x:30 box.y:94 box.width:26 box.height:48
+box.x:61 box.y:85 box.width:43 box.height:46
+box.x:31 box.y:196 box.width:36 box.height:61
+box.x:71 box.y:178 box.width:40 box.height:56
+box.x:181 box.y:70 box.width:34 box.height:22
+box.x:124 box.y:41 box.width:26 box.height:45
+box.x:32 box.y:56 box.width:28 box.height:28
+../input_img/W00047.jpg
+Number of detections:2
+box.x:141 box.y:292 box.width:34 box.height:54
+box.x:116 box.y:293 box.width:19 box.height:42
+../input_img/W00088.jpg
+Number of detections:3
+box.x:192 box.y:232 box.width:56 box.height:51
+box.x:137 box.y:233 box.width:40 box.height:51
+box.x:93 box.y:232 box.width:41 box.height:39
+../input_img/h05734Z.jpg
+Number of detections:10
+box.x:251 box.y:648 box.width:52 box.height:70
+box.x:382 box.y:622 box.width:60 box.height:124
+box.x:236 box.y:472 box.width:46 box.height:146
+box.x:384 box.y:486 box.width:60 box.height:91
+box.x:154 box.y:479 box.width:73 box.height:128
+box.x:310 box.y:484 box.width:54 box.height:67
+box.x:166 box.y:649 box.width:59 box.height:44
+box.x:309 box.y:556 box.width:55 box.height:89
+box.x:70 box.y:470 box.width:76 box.height:168
+box.x:316 box.y:653 box.width:45 box.height:102
+../input_img/W00118.jpg
+Number of detections:13
+box.x:115 box.y:278 box.width:48 box.height:103
+box.x:179 box.y:325 box.width:46 box.height:72
+box.x:122 box.y:402 box.width:52 box.height:86
+box.x:250 box.y:126 box.width:67 box.height:44
+box.x:167 box.y:137 box.width:51 box.height:100
+box.x:429 box.y:168 box.width:63 box.height:94
+box.x:173 box.y:264 box.width:59 box.height:43
+box.x:108 box.y:71 box.width:44 box.height:115
+box.x:372 box.y:165 box.width:52 box.height:84
+box.x:463 box.y:425 box.width:61 box.height:54
+box.x:108 box.y:194 box.width:38 box.height:49
+box.x:339 box.y:385 box.width:43 box.height:77
+box.x:233 box.y:444 box.width:51 box.height:33
+../input_img/W00011.jpg
+Number of detections:3
+box.x:128 box.y:76 box.width:56 box.height:62
+box.x:205 box.y:81 box.width:39 box.height:71
+box.x:117 box.y:156 box.width:42 box.height:56
+../input_img/h05701F.jpg
+Number of detections:3
+box.x:55 box.y:146 box.width:70 box.height:83
+box.x:58 box.y:242 box.width:65 box.height:70
+box.x:78 box.y:327 box.width:35 box.height:63
+../input_img/h05669Z.jpg
+Number of detections:4
+box.x:189 box.y:205 box.width:122 box.height:140
+box.x:81 box.y:161 box.width:86 box.height:193
+box.x:200 box.y:82 box.width:99 box.height:84
+box.x:81 box.y:76 box.width:71 box.height:68
+../input_img/W00165F.jpg
+Number of detections:2
+box.x:54 box.y:107 box.width:74 box.height:81
+box.x:154 box.y:57 box.width:70 box.height:47
+../input_img/h05655.jpg
+Number of detections:2
+box.x:88 box.y:121 box.width:68 box.height:113
+box.x:162 box.y:107 box.width:51 box.height:85
+../input_img/h05672.jpg
+Number of detections:3
+box.x:214 box.y:326 box.width:40 box.height:57
+box.x:281 box.y:334 box.width:34 box.height:83
+box.x:200 box.y:198 box.width:32 box.height:91
+../input_img/h05613.jpg
+Number of detections:5
+box.x:162 box.y:309 box.width:40 box.height:60
+box.x:158 box.y:519 box.width:46 box.height:60
+box.x:178 box.y:208 box.width:28 box.height:87
+box.x:177 box.y:391 box.width:30 box.height:57
+box.x:108 box.y:67 box.width:42 box.height:42
+../input_img/h05701Z.jpg
+Number of detections:2
+box.x:127 box.y:356 box.width:53 box.height:57
+box.x:280 box.y:361 box.width:61 box.height:47
+../input_img/W00143.jpg
+Number of detections:5
+box.x:167 box.y:168 box.width:70 box.height:71
+box.x:107 box.y:259 box.width:59 box.height:92
+box.x:89 box.y:205 box.width:59 box.height:48
+box.x:247 box.y:140 box.width:56 box.height:101
+box.x:81 box.y:127 box.width:57 box.height:75
+../input_img/W00127.jpg
+Number of detections:3
+box.x:59 box.y:116 box.width:49 box.height:113
+box.x:71 box.y:248 box.width:40 box.height:72
+box.x:71 box.y:43 box.width:58 box.height:65
+../input_img/h05590Z.jpg
+Number of detections:2
+box.x:116 box.y:316 box.width:45 box.height:69
+box.x:168 box.y:323 box.width:46 box.height:85
+../input_img/h05641.jpg
+Number of detections:4
+box.x:394 box.y:46 box.width:40 box.height:62
+box.x:339 box.y:51 box.width:34 box.height:84
+box.x:408 box.y:219 box.width:40 box.height:100
+box.x:346 box.y:239 box.width:34 box.height:87
+../input_img/h05668.jpg
+Number of detections:6
+box.x:73 box.y:67 box.width:61 box.height:94
+box.x:58 box.y:182 box.width:56 box.height:130
+box.x:161 box.y:119 box.width:39 box.height:103
+box.x:136 box.y:229 box.width:48 box.height:33
+box.x:295 box.y:213 box.width:40 box.height:22
+box.x:239 box.y:137 box.width:78 box.height:67
+../input_img/W00017.jpg
+Number of detections:5
+box.x:103 box.y:158 box.width:43 box.height:109
+box.x:161 box.y:103 box.width:28 box.height:44
+box.x:268 box.y:153 box.width:26 box.height:63
+box.x:170 box.y:168 box.width:67 box.height:88
+box.x:110 box.y:111 box.width:32 box.height:24
+../input_img/h05599Z.jpg
+Number of detections:2
+box.x:139 box.y:95 box.width:57 box.height:121
+box.x:59 box.y:101 box.width:64 box.height:88
+../input_img/W00089.jpg
+Number of detections:3
+box.x:172 box.y:119 box.width:77 box.height:110
+box.x:300 box.y:273 box.width:65 box.height:107
+box.x:289 box.y:156 box.width:50 box.height:97
+../input_img/h05654.jpg
+Number of detections:10
+box.x:1233 box.y:709 box.width:39 box.height:79
+box.x:1274 box.y:1482 box.width:53 box.height:59
+box.x:1258 box.y:1357 box.width:49 box.height:67
+box.x:1239 box.y:997 box.width:45 box.height:58
+box.x:915 box.y:1594 box.width:54 box.height:57
+box.x:1237 box.y:802 box.width:38 box.height:74
+box.x:1113 box.y:1618 box.width:55 box.height:64
+box.x:1234 box.y:1079 box.width:47 box.height:41
+box.x:1216 box.y:534 box.width:46 box.height:63
+box.x:1163 box.y:1385 box.width:60 box.height:86
+../input_img/h05661.jpg
+Number of detections:1
+box.x:81 box.y:75 box.width:43 box.height:76
+../input_img/h05722.jpg
+Number of detections:5
+box.x:124 box.y:123 box.width:47 box.height:57
+box.x:148 box.y:412 box.width:47 box.height:53
+box.x:125 box.y:198 box.width:33 box.height:66
+box.x:191 box.y:111 box.width:32 box.height:50
+box.x:99 box.y:482 box.width:23 box.height:44
+../input_img/W00052Z.jpg
+Number of detections:6
+box.x:127 box.y:96 box.width:57 box.height:106
+box.x:104 box.y:221 box.width:59 box.height:108
+box.x:198 box.y:171 box.width:42 box.height:86
+box.x:206 box.y:88 box.width:39 box.height:59
+box.x:258 box.y:95 box.width:48 box.height:72
+box.x:183 box.y:277 box.width:44 box.height:37
+../input_img/h05650.jpg
+Number of detections:9
+box.x:150 box.y:325 box.width:63 box.height:114
+box.x:235 box.y:304 box.width:51 box.height:129
+box.x:139 box.y:180 box.width:55 box.height:122
+box.x:217 box.y:189 box.width:73 box.height:93
+box.x:89 box.y:246 box.width:38 box.height:111
+box.x:89 box.y:373 box.width:32 box.height:60
+box.x:79 box.y:176 box.width:56 box.height:58
+box.x:304 box.y:239 box.width:51 box.height:61
+box.x:316 box.y:325 box.width:28 box.height:79
+../input_img/h05717GJ.jpg
+Number of detections:6
+box.x:314 box.y:235 box.width:41 box.height:68
+box.x:283 box.y:584 box.width:70 box.height:101
+box.x:235 box.y:337 box.width:50 box.height:88
+box.x:294 box.y:431 box.width:72 box.height:125
+box.x:302 box.y:425 box.width:64 box.height:72
+box.x:218 box.y:468 box.width:46 box.height:104
+../input_img/W00172.jpg
+Number of detections:6
+box.x:327 box.y:163 box.width:56 box.height:77
+box.x:272 box.y:233 box.width:52 box.height:56
+box.x:64 box.y:223 box.width:32 box.height:42
+box.x:270 box.y:174 box.width:39 box.height:52
+box.x:102 box.y:198 box.width:55 box.height:76
+box.x:332 box.y:277 box.width:40 box.height:58
+../input_img/W00134.jpg
+Number of detections:2
+box.x:79 box.y:90 box.width:58 box.height:111
+box.x:147 box.y:115 box.width:37 box.height:54
+../input_img/h05551Z.jpg
+Number of detections:9
+box.x:304 box.y:421 box.width:78 box.height:116
+box.x:186 box.y:72 box.width:69 box.height:95
+box.x:699 box.y:90 box.width:83 box.height:103
+box.x:302 box.y:306 box.width:54 box.height:72
+box.x:465 box.y:45 box.width:60 box.height:103
+box.x:570 box.y:156 box.width:86 box.height:82
+box.x:297 box.y:154 box.width:59 box.height:115
+box.x:272 box.y:57 box.width:71 box.height:52
+box.x:233 box.y:389 box.width:51 box.height:86
+../input_img/h05747.jpg
+Number of detections:7
+box.x:157 box.y:267 box.width:35 box.height:55
+box.x:247 box.y:347 box.width:26 box.height:60
+box.x:84 box.y:287 box.width:22 box.height:80
+box.x:156 box.y:180 box.width:42 box.height:76
+box.x:169 box.y:333 box.width:32 box.height:61
+box.x:216 box.y:195 box.width:60 box.height:69
+box.x:72 box.y:109 box.width:41 box.height:87
+../input_img/W00121.jpg
+Number of detections:2
+box.x:139 box.y:82 box.width:42 box.height:78
+box.x:93 box.y:78 box.width:33 box.height:61
+../input_img/W00163.jpg
+Number of detections:2
+box.x:71 box.y:255 box.width:84 box.height:127
+box.x:66 box.y:92 box.width:64 box.height:133
+../input_img/h05563.jpg
+Number of detections:3
+box.x:118 box.y:209 box.width:80 box.height:140
+box.x:129 box.y:366 box.width:59 box.height:55
+box.x:124 box.y:72 box.width:80 box.height:117
+../input_img/h05683.jpg
+Number of detections:4
+box.x:182 box.y:115 box.width:66 box.height:74
+box.x:197 box.y:295 box.width:48 box.height:101
+box.x:187 box.y:218 box.width:47 box.height:62
+box.x:275 box.y:329 box.width:35 box.height:103
+../input_img/h05703.jpg
+Number of detections:2
+box.x:58 box.y:215 box.width:48 box.height:65
+box.x:59 box.y:148 box.width:41 box.height:57
+../input_img/h05709Z.jpg
+Number of detections:8
+box.x:245 box.y:111 box.width:65 box.height:83
+box.x:268 box.y:228 box.width:46 box.height:82
+box.x:329 box.y:125 box.width:39 box.height:84
+box.x:179 box.y:186 box.width:55 box.height:130
+box.x:154 box.y:290 box.width:28 box.height:44
+box.x:132 box.y:199 box.width:37 box.height:70
+box.x:352 box.y:325 box.width:35 box.height:83
+box.x:169 box.y:99 box.width:60 box.height:67
+../input_img/h05669F.jpg
+Number of detections:2
+box.x:109 box.y:93 box.width:85 box.height:120
+box.x:237 box.y:59 box.width:87 box.height:86
+../input_img/W00087.jpg
+Number of detections:6
+box.x:154 box.y:196 box.width:58 box.height:45
+box.x:88 box.y:265 box.width:50 box.height:58
+box.x:156 box.y:133 box.width:50 box.height:46
+box.x:85 box.y:150 box.width:54 box.height:89
+box.x:153 box.y:68 box.width:51 box.height:52
+box.x:93 box.y:62 box.width:43 box.height:77
+../input_img/h05588.jpg
+Number of detections:2
+box.x:218 box.y:385 box.width:98 box.height:181
+box.x:95 box.y:419 box.width:86 box.height:183
+../input_img/h05550F.jpg
+Number of detections:2
+box.x:315 box.y:181 box.width:52 box.height:124
+box.x:340 box.y:339 box.width:50 box.height:144
+../input_img/h05603.jpg
+Number of detections:14
+box.x:143 box.y:140 box.width:39 box.height:63
+box.x:132 box.y:565 box.width:44 box.height:74
+box.x:129 box.y:478 box.width:40 box.height:76
+box.x:208 box.y:313 box.width:42 box.height:80
+box.x:149 box.y:363 box.width:47 box.height:83
+box.x:185 box.y:185 box.width:59 box.height:111
+box.x:179 box.y:484 box.width:33 box.height:48
+box.x:97 box.y:156 box.width:42 box.height:44
+box.x:182 box.y:545 box.width:28 box.height:56
+box.x:118 box.y:365 box.width:19 box.height:45
+box.x:151 box.y:268 box.width:26 box.height:78
+box.x:187 box.y:134 box.width:38 box.height:46
+box.x:112 box.y:223 box.width:23 box.height:98
+box.x:187 box.y:618 box.width:18 box.height:27
+../input_img/W00179.jpg
+Number of detections:3
+box.x:154 box.y:124 box.width:96 box.height:180
+box.x:224 box.y:341 box.width:73 box.height:74
+box.x:54 box.y:167 box.width:81 box.height:82
+../input_img/W00055.jpg
+Number of detections:2
+box.x:72 box.y:89 box.width:54 box.height:76
+box.x:123 box.y:63 box.width:33 box.height:81
+../input_img/W00117Z.jpg
+Number of detections:3
+box.x:107 box.y:63 box.width:69 box.height:129
+box.x:46 box.y:88 box.width:57 box.height:74
+box.x:181 box.y:51 box.width:79 box.height:106
+../input_img/h05713F.jpg
+Number of detections:2
+box.x:71 box.y:19 box.width:88 box.height:141
+box.x:62 box.y:216 box.width:94 box.height:150
+../input_img/W00010.jpg
+Number of detections:3
+box.x:174 box.y:92 box.width:34 box.height:88
+box.x:118 box.y:114 box.width:47 box.height:84
+box.x:105 box.y:28 box.width:33 box.height:68
+../input_img/h05627.jpg
+Number of detections:5
+box.x:89 box.y:207 box.width:33 box.height:61
+box.x:138 box.y:152 box.width:24 box.height:67
+box.x:270 box.y:162 box.width:21 box.height:38
+box.x:203 box.y:187 box.width:45 box.height:57
+box.x:253 box.y:131 box.width:26 box.height:21
+../input_img/W00107.jpg
+Number of detections:3
+box.x:154 box.y:106 box.width:42 box.height:36
+box.x:90 box.y:101 box.width:20 box.height:75
+box.x:81 box.y:51 box.width:32 box.height:35
+../input_img/W00115.jpg
+Number of detections:4
+box.x:83 box.y:45 box.width:48 box.height:95
+box.x:32 box.y:97 box.width:47 box.height:109
+box.x:144 box.y:71 box.width:36 box.height:74
+box.x:85 box.y:171 box.width:28 box.height:45
+../input_img/W00080.jpg
+Number of detections:4
+box.x:233 box.y:379 box.width:68 box.height:81
+box.x:318 box.y:385 box.width:64 box.height:77
+box.x:169 box.y:444 box.width:51 box.height:38
+box.x:312 box.y:146 box.width:54 box.height:120
+../input_img/h05693.jpg
+Number of detections:4
+box.x:28 box.y:46 box.width:44 box.height:69
+box.x:84 box.y:46 box.width:39 box.height:63
+box.x:22 box.y:136 box.width:53 box.height:52
+box.x:98 box.y:117 box.width:26 box.height:37
+../input_img/h05709GJ.jpg
+Number of detections:1
+box.x:115 box.y:290 box.width:47 box.height:92
+../input_img/W00104.jpg
+Number of detections:6
+box.x:158 box.y:84 box.width:37 box.height:55
+box.x:198 box.y:106 box.width:36 box.height:52
+box.x:159 box.y:175 box.width:43 box.height:65
+box.x:240 box.y:126 box.width:37 box.height:43
+box.x:102 box.y:142 box.width:28 box.height:47
+box.x:218 box.y:183 box.width:35 box.height:34
+../input_img/W00012.jpg
+Number of detections:4
+box.x:40 box.y:160 box.width:61 box.height:95
+box.x:106 box.y:124 box.width:50 box.height:116
+box.x:183 box.y:153 box.width:37 box.height:94
+box.x:126 box.y:264 box.width:44 box.height:65
+../input_img/h05571Z.jpg
+Number of detections:6
+box.x:418 box.y:334 box.width:54 box.height:104
+box.x:343 box.y:323 box.width:60 box.height:103
+box.x:319 box.y:454 box.width:89 box.height:127
+box.x:249 box.y:319 box.width:43 box.height:116
+box.x:286 box.y:621 box.width:58 box.height:25
+box.x:417 box.y:451 box.width:43 box.height:129
+../input_img/h05719.jpg
+Number of detections:10
+box.x:183 box.y:691 box.width:64 box.height:82
+box.x:94 box.y:567 box.width:73 box.height:164
+box.x:165 box.y:224 box.width:52 box.height:80
+box.x:183 box.y:546 box.width:47 box.height:122
+box.x:183 box.y:403 box.width:42 box.height:113
+box.x:98 box.y:337 box.width:52 box.height:75
+box.x:103 box.y:220 box.width:50 box.height:97
+box.x:176 box.y:319 box.width:48 box.height:72
+box.x:53 box.y:427 box.width:55 box.height:85
+box.x:128 box.y:450 box.width:46 box.height:67
+../input_img/W00186.jpg
+Number of detections:3
+box.x:138 box.y:129 box.width:60 box.height:40
+box.x:210 box.y:93 box.width:38 box.height:77
+box.x:152 box.y:83 box.width:29 box.height:43
+../input_img/W00086.jpg
+Number of detections:4
+box.x:97 box.y:99 box.width:34 box.height:81
+box.x:135 box.y:125 box.width:47 box.height:44
+box.x:140 box.y:73 box.width:28 box.height:36
+box.x:92 box.y:50 box.width:37 box.height:37
+../input_img/h05741.jpg
+Number of detections:4
+box.x:174 box.y:153 box.width:30 box.height:77
+box.x:447 box.y:184 box.width:44 box.height:84
+box.x:134 box.y:151 box.width:23 box.height:28
+box.x:129 box.y:201 box.width:30 box.height:26
+../input_img/W00028.jpg
+Number of detections:3
+box.x:165 box.y:145 box.width:44 box.height:98
+box.x:99 box.y:140 box.width:46 box.height:83
+box.x:249 box.y:164 box.width:31 box.height:48
+../input_img/h05667.jpg
+Number of detections:7
+box.x:269 box.y:365 box.width:66 box.height:125
+box.x:189 box.y:370 box.width:64 box.height:126
+box.x:287 box.y:244 box.width:55 box.height:83
+box.x:203 box.y:223 box.width:64 box.height:136
+box.x:121 box.y:226 box.width:62 box.height:70
+box.x:129 box.y:366 box.width:41 box.height:93
+box.x:250 box.y:520 box.width:47 box.height:28
+../input_img/W00068.jpg
+Number of detections:4
+box.x:111 box.y:124 box.width:37 box.height:63
+box.x:154 box.y:76 box.width:36 box.height:78
+box.x:68 box.y:119 box.width:40 box.height:55
+box.x:112 box.y:77 box.width:30 box.height:32
+../input_img/h05708Z.jpg
+Number of detections:29
+box.x:461 box.y:286 box.width:48 box.height:62
+box.x:344 box.y:94 box.width:59 box.height:104
+box.x:580 box.y:416 box.width:45 box.height:63
+box.x:586 box.y:607 box.width:61 box.height:72
+box.x:241 box.y:259 box.width:43 box.height:68
+box.x:340 box.y:400 box.width:47 box.height:74
+box.x:229 box.y:480 box.width:54 box.height:100
+box.x:646 box.y:500 box.width:41 box.height:100
+box.x:353 box.y:482 box.width:65 box.height:87
+box.x:407 box.y:300 box.width:50 box.height:74
+box.x:234 box.y:364 box.width:61 box.height:96
+box.x:657 box.y:622 box.width:41 box.height:71
+box.x:591 box.y:500 box.width:34 box.height:88
+box.x:290 box.y:469 box.width:59 box.height:118
+box.x:412 box.y:156 box.width:56 box.height:126
+box.x:641 box.y:409 box.width:39 box.height:58
+box.x:336 box.y:273 box.width:64 box.height:115
+box.x:396 box.y:390 box.width:43 box.height:96
+box.x:297 box.y:196 box.width:36 box.height:69
+box.x:236 box.y:82 box.width:41 box.height:78
+box.x:246 box.y:176 box.width:40 box.height:70
+box.x:459 box.y:362 box.width:33 box.height:34
+box.x:292 box.y:120 box.width:36 box.height:56
+box.x:477 box.y:171 box.width:30 box.height:51
+box.x:469 box.y:412 box.width:22 box.height:87
+box.x:477 box.y:238 box.width:21 box.height:35
+box.x:181 box.y:524 box.width:27 box.height:49
+box.x:443 box.y:72 box.width:31 box.height:33
+box.x:438 box.y:116 box.width:28 box.height:29
+../input_img/h05604.jpg
+Number of detections:7
+box.x:78 box.y:200 box.width:49 box.height:46
+box.x:130 box.y:317 box.width:35 box.height:78
+box.x:194 box.y:306 box.width:36 box.height:74
+box.x:160 box.y:143 box.width:89 box.height:123
+box.x:87 box.y:350 box.width:19 box.height:29
+box.x:128 box.y:190 box.width:28 box.height:109
+box.x:91 box.y:268 box.width:23 box.height:61
+../input_img/W00170Z.jpg
+Number of detections:2
+box.x:165 box.y:164 box.width:86 box.height:125
+box.x:198 box.y:123 box.width:79 box.height:27
+../input_img/h05551GJ.jpg
+Number of detections:0
+../input_img/h05734F.jpg
+Number of detections:3
+box.x:452 box.y:246 box.width:59 box.height:124
+box.x:431 box.y:379 box.width:76 box.height:53
+box.x:427 box.y:444 box.width:71 box.height:92
+../input_img/h05705.jpg
+Number of detections:2
+box.x:86 box.y:152 box.width:46 box.height:58
+box.x:145 box.y:158 box.width:18 box.height:48
+../input_img/h05568Z.jpg
+Number of detections:4
+box.x:99 box.y:349 box.width:40 box.height:73
+box.x:100 box.y:253 box.width:45 box.height:78
+box.x:87 box.y:147 box.width:42 box.height:75
+box.x:179 box.y:291 box.width:43 box.height:98
+../input_img/W00132.jpg
+Number of detections:1
+box.x:141 box.y:141 box.width:33 box.height:65
+../input_img/h05678.jpg
+Number of detections:6
+box.x:216 box.y:140 box.width:51 box.height:118
+box.x:97 box.y:165 box.width:42 box.height:56
+box.x:53 box.y:156 box.width:32 box.height:44
+box.x:158 box.y:252 box.width:39 box.height:31
+box.x:78 box.y:271 box.width:40 box.height:55
+box.x:153 box.y:134 box.width:55 box.height:109
+../input_img/W00019.jpg
+Number of detections:5
+box.x:230 box.y:181 box.width:36 box.height:63
+box.x:137 box.y:385 box.width:58 box.height:76
+box.x:172 box.y:176 box.width:53 box.height:66
+box.x:177 box.y:135 box.width:38 box.height:37
+box.x:126 box.y:145 box.width:45 box.height:77
+../input_img/h05618.jpg
+Number of detections:16
+box.x:146 box.y:910 box.width:40 box.height:69
+box.x:109 box.y:449 box.width:60 box.height:65
+box.x:105 box.y:914 box.width:34 box.height:76
+box.x:133 box.y:153 box.width:46 box.height:65
+box.x:114 box.y:1151 box.width:45 box.height:66
+box.x:248 box.y:895 box.width:42 box.height:72
+box.x:212 box.y:904 box.width:30 box.height:58
+box.x:173 box.y:214 box.width:35 box.height:76
+box.x:209 box.y:755 box.width:39 box.height:82
+box.x:145 box.y:986 box.width:33 box.height:98
+box.x:151 box.y:743 box.width:52 box.height:102
+box.x:249 box.y:1147 box.width:35 box.height:59
+box.x:199 box.y:644 box.width:46 box.height:100
+box.x:189 box.y:460 box.width:34 box.height:117
+box.x:151 box.y:1089 box.width:52 box.height:47
+box.x:108 box.y:994 box.width:26 box.height:40
+../input_img/W00116.jpg
+Number of detections:4
+box.x:86 box.y:125 box.width:49 box.height:70
+box.x:145 box.y:138 box.width:44 box.height:72
+box.x:84 box.y:38 box.width:57 box.height:77
+box.x:151 box.y:31 box.width:48 box.height:94
+../input_img/h05573.jpg
+Number of detections:2
+box.x:104 box.y:136 box.width:68 box.height:153
+box.x:113 box.y:56 box.width:54 box.height:60
+../input_img/h05656.jpg
+Number of detections:2
+box.x:68 box.y:87 box.width:39 box.height:51
+box.x:35 box.y:79 box.width:29 box.height:71
+../input_img/W00065.jpg
+Number of detections:6
+box.x:100 box.y:179 box.width:43 box.height:62
+box.x:180 box.y:260 box.width:43 box.height:38
+box.x:181 box.y:144 box.width:35 box.height:82
+box.x:145 box.y:75 box.width:50 box.height:63
+box.x:93 box.y:93 box.width:39 box.height:55
+box.x:109 box.y:268 box.width:27 box.height:41
+../input_img/h05617.jpg
+Number of detections:9
+box.x:356 box.y:641 box.width:40 box.height:82
+box.x:344 box.y:527 box.width:45 box.height:62
+box.x:313 box.y:885 box.width:36 box.height:59
+box.x:379 box.y:728 box.width:35 box.height:49
+box.x:353 box.y:865 box.width:32 box.height:59
+box.x:315 box.y:826 box.width:30 box.height:47
+box.x:340 box.y:737 box.width:28 box.height:46
+box.x:393 box.y:860 box.width:43 box.height:83
+box.x:299 box.y:753 box.width:31 box.height:46
+../input_img/h05564.jpg
+Number of detections:4
+box.x:140 box.y:405 box.width:50 box.height:135
+box.x:81 box.y:356 box.width:44 box.height:149
+box.x:72 box.y:166 box.width:53 box.height:70
+box.x:163 box.y:108 box.width:54 box.height:112
+../input_img/W00032F.jpg
+Number of detections:2
+box.x:297 box.y:108 box.width:65 box.height:103
+box.x:92 box.y:221 box.width:78 box.height:85
+../input_img/h05548.jpg
+Number of detections:6
+box.x:90 box.y:142 box.width:47 box.height:53
+box.x:199 box.y:122 box.width:33 box.height:44
+box.x:201 box.y:184 box.width:29 box.height:66
+box.x:143 box.y:184 box.width:35 box.height:37
+box.x:150 box.y:121 box.width:36 box.height:53
+box.x:64 box.y:142 box.width:23 box.height:50
+../input_img/h05552F.jpg
+Number of detections:0
+../input_img/W00147.jpg
+Number of detections:2
+box.x:99 box.y:101 box.width:68 box.height:95
+box.x:56 box.y:107 box.width:33 box.height:70
+../input_img/h05595.jpg
+Number of detections:9
+box.x:251 box.y:64 box.width:43 box.height:75
+box.x:114 box.y:153 box.width:40 box.height:56
+box.x:119 box.y:76 box.width:36 box.height:42
+box.x:216 box.y:159 box.width:41 box.height:46
+box.x:262 box.y:167 box.width:40 box.height:73
+box.x:206 box.y:48 box.width:40 box.height:81
+box.x:159 box.y:140 box.width:45 box.height:101
+box.x:167 box.y:56 box.width:32 box.height:60
+box.x:44 box.y:151 box.width:52 box.height:34
+../input_img/h05715.jpg
+Number of detections:16
+box.x:177 box.y:241 box.width:52 box.height:133
+box.x:249 box.y:273 box.width:53 box.height:81
+box.x:391 box.y:186 box.width:69 box.height:118
+box.x:348 box.y:269 box.width:46 box.height:71
+box.x:346 box.y:100 box.width:37 box.height:65
+box.x:260 box.y:85 box.width:53 box.height:92
+box.x:469 box.y:146 box.width:58 box.height:75
+box.x:349 box.y:193 box.width:27 box.height:51
+box.x:393 box.y:96 box.width:38 box.height:80
+box.x:191 box.y:89 box.width:43 box.height:137
+box.x:98 box.y:213 box.width:69 box.height:102
+box.x:219 box.y:373 box.width:41 box.height:25
+box.x:264 box.y:205 box.width:28 box.height:39
+box.x:193 box.y:7 box.width:50 box.height:56
+box.x:449 box.y:44 box.width:52 box.height:69
+box.x:390 box.y:21 box.width:46 box.height:38
+../input_img/W00185.jpg
+Number of detections:2
+box.x:169 box.y:89 box.width:43 box.height:93
+box.x:54 box.y:155 box.width:45 box.height:30
+../input_img/h05557.jpg
+Number of detections:3
+box.x:195 box.y:199 box.width:79 box.height:149
+box.x:99 box.y:174 box.width:49 box.height:153
+box.x:142 box.y:357 box.width:54 box.height:19
+../input_img/W00102Z.jpg
+Number of detections:2
+box.x:67 box.y:52 box.width:38 box.height:110
+box.x:112 box.y:38 box.width:51 box.height:61
+../input_img/W00184.jpg
+Number of detections:3
+box.x:46 box.y:69 box.width:41 box.height:75
+box.x:90 box.y:94 box.width:42 box.height:83
+box.x:144 box.y:98 box.width:37 box.height:79
+../input_img/W00024Z.jpg
+Number of detections:2
+box.x:135 box.y:223 box.width:40 box.height:78
+box.x:274 box.y:350 box.width:62 box.height:60
+../input_img/h05662.jpg
+Number of detections:3
+box.x:162 box.y:33 box.width:45 box.height:80
+box.x:165 box.y:117 box.width:38 box.height:88
+box.x:157 box.y:214 box.width:42 box.height:51
+../input_img/W00098F.jpg
+Number of detections:1
+box.x:335 box.y:566 box.width:53 box.height:106
+../input_img/W00102F.jpg
+Number of detections:2
+box.x:126 box.y:105 box.width:55 box.height:56
+box.x:110 box.y:187 box.width:61 box.height:51
+../input_img/h05637Z.jpg
+Number of detections:38
+box.x:2148 box.y:1342 box.width:73 box.height:113
+box.x:1896 box.y:454 box.width:73 box.height:111
+box.x:2002 box.y:1403 box.width:57 box.height:85
+box.x:606 box.y:1365 box.width:63 box.height:111
+box.x:605 box.y:2140 box.width:80 box.height:99
+box.x:1235 box.y:2816 box.width:71 box.height:77
+box.x:2060 box.y:2546 box.width:64 box.height:92
+box.x:724 box.y:2662 box.width:93 box.height:117
+box.x:1998 box.y:1309 box.width:65 box.height:85
+box.x:2071 box.y:1348 box.width:67 box.height:97
+box.x:1963 box.y:776 box.width:63 box.height:134
+box.x:1323 box.y:2817 box.width:61 box.height:69
+box.x:618 box.y:799 box.width:73 box.height:132
+box.x:1759 box.y:610 box.width:68 box.height:90
+box.x:1437 box.y:2623 box.width:58 box.height:93
+box.x:1506 box.y:2633 box.width:55 box.height:70
+box.x:2118 box.y:2106 box.width:63 box.height:97
+box.x:1995 box.y:2025 box.width:83 box.height:94
+box.x:1822 box.y:478 box.width:65 box.height:104
+box.x:726 box.y:501 box.width:73 box.height:99
+box.x:717 box.y:609 box.width:77 box.height:107
+box.x:422 box.y:1413 box.width:88 box.height:122
+box.x:2119 box.y:2015 box.width:56 box.height:78
+box.x:642 box.y:612 box.width:64 box.height:101
+box.x:2083 box.y:1471 box.width:53 box.height:95
+box.x:1999 box.y:1497 box.width:65 box.height:114
+box.x:660 box.y:495 box.width:60 box.height:97
+box.x:709 box.y:738 box.width:66 box.height:108
+box.x:1844 box.y:589 box.width:68 box.height:100
+box.x:1916 box.y:585 box.width:70 box.height:108
+box.x:2153 box.y:1466 box.width:79 box.height:123
+box.x:1673 box.y:554 box.width:73 box.height:109
+box.x:1882 box.y:707 box.width:67 box.height:136
+box.x:837 box.y:2638 box.width:95 box.height:104
+box.x:610 box.y:1488 box.width:83 box.height:135
+box.x:586 box.y:2040 box.width:74 box.height:96
+box.x:1298 box.y:2642 box.width:79 box.height:63
+box.x:710 box.y:2586 box.width:71 box.height:67
+../input_img/W00146.jpg
+Number of detections:4
+box.x:97 box.y:97 box.width:57 box.height:115
+box.x:175 box.y:200 box.width:40 box.height:40
+box.x:228 box.y:143 box.width:37 box.height:76
+box.x:194 box.y:125 box.width:32 box.height:65
+../input_img/h05649.jpg
+Number of detections:10
+box.x:404 box.y:76 box.width:64 box.height:78
+box.x:321 box.y:161 box.width:67 box.height:53
+box.x:425 box.y:163 box.width:52 box.height:86
+box.x:337 box.y:234 box.width:62 box.height:100
+box.x:236 box.y:206 box.width:56 box.height:80
+box.x:319 box.y:88 box.width:60 box.height:53
+box.x:165 box.y:161 box.width:43 box.height:58
+box.x:59 box.y:224 box.width:54 box.height:84
+box.x:442 box.y:266 box.width:28 box.height:50
+box.x:145 box.y:249 box.width:38 box.height:75
+../input_img/h05697.jpg
+Number of detections:3
+box.x:43 box.y:169 box.width:33 box.height:50
+box.x:100 box.y:135 box.width:29 box.height:74
+box.x:152 box.y:82 box.width:32 box.height:36
+../input_img/W00126.jpg
+Number of detections:4
+box.x:166 box.y:97 box.width:29 box.height:77
+box.x:121 box.y:79 box.width:39 box.height:61
+box.x:120 box.y:149 box.width:39 box.height:32
+box.x:203 box.y:94 box.width:37 box.height:69
+../input_img/h05673.jpg
+Number of detections:7
+box.x:261 box.y:241 box.width:25 box.height:85
+box.x:305 box.y:228 box.width:33 box.height:85
+box.x:258 box.y:185 box.width:33 box.height:46
+box.x:224 box.y:183 box.width:27 box.height:67
+box.x:232 box.y:264 box.width:16 box.height:32
+box.x:305 box.y:150 box.width:25 box.height:56
+box.x:353 box.y:140 box.width:20 box.height:61
+../input_img/h05582.jpg
+Number of detections:7
+box.x:280 box.y:403 box.width:44 box.height:50
+box.x:480 box.y:494 box.width:52 box.height:68
+box.x:490 box.y:371 box.width:56 box.height:87
+box.x:476 box.y:573 box.width:54 box.height:109
+box.x:417 box.y:481 box.width:35 box.height:90
+box.x:427 box.y:265 box.width:48 box.height:89
+box.x:88 box.y:213 box.width:43 box.height:26
+../input_img/W00130.jpg
+Number of detections:8
+box.x:148 box.y:165 box.width:28 box.height:48
+box.x:170 box.y:99 box.width:48 box.height:70
+box.x:173 box.y:189 box.width:33 box.height:77
+box.x:357 box.y:104 box.width:41 box.height:74
+box.x:95 box.y:216 box.width:26 box.height:44
+box.x:89 box.y:139 box.width:52 box.height:73
+box.x:414 box.y:150 box.width:32 box.height:51
+box.x:406 box.y:208 box.width:46 box.height:60
+../input_img/W00141.jpg
+Number of detections:1
+box.x:107 box.y:614 box.width:55 box.height:94
+../input_img/h05676.jpg
+Number of detections:4
+box.x:149 box.y:509 box.width:62 box.height:133
+box.x:106 box.y:497 box.width:45 box.height:84
+box.x:338 box.y:602 box.width:64 box.height:65
+box.x:261 box.y:567 box.width:53 box.height:63
+../input_img/h05726.jpg
+Number of detections:5
+box.x:220 box.y:169 box.width:44 box.height:78
+box.x:214 box.y:273 box.width:48 box.height:108
+box.x:224 box.y:406 box.width:37 box.height:104
+box.x:589 box.y:436 box.width:44 box.height:50
+box.x:288 box.y:165 box.width:73 box.height:86
+../input_img/h05638F.jpg
+Number of detections:0
+../input_img/W00171.jpg
+Number of detections:2
+box.x:128 box.y:203 box.width:81 box.height:77
+box.x:151 box.y:91 box.width:59 box.height:74
+../input_img/W00164.jpg
+Number of detections:6
+box.x:203 box.y:115 box.width:42 box.height:64
+box.x:130 box.y:97 box.width:35 box.height:51
+box.x:81 box.y:68 box.width:38 box.height:59
+box.x:170 box.y:154 box.width:28 box.height:23
+box.x:172 box.y:125 box.width:20 box.height:29
+box.x:55 box.y:101 box.width:24 box.height:44
+../input_img/h05684.jpg
+Number of detections:22
+box.x:441 box.y:871 box.width:36 box.height:56
+box.x:348 box.y:610 box.width:38 box.height:67
+box.x:429 box.y:757 box.width:45 box.height:64
+box.x:67 box.y:276 box.width:47 box.height:67
+box.x:616 box.y:584 box.width:34 box.height:52
+box.x:441 box.y:684 box.width:30 box.height:54
+box.x:67 box.y:509 box.width:45 box.height:94
+box.x:522 box.y:575 box.width:35 box.height:74
+box.x:527 box.y:769 box.width:25 box.height:75
+box.x:75 box.y:370 box.width:38 box.height:112
+box.x:475 box.y:561 box.width:40 box.height:71
+box.x:568 box.y:589 box.width:39 box.height:76
+box.x:569 box.y:759 box.width:38 box.height:64
+box.x:336 box.y:794 box.width:38 box.height:41
+box.x:447 box.y:635 box.width:21 box.height:33
+box.x:393 box.y:780 box.width:29 box.height:64
+box.x:388 box.y:878 box.width:36 box.height:52
+box.x:401 box.y:684 box.width:33 box.height:51
+box.x:401 box.y:540 box.width:29 box.height:76
+box.x:435 box.y:535 box.width:31 box.height:85
+box.x:350 box.y:551 box.width:35 box.height:44
+box.x:617 box.y:641 box.width:29 box.height:70
+../input_img/W00167.jpg
+Number of detections:4
+box.x:108 box.y:59 box.width:33 box.height:44
+box.x:117 box.y:108 box.width:39 box.height:81
+box.x:163 box.y:84 box.width:18 box.height:61
+box.x:202 box.y:70 box.width:29 box.height:75
+../input_img/W00154.jpg
+Number of detections:3
+box.x:188 box.y:58 box.width:44 box.height:93
+box.x:70 box.y:63 box.width:54 box.height:76
+box.x:137 box.y:100 box.width:52 box.height:75
+../input_img/h05602.jpg
+Number of detections:2
+box.x:204 box.y:197 box.width:87 box.height:81
+box.x:228 box.y:306 box.width:55 box.height:145
+../input_img/h05597.jpg
+Number of detections:8
+box.x:173 box.y:1216 box.width:42 box.height:70
+box.x:221 box.y:1217 box.width:42 box.height:63
+box.x:232 box.y:1300 box.width:40 box.height:78
+box.x:194 box.y:518 box.width:49 box.height:75
+box.x:129 box.y:1220 box.width:41 box.height:88
+box.x:193 box.y:1088 box.width:41 box.height:68
+box.x:169 box.y:1314 box.width:56 box.height:91
+box.x:169 box.y:336 box.width:52 box.height:75
+../input_img/W00009.jpg
+Number of detections:3
+box.x:86 box.y:111 box.width:44 box.height:89
+box.x:181 box.y:59 box.width:44 box.height:69
+box.x:167 box.y:181 box.width:38 box.height:55
+../input_img/W00067F.jpg
+Number of detections:2
+box.x:121 box.y:229 box.width:44 box.height:72
+box.x:193 box.y:234 box.width:43 box.height:41
+../input_img/W00079Z.jpg
+Number of detections:3
+box.x:120 box.y:82 box.width:60 box.height:100
+box.x:79 box.y:97 box.width:30 box.height:72
+box.x:70 box.y:226 box.width:44 box.height:55
+../input_img/W00173.jpg
+Number of detections:4
+box.x:71 box.y:93 box.width:25 box.height:91
+box.x:93 box.y:163 box.width:33 box.height:42
+box.x:108 box.y:51 box.width:25 box.height:82
+box.x:70 box.y:45 box.width:36 box.height:41
+../input_img/W00177.jpg
+Number of detections:1
+box.x:79 box.y:222 box.width:36 box.height:63
+../input_img/h05611Z.jpg
+Number of detections:39
+box.x:792 box.y:700 box.width:93 box.height:103
+box.x:665 box.y:827 box.width:84 box.height:151
+box.x:909 box.y:881 box.width:96 box.height:133
+box.x:796 box.y:817 box.width:90 box.height:146
+box.x:446 box.y:1968 box.width:72 box.height:76
+box.x:556 box.y:862 box.width:102 box.height:121
+box.x:669 box.y:701 box.width:80 box.height:104
+box.x:211 box.y:862 box.width:79 box.height:94
+box.x:1038 box.y:911 box.width:88 box.height:164
+box.x:229 box.y:988 box.width:69 box.height:120
+box.x:599 box.y:1497 box.width:50 box.height:54
+box.x:1115 box.y:757 box.width:73 box.height:191
+box.x:873 box.y:1496 box.width:54 box.height:52
+box.x:302 box.y:1795 box.width:87 box.height:113
+box.x:503 box.y:2149 box.width:63 box.height:56
+box.x:662 box.y:2103 box.width:64 box.height:103
+box.x:480 box.y:876 box.width:66 box.height:119
+box.x:109 box.y:846 box.width:88 box.height:67
+box.x:1272 box.y:781 box.width:70 box.height:83
+box.x:341 box.y:1918 box.width:82 box.height:102
+box.x:384 box.y:719 box.width:89 box.height:98
+box.x:253 box.y:504 box.width:83 box.height:111
+box.x:296 box.y:724 box.width:86 box.height:196
+box.x:1088 box.y:1315 box.width:57 box.height:52
+box.x:541 box.y:2215 box.width:48 box.height:57
+box.x:1162 box.y:1802 box.width:61 box.height:98
+box.x:1372 box.y:914 box.width:77 box.height:139
+box.x:1262 box.y:955 box.width:81 box.height:69
+box.x:130 box.y:1063 box.width:77 box.height:105
+box.x:1093 box.y:1961 box.width:65 box.height:103
+box.x:807 box.y:1494 box.width:53 box.height:59
+box.x:1273 box.y:874 box.width:61 box.height:71
+box.x:477 box.y:696 box.width:83 box.height:163
+box.x:1102 box.y:1134 box.width:72 box.height:49
+box.x:235 box.y:632 box.width:62 box.height:89
+box.x:608 box.y:2145 box.width:54 box.height:87
+box.x:139 box.y:934 box.width:57 box.height:58
+box.x:377 box.y:873 box.width:77 box.height:176
+box.x:368 box.y:1110 box.width:65 box.height:49
+../input_img/h05632.jpg
+Number of detections:2
+box.x:183 box.y:218 box.width:38 box.height:57
+box.x:220 box.y:198 box.width:40 box.height:83
+../input_img/W00093Z.jpg
+Number of detections:2
+box.x:95 box.y:189 box.width:61 box.height:76
+box.x:110 box.y:277 box.width:72 box.height:34
+../input_img/W00018.jpg
+Number of detections:3
+box.x:308 box.y:359 box.width:77 box.height:110
+box.x:146 box.y:347 box.width:56 box.height:93
+box.x:336 box.y:262 box.width:46 box.height:70
+../input_img/h05629F.jpg
+Number of detections:1
+box.x:24 box.y:281 box.width:51 box.height:67
+../input_img/h05674Z.jpg
+Number of detections:4
+box.x:69 box.y:196 box.width:84 box.height:199
+box.x:70 box.y:417 box.width:90 box.height:152
+box.x:56 box.y:64 box.width:113 box.height:96
+box.x:181 box.y:189 box.width:73 box.height:167
+../input_img/h05643.jpg
+Number of detections:3
+box.x:92 box.y:176 box.width:55 box.height:109
+box.x:177 box.y:133 box.width:61 box.height:78
+box.x:253 box.y:120 box.width:64 box.height:171
+../input_img/h05700.jpg
+Number of detections:3
+box.x:191 box.y:104 box.width:51 box.height:32
+box.x:199 box.y:152 box.width:42 box.height:50
+box.x:123 box.y:176 box.width:64 box.height:57
+../input_img/W00112.jpg
+Number of detections:4
+box.x:142 box.y:145 box.width:49 box.height:74
+box.x:89 box.y:123 box.width:36 box.height:92
+box.x:42 box.y:118 box.width:36 box.height:67
+box.x:139 box.y:240 box.width:45 box.height:52
+../input_img/W00114.jpg
+Number of detections:2
+box.x:117 box.y:165 box.width:35 box.height:67
+box.x:53 box.y:174 box.width:36 box.height:75
+../input_img/h05642.jpg
+Number of detections:5
+box.x:166 box.y:247 box.width:37 box.height:62
+box.x:107 box.y:240 box.width:36 box.height:82
+box.x:161 box.y:341 box.width:27 box.height:57
+box.x:112 box.y:142 box.width:34 box.height:73
+box.x:130 box.y:413 box.width:55 box.height:42
+../input_img/W00076.jpg
+Number of detections:4
+box.x:138 box.y:88 box.width:42 box.height:74
+box.x:190 box.y:155 box.width:48 box.height:62
+box.x:56 box.y:77 box.width:55 box.height:61
+box.x:124 box.y:167 box.width:24 box.height:84
+../input_img/W00108.jpg
+Number of detections:2
+box.x:118 box.y:133 box.width:59 box.height:116
+box.x:180 box.y:113 box.width:50 box.height:96
+../input_img/h05629Z.jpg
+Number of detections:1
+box.x:136 box.y:264 box.width:31 box.height:69
+../input_img/h05695.jpg
+Number of detections:6
+box.x:235 box.y:151 box.width:44 box.height:59
+box.x:286 box.y:47 box.width:35 box.height:40
+box.x:195 box.y:232 box.width:36 box.height:22
+box.x:280 box.y:92 box.width:59 box.height:60
+box.x:280 box.y:212 box.width:39 box.height:52
+box.x:297 box.y:171 box.width:28 box.height:36
+../input_img/h05658Z.jpg
+Number of detections:41
+box.x:1888 box.y:914 box.width:85 box.height:91
+box.x:1054 box.y:1278 box.width:69 box.height:78
+box.x:1871 box.y:589 box.width:74 box.height:122
+box.x:1605 box.y:1525 box.width:53 box.height:83
+box.x:1783 box.y:640 box.width:85 box.height:88
+box.x:1070 box.y:2990 box.width:50 box.height:57
+box.x:1259 box.y:455 box.width:79 box.height:109
+box.x:1270 box.y:1083 box.width:63 box.height:81
+box.x:1442 box.y:855 box.width:60 box.height:102
+box.x:1825 box.y:1170 box.width:59 box.height:68
+box.x:1288 box.y:1473 box.width:61 box.height:74
+box.x:1201 box.y:1449 box.width:49 box.height:74
+box.x:1911 box.y:1036 box.width:70 box.height:128
+box.x:1196 box.y:569 box.width:62 box.height:107
+box.x:1270 box.y:586 box.width:68 box.height:116
+box.x:1534 box.y:586 box.width:66 box.height:107
+box.x:1445 box.y:472 box.width:70 box.height:105
+box.x:1437 box.y:1138 box.width:55 box.height:73
+box.x:1964 box.y:562 box.width:76 box.height:102
+box.x:1203 box.y:2797 box.width:69 box.height:73
+box.x:1107 box.y:579 box.width:77 box.height:106
+box.x:1368 box.y:834 box.width:65 box.height:118
+box.x:1070 box.y:1655 box.width:69 box.height:70
+box.x:1066 box.y:1867 box.width:64 box.height:72
+box.x:1703 box.y:1711 box.width:63 box.height:72
+box.x:1833 box.y:1534 box.width:48 box.height:78
+box.x:1258 box.y:1859 box.width:47 box.height:66
+box.x:1297 box.y:2783 box.width:52 box.height:72
+box.x:987 box.y:1469 box.width:52 box.height:93
+box.x:1173 box.y:475 box.width:84 box.height:79
+box.x:1409 box.y:2279 box.width:48 box.height:56
+box.x:1602 box.y:930 box.width:69 box.height:73
+box.x:1166 box.y:891 box.width:68 box.height:76
+box.x:1965 box.y:661 box.width:70 box.height:117
+box.x:1677 box.y:1522 box.width:53 box.height:78
+box.x:752 box.y:2101 box.width:44 box.height:61
+box.x:1447 box.y:589 box.width:75 box.height:107
+box.x:1376 box.y:513 box.width:57 box.height:81
+box.x:1599 box.y:1327 box.width:49 box.height:62
+box.x:1414 box.y:1556 box.width:50 box.height:61
+box.x:655 box.y:1957 box.width:54 box.height:76
+../input_img/h05651.jpg
+Number of detections:8
+box.x:222 box.y:151 box.width:68 box.height:97
+box.x:182 box.y:347 box.width:63 box.height:89
+box.x:130 box.y:502 box.width:31 box.height:104
+box.x:267 box.y:348 box.width:48 box.height:63
+box.x:270 box.y:547 box.width:24 box.height:43
+box.x:193 box.y:469 box.width:40 box.height:124
+box.x:268 box.y:424 box.width:37 box.height:92
+box.x:128 box.y:380 box.width:47 box.height:97
+../input_img/h05687.jpg
+Number of detections:7
+box.x:300 box.y:198 box.width:36 box.height:56
+box.x:228 box.y:195 box.width:27 box.height:48
+box.x:261 box.y:201 box.width:28 box.height:46
+box.x:225 box.y:290 box.width:27 box.height:68
+box.x:329 box.y:325 box.width:32 box.height:63
+box.x:293 box.y:319 box.width:29 box.height:70
+box.x:258 box.y:293 box.width:30 box.height:72
+../input_img/W00049.jpg
+Number of detections:2
+box.x:296 box.y:338 box.width:36 box.height:52
+box.x:187 box.y:337 box.width:52 box.height:54
+../input_img/W00023.jpg
+Number of detections:13
+box.x:333 box.y:335 box.width:46 box.height:59
+box.x:324 box.y:109 box.width:31 box.height:54
+box.x:398 box.y:292 box.width:43 box.height:49
+box.x:321 box.y:176 box.width:34 box.height:58
+box.x:365 box.y:98 box.width:63 box.height:47
+box.x:144 box.y:157 box.width:30 box.height:45
+box.x:283 box.y:89 box.width:30 box.height:42
+box.x:183 box.y:363 box.width:41 box.height:35
+box.x:452 box.y:295 box.width:24 box.height:59
+box.x:113 box.y:167 box.width:26 box.height:44
+box.x:397 box.y:341 box.width:37 box.height:29
+box.x:377 box.y:155 box.width:52 box.height:67
+box.x:213 box.y:173 box.width:23 box.height:40
+../input_img/h05702.jpg
+Number of detections:0
+../input_img/W00066Z.jpg
+Number of detections:1
+box.x:257 box.y:635 box.width:54 box.height:83
+../input_img/h05691.jpg
+Number of detections:5
+box.x:178 box.y:192 box.width:55 box.height:80
+box.x:252 box.y:193 box.width:48 box.height:99
+box.x:251 box.y:322 box.width:39 box.height:66
+box.x:108 box.y:186 box.width:50 box.height:141
+box.x:197 box.y:300 box.width:34 box.height:88
+../input_img/h05553F.jpg
+Number of detections:3
+box.x:98 box.y:669 box.width:48 box.height:94
+box.x:534 box.y:171 box.width:64 box.height:93
+box.x:414 box.y:160 box.width:53 box.height:136
+../input_img/W00097Z.jpg
+Number of detections:4
+box.x:166 box.y:166 box.width:47 box.height:101
+box.x:227 box.y:158 box.width:63 box.height:102
+box.x:137 box.y:76 box.width:70 box.height:72
+box.x:101 box.y:167 box.width:60 box.height:110
+../input_img/h05686.jpg
+Number of detections:5
+box.x:97 box.y:152 box.width:75 box.height:42
+box.x:121 box.y:66 box.width:49 box.height:61
+box.x:197 box.y:78 box.width:42 box.height:38
+box.x:202 box.y:135 box.width:25 box.height:57
+box.x:119 box.y:215 box.width:31 box.height:46
+../input_img/W00153Z.jpg
+Number of detections:2
+box.x:131 box.y:117 box.width:66 box.height:97
+box.x:46 box.y:124 box.width:48 box.height:92
+../input_img/W00053F.jpg
+Number of detections:3
+box.x:1026 box.y:904 box.width:91 box.height:121
+box.x:394 box.y:742 box.width:74 box.height:115
+box.x:292 box.y:727 box.width:84 box.height:109
+../input_img/W00111.jpg
+Number of detections:3
+box.x:435 box.y:63 box.width:43 box.height:91
+box.x:407 box.y:161 box.width:53 box.height:128
+box.x:292 box.y:109 box.width:45 box.height:45
+../input_img/W00135.jpg
+Number of detections:3
+box.x:95 box.y:164 box.width:63 box.height:111
+box.x:173 box.y:124 box.width:60 box.height:78
+box.x:170 box.y:211 box.width:59 box.height:89
+../input_img/h05728.jpg
+Number of detections:9
+box.x:372 box.y:265 box.width:26 box.height:65
+box.x:446 box.y:68 box.width:27 box.height:68
+box.x:372 box.y:192 box.width:22 box.height:61
+box.x:319 box.y:181 box.width:25 box.height:60
+box.x:464 box.y:271 box.width:25 box.height:37
+box.x:371 box.y:108 box.width:51 box.height:64
+box.x:415 box.y:189 box.width:47 box.height:74
+box.x:413 box.y:271 box.width:36 box.height:76
+box.x:457 box.y:320 box.width:24 box.height:33
+../input_img/h05645.jpg
+Number of detections:3
+box.x:46 box.y:110 box.width:29 box.height:82
+box.x:222 box.y:141 box.width:28 box.height:64
+box.x:262 box.y:131 box.width:42 box.height:90
+../input_img/h05592.jpg
+Number of detections:5
+box.x:169 box.y:128 box.width:67 box.height:107
+box.x:85 box.y:224 box.width:58 box.height:81
+box.x:173 box.y:263 box.width:67 box.height:127
+box.x:99 box.y:342 box.width:52 box.height:84
+box.x:174 box.y:406 box.width:46 box.height:71
+../input_img/W00119.jpg
+Number of detections:2
+box.x:99 box.y:162 box.width:48 box.height:83
+box.x:90 box.y:61 box.width:61 box.height:87
+../input_img/h05575.jpg
+Number of detections:4
+box.x:209 box.y:467 box.width:68 box.height:103
+box.x:222 box.y:178 box.width:55 box.height:90
+box.x:200 box.y:313 box.width:52 box.height:41
+box.x:211 box.y:354 box.width:53 box.height:82
+../input_img/h05636.jpg
+Number of detections:11
+box.x:242 box.y:992 box.width:52 box.height:87
+box.x:249 box.y:307 box.width:59 box.height:100
+box.x:191 box.y:994 box.width:42 box.height:87
+box.x:242 box.y:432 box.width:64 box.height:101
+box.x:177 box.y:311 box.width:58 box.height:85
+box.x:112 box.y:984 box.width:50 box.height:96
+box.x:119 box.y:307 box.width:36 box.height:89
+box.x:185 box.y:408 box.width:48 box.height:138
+box.x:245 box.y:196 box.width:58 box.height:81
+box.x:122 box.y:414 box.width:62 box.height:135
+box.x:237 box.y:1090 box.width:43 box.height:47
+../input_img/h05680.jpg
+Number of detections:4
+box.x:84 box.y:147 box.width:38 box.height:70
+box.x:136 box.y:63 box.width:54 box.height:49
+box.x:87 box.y:64 box.width:23 box.height:52
+box.x:147 box.y:147 box.width:29 box.height:104
+../input_img/W00048.jpg
+Number of detections:3
+box.x:187 box.y:81 box.width:46 box.height:94
+box.x:175 box.y:204 box.width:30 box.height:56
+box.x:266 box.y:91 box.width:28 box.height:43
+../input_img/W00038.jpg
+Number of detections:4
+box.x:134 box.y:103 box.width:42 box.height:70
+box.x:82 box.y:99 box.width:46 box.height:73
+box.x:93 box.y:173 box.width:40 box.height:38
+box.x:185 box.y:145 box.width:66 box.height:58
+../input_img/h05566.jpg
+Number of detections:18
+box.x:746 box.y:299 box.width:81 box.height:135
+box.x:824 box.y:252 box.width:78 box.height:128
+box.x:848 box.y:397 box.width:76 box.height:132
+box.x:556 box.y:356 box.width:59 box.height:115
+box.x:564 box.y:242 box.width:75 box.height:83
+box.x:359 box.y:343 box.width:64 box.height:94
+box.x:787 box.y:834 box.width:55 box.height:53
+box.x:754 box.y:476 box.width:76 box.height:158
+box.x:864 box.y:573 box.width:58 box.height:87
+box.x:461 box.y:559 box.width:69 box.height:87
+box.x:649 box.y:286 box.width:89 box.height:111
+box.x:536 box.y:487 box.width:57 box.height:161
+box.x:781 box.y:693 box.width:53 box.height:134
+box.x:295 box.y:688 box.width:39 box.height:82
+box.x:454 box.y:423 box.width:68 box.height:105
+box.x:366 box.y:541 box.width:73 box.height:72
+box.x:278 box.y:613 box.width:72 box.height:61
+box.x:651 box.y:627 box.width:55 box.height:44
+../input_img/W00169.jpg
+Number of detections:2
+box.x:101 box.y:111 box.width:74 box.height:69
+box.x:183 box.y:70 box.width:52 box.height:86
+../input_img/W00021.jpg
+Number of detections:3
+box.x:188 box.y:173 box.width:45 box.height:67
+box.x:75 box.y:162 box.width:53 box.height:84
+box.x:129 box.y:177 box.width:54 box.height:60
+../input_img/h05682.jpg
+Number of detections:5
+box.x:92 box.y:63 box.width:40 box.height:68
+box.x:147 box.y:65 box.width:38 box.height:72
+box.x:206 box.y:102 box.width:35 box.height:52
+box.x:138 box.y:161 box.width:30 box.height:56
+box.x:181 box.y:164 box.width:65 box.height:71
+../input_img/h05730.jpg
+Number of detections:5
+box.x:70 box.y:250 box.width:52 box.height:96
+box.x:162 box.y:159 box.width:46 box.height:81
+box.x:138 box.y:257 box.width:64 box.height:90
+box.x:191 box.y:302 box.width:45 box.height:49
+box.x:177 box.y:89 box.width:50 box.height:52
+../input_img/h05565.jpg
+Number of detections:9
+box.x:94 box.y:493 box.width:57 box.height:106
+box.x:166 box.y:461 box.width:54 box.height:119
+box.x:160 box.y:601 box.width:60 box.height:87
+box.x:104 box.y:350 box.width:56 box.height:123
+box.x:218 box.y:198 box.width:56 box.height:160
+box.x:239 box.y:580 box.width:34 box.height:89
+box.x:94 box.y:628 box.width:54 box.height:83
+box.x:228 box.y:403 box.width:61 box.height:148
+box.x:190 box.y:400 box.width:31 box.height:46
+../input_img/W00160.jpg
+Number of detections:3
+box.x:126 box.y:178 box.width:46 box.height:45
+box.x:80 box.y:74 box.width:49 box.height:58
+box.x:177 box.y:140 box.width:30 box.height:52
+../input_img/W00188Z.jpg
+Number of detections:4
+box.x:377 box.y:252 box.width:38 box.height:65
+box.x:288 box.y:271 box.width:47 box.height:95
+box.x:378 box.y:114 box.width:44 box.height:113
+box.x:292 box.y:59 box.width:83 box.height:160
+../input_img/W00170F.jpg
+Number of detections:1
+box.x:92 box.y:86 box.width:68 box.height:90
+../input_img/W00128.jpg
+Number of detections:2
+box.x:163 box.y:145 box.width:56 box.height:138
+box.x:128 box.y:55 box.width:63 box.height:59
+../input_img/h05606.jpg
+Number of detections:5
+box.x:184 box.y:55 box.width:36 box.height:57
+box.x:127 box.y:49 box.width:40 box.height:84
+box.x:42 box.y:64 box.width:27 box.height:44
+box.x:124 box.y:154 box.width:53 box.height:146
+box.x:189 box.y:135 box.width:25 box.height:112
+../input_img/h05725F.jpg
+Number of detections:6
+box.x:625 box.y:434 box.width:74 box.height:132
+box.x:155 box.y:156 box.width:62 box.height:119
+box.x:394 box.y:119 box.width:74 box.height:148
+box.x:563 box.y:323 box.width:62 box.height:83
+box.x:641 box.y:251 box.width:81 box.height:122
+box.x:640 box.y:314 box.width:77 box.height:60
+../input_img/W00091.jpg
+Number of detections:3
+box.x:143 box.y:57 box.width:69 box.height:80
+box.x:148 box.y:144 box.width:64 box.height:66
+box.x:234 box.y:67 box.width:57 box.height:62
+../input_img/h05579F.jpg
+Number of detections:5
+box.x:564 box.y:881 box.width:79 box.height:157
+box.x:552 box.y:411 box.width:76 box.height:179
+box.x:561 box.y:742 box.width:49 box.height:134
+box.x:513 box.y:85 box.width:115 box.height:163
+box.x:550 box.y:1097 box.width:71 box.height:97
+../input_img/h05665.jpg
+Number of detections:13
+box.x:524 box.y:570 box.width:70 box.height:121
+box.x:374 box.y:698 box.width:90 box.height:130
+box.x:376 box.y:864 box.width:80 box.height:132
+box.x:497 box.y:1232 box.width:121 box.height:146
+box.x:521 box.y:265 box.width:58 box.height:117
+box.x:388 box.y:578 box.width:49 box.height:103
+box.x:533 box.y:705 box.width:69 box.height:141
+box.x:375 box.y:1042 box.width:64 box.height:215
+box.x:424 box.y:197 box.width:71 box.height:148
+box.x:537 box.y:1031 box.width:51 box.height:135
+box.x:422 box.y:376 box.width:35 box.height:174
+box.x:524 box.y:875 box.width:64 box.height:125
+box.x:392 box.y:1286 box.width:43 box.height:84
+../input_img/W00070.jpg
+Number of detections:7
+box.x:208 box.y:614 box.width:35 box.height:66
+box.x:177 box.y:597 box.width:30 box.height:65
+box.x:229 box.y:419 box.width:41 box.height:54
+box.x:195 box.y:446 box.width:38 box.height:82
+box.x:182 box.y:535 box.width:38 box.height:46
+box.x:225 box.y:525 box.width:30 box.height:53
+box.x:187 box.y:821 box.width:37 box.height:40
+../input_img/h05721.jpg
+Number of detections:4
+box.x:151 box.y:269 box.width:39 box.height:79
+box.x:173 box.y:70 box.width:33 box.height:51
+box.x:176 box.y:131 box.width:38 box.height:76
+box.x:217 box.y:148 box.width:59 box.height:87
+../input_img/h05598F.jpg
+Number of detections:7
+box.x:328 box.y:257 box.width:55 box.height:101
+box.x:127 box.y:251 box.width:81 box.height:157
+box.x:392 box.y:199 box.width:65 box.height:111
+box.x:341 box.y:368 box.width:38 box.height:79
+box.x:221 box.y:193 box.width:87 box.height:195
+box.x:467 box.y:215 box.width:53 box.height:78
+box.x:123 box.y:86 box.width:59 box.height:102
+../input_img/W00105Z.jpg
+Number of detections:5
+box.x:50 box.y:141 box.width:41 box.height:111
+box.x:94 box.y:107 box.width:52 box.height:60
+box.x:44 box.y:72 box.width:46 box.height:57
+box.x:145 box.y:176 box.width:24 box.height:30
+box.x:96 box.y:172 box.width:23 box.height:22
+../input_img/h05549F.jpg
+Number of detections:1
+box.x:54 box.y:185 box.width:72 box.height:153
+../input_img/W00007Z.jpg
+Number of detections:4
+box.x:164 box.y:84 box.width:66 box.height:99
+box.x:256 box.y:17 box.width:65 box.height:128
+box.x:91 box.y:41 box.width:53 box.height:155
+box.x:230 box.y:161 box.width:65 box.height:35
+../input_img/W00129Z.jpg
+Number of detections:3
+box.x:175 box.y:140 box.width:65 box.height:115
+box.x:121 box.y:190 box.width:55 box.height:65
+box.x:257 box.y:172 box.width:49 box.height:66
+../input_img/W00054.jpg
+Number of detections:3
+box.x:233 box.y:158 box.width:61 box.height:74
+box.x:210 box.y:61 box.width:74 box.height:74
+box.x:78 box.y:164 box.width:50 box.height:99
+../input_img/W00036.jpg
+Number of detections:2
+box.x:69 box.y:132 box.width:60 box.height:82
+box.x:75 box.y:241 box.width:49 box.height:56
+../input_img/h05648.jpg
+Number of detections:19
+box.x:259 box.y:299 box.width:48 box.height:66
+box.x:165 box.y:98 box.width:40 box.height:62
+box.x:122 box.y:295 box.width:43 box.height:68
+box.x:189 box.y:299 box.width:50 box.height:68
+box.x:185 box.y:382 box.width:47 box.height:64
+box.x:227 box.y:93 box.width:42 box.height:53
+box.x:184 box.y:476 box.width:34 box.height:101
+box.x:73 box.y:368 box.width:41 box.height:65
+box.x:252 box.y:392 box.width:53 box.height:110
+box.x:61 box.y:287 box.width:42 box.height:66
+box.x:171 box.y:177 box.width:43 box.height:83
+box.x:119 box.y:140 box.width:40 box.height:56
+box.x:243 box.y:509 box.width:36 box.height:67
+box.x:119 box.y:383 box.width:49 box.height:103
+box.x:125 box.y:215 box.width:23 box.height:53
+box.x:225 box.y:169 box.width:32 box.height:96
+box.x:122 box.y:96 box.width:33 box.height:39
+box.x:73 box.y:452 box.width:28 box.height:50
+box.x:118 box.y:508 box.width:40 box.height:78
+../input_img/W00133.jpg
+Number of detections:0
+../input_img/h05707.jpg
+Number of detections:11
+box.x:478 box.y:431 box.width:40 box.height:61
+box.x:507 box.y:1871 box.width:72 box.height:96
+box.x:481 box.y:517 box.width:42 box.height:67
+box.x:508 box.y:1723 box.width:60 box.height:113
+box.x:648 box.y:1681 box.width:53 box.height:100
+box.x:581 box.y:1667 box.width:53 box.height:107
+box.x:168 box.y:1773 box.width:50 box.height:77
+box.x:188 box.y:1654 box.width:43 box.height:94
+box.x:578 box.y:1797 box.width:37 box.height:80
+box.x:591 box.y:1903 box.width:36 box.height:49
+box.x:182 box.y:1864 box.width:35 box.height:72
+../input_img/W00041.jpg
+Number of detections:4
+box.x:159 box.y:137 box.width:27 box.height:52
+box.x:191 box.y:130 box.width:22 box.height:69
+box.x:249 box.y:114 box.width:32 box.height:81
+box.x:216 box.y:133 box.width:26 box.height:45
+../input_img/h05610.jpg
+Number of detections:3
+box.x:49 box.y:199 box.width:52 box.height:71
+box.x:119 box.y:187 box.width:51 box.height:95
+box.x:175 box.y:190 box.width:43 box.height:45
+../input_img/W00073Z.jpg
+Number of detections:2
+box.x:173 box.y:118 box.width:63 box.height:102
+box.x:118 box.y:92 box.width:41 box.height:90
+../input_img/h05688.jpg
+Number of detections:5
+box.x:163 box.y:236 box.width:30 box.height:47
+box.x:93 box.y:249 box.width:34 box.height:52
+box.x:37 box.y:281 box.width:21 box.height:33
+box.x:133 box.y:248 box.width:20 box.height:46
+box.x:62 box.y:269 box.width:22 box.height:37
+../input_img/h05750Z.jpg
+Number of detections:6
+box.x:188 box.y:339 box.width:78 box.height:68
+box.x:177 box.y:206 box.width:77 box.height:111
+box.x:120 box.y:292 box.width:65 box.height:101
+box.x:120 box.y:205 box.width:51 box.height:74
+box.x:275 box.y:227 box.width:63 box.height:60
+box.x:279 box.y:320 box.width:59 box.height:89
+../input_img/W00085.jpg
+Number of detections:3
+box.x:200 box.y:211 box.width:57 box.height:65
+box.x:117 box.y:80 box.width:46 box.height:93
+box.x:141 box.y:204 box.width:53 box.height:71
+../input_img/W00139.jpg
+Number of detections:3
+box.x:88 box.y:44 box.width:39 box.height:66
+box.x:72 box.y:141 box.width:45 box.height:32
+box.x:149 box.y:66 box.width:48 box.height:61
+../input_img/h05609.jpg
+Number of detections:5
+box.x:106 box.y:104 box.width:19 box.height:66
+box.x:140 box.y:39 box.width:38 box.height:48
+box.x:82 box.y:179 box.width:37 box.height:59
+box.x:65 box.y:102 box.width:32 box.height:54
+box.x:160 box.y:125 box.width:36 box.height:111
+../input_img/h05738.jpg
+Number of detections:16
+box.x:229 box.y:600 box.width:50 box.height:72
+box.x:243 box.y:752 box.width:38 box.height:77
+box.x:146 box.y:148 box.width:61 box.height:126
+box.x:186 box.y:657 box.width:37 box.height:62
+box.x:338 box.y:664 box.width:39 box.height:55
+box.x:242 box.y:691 box.width:39 box.height:46
+box.x:90 box.y:206 box.width:34 box.height:96
+box.x:342 box.y:737 box.width:33 box.height:72
+box.x:296 box.y:729 box.width:32 box.height:97
+box.x:340 box.y:566 box.width:38 box.height:79
+box.x:390 box.y:566 box.width:35 box.height:121
+box.x:296 box.y:584 box.width:38 box.height:126
+box.x:86 box.y:565 box.width:39 box.height:27
+box.x:428 box.y:697 box.width:27 box.height:43
+box.x:193 box.y:744 box.width:23 box.height:43
+box.x:189 box.y:572 box.width:22 box.height:75
+../input_img/h05685F.jpg
+Number of detections:2
+box.x:295 box.y:260 box.width:86 box.height:112
+box.x:307 box.y:87 box.width:70 box.height:147
+../input_img/W00125Z.jpg
+Number of detections:2
+box.x:133 box.y:89 box.width:102 box.height:182
+box.x:86 box.y:296 box.width:116 box.height:114
+../input_img/h05694.jpg
+Number of detections:7
+box.x:112 box.y:124 box.width:32 box.height:66
+box.x:65 box.y:129 box.width:37 box.height:52
+box.x:193 box.y:91 box.width:58 box.height:76
+box.x:151 box.y:96 box.width:40 box.height:47
+box.x:258 box.y:54 box.width:52 box.height:73
+box.x:309 box.y:56 box.width:45 box.height:88
+box.x:80 box.y:182 box.width:19 box.height:23
+../input_img/h05601F.jpg
+Number of detections:1
+box.x:363 box.y:166 box.width:100 box.height:185
+../input_img/h05630Z.jpg
+Number of detections:3
+box.x:328 box.y:803 box.width:55 box.height:167
+box.x:340 box.y:677 box.width:62 box.height:84
+box.x:356 box.y:610 box.width:52 box.height:58
+../input_img/h05733.jpg
+Number of detections:24
+box.x:154 box.y:435 box.width:37 box.height:42
+box.x:377 box.y:404 box.width:40 box.height:48
+box.x:213 box.y:584 box.width:29 box.height:45
+box.x:370 box.y:247 box.width:37 box.height:84
+box.x:204 box.y:471 box.width:34 box.height:49
+box.x:293 box.y:125 box.width:35 box.height:49
+box.x:164 box.y:531 box.width:35 box.height:34
+box.x:421 box.y:403 box.width:27 box.height:44
+box.x:109 box.y:426 box.width:28 box.height:39
+box.x:146 box.y:567 box.width:29 box.height:38
+box.x:217 box.y:533 box.width:25 box.height:34
+box.x:198 box.y:431 box.width:30 box.height:34
+box.x:419 box.y:320 box.width:32 box.height:59
+box.x:375 box.y:462 box.width:38 box.height:63
+box.x:373 box.y:164 box.width:29 box.height:38
+box.x:327 box.y:160 box.width:41 box.height:39
+box.x:335 box.y:110 box.width:35 box.height:42
+box.x:374 box.y:108 box.width:25 box.height:48
+box.x:426 box.y:243 box.width:22 box.height:65
+box.x:284 box.y:467 box.width:35 box.height:56
+box.x:341 box.y:408 box.width:32 box.height:30
+box.x:326 box.y:205 box.width:28 box.height:30
+box.x:249 box.y:240 box.width:43 box.height:63
+box.x:181 box.y:584 box.width:25 box.height:48
+../input_img/h05647Z.jpg
+Number of detections:12
+box.x:544 box.y:233 box.width:89 box.height:162
+box.x:654 box.y:413 box.width:97 box.height:138
+box.x:695 box.y:83 box.width:92 box.height:145
+box.x:540 box.y:59 box.width:118 box.height:132
+box.x:552 box.y:433 box.width:72 box.height:128
+box.x:672 box.y:254 box.width:96 box.height:122
+box.x:788 box.y:480 box.width:88 box.height:89
+box.x:809 box.y:370 box.width:63 box.height:92
+box.x:504 box.y:583 box.width:56 box.height:30
+box.x:825 box.y:226 box.width:81 box.height:124
+box.x:420 box.y:84 box.width:72 box.height:220
+box.x:854 box.y:81 box.width:81 box.height:82
+../input_img/h05586.jpg
+Number of detections:5
+box.x:96 box.y:261 box.width:44 box.height:62
+box.x:166 box.y:247 box.width:35 box.height:54
+box.x:172 box.y:116 box.width:37 box.height:91
+box.x:123 box.y:78 box.width:24 box.height:54
+box.x:176 box.y:331 box.width:19 box.height:49
+../input_img/h05749.jpg
+Number of detections:16
+box.x:87 box.y:462 box.width:68 box.height:106
+box.x:137 box.y:937 box.width:77 box.height:133
+box.x:78 box.y:775 box.width:63 box.height:92
+box.x:183 box.y:99 box.width:63 box.height:110
+box.x:187 box.y:273 box.width:53 box.height:174
+box.x:100 box.y:341 box.width:60 box.height:110
+box.x:207 box.y:854 box.width:76 box.height:135
+box.x:71 box.y:897 box.width:53 box.height:150
+box.x:111 box.y:248 box.width:32 box.height:71
+box.x:158 box.y:1415 box.width:63 box.height:155
+box.x:172 box.y:1604 box.width:76 box.height:199
+box.x:149 box.y:783 box.width:57 box.height:141
+box.x:108 box.y:1606 box.width:60 box.height:149
+box.x:102 box.y:1437 box.width:45 box.height:130
+box.x:126 box.y:116 box.width:38 box.height:118
+box.x:240 box.y:1454 box.width:54 box.height:104
+../input_img/W00098Z.jpg
+Number of detections:6
+box.x:638 box.y:362 box.width:56 box.height:80
+box.x:649 box.y:581 box.width:42 box.height:87
+box.x:655 box.y:449 box.width:41 box.height:71
+box.x:584 box.y:683 box.width:56 box.height:63
+box.x:598 box.y:592 box.width:41 box.height:82
+box.x:654 box.y:529 box.width:45 box.height:49
+../input_img/h05599F.jpg
+Number of detections:1
+box.x:108 box.y:158 box.width:72 box.height:137
+../input_img/h05729.jpg
+Number of detections:7
+box.x:280 box.y:340 box.width:37 box.height:45
+box.x:229 box.y:340 box.width:42 box.height:44
+box.x:164 box.y:329 box.width:50 box.height:98
+box.x:289 box.y:413 box.width:32 box.height:53
+box.x:235 box.y:424 box.width:49 box.height:76
+box.x:130 box.y:319 box.width:31 box.height:45
+box.x:298 box.y:490 box.width:18 box.height:35
+../input_img/h05562.jpg
+Number of detections:3
+box.x:186 box.y:229 box.width:43 box.height:56
+box.x:57 box.y:211 box.width:45 box.height:33
+box.x:173 box.y:108 box.width:34 box.height:82
+../input_img/W00120.jpg
+Number of detections:5
+box.x:175 box.y:126 box.width:53 box.height:102
+box.x:126 box.y:101 box.width:37 box.height:86
+box.x:237 box.y:137 box.width:31 box.height:86
+box.x:276 box.y:172 box.width:48 box.height:55
+box.x:131 box.y:215 box.width:40 box.height:38
+../input_img/W00063F.jpg
+Number of detections:1
+box.x:163 box.y:131 box.width:66 box.height:99
+../input_img/W00079F.jpg
+Number of detections:2
+box.x:88 box.y:120 box.width:43 box.height:82
+box.x:146 box.y:131 box.width:39 box.height:79
+../input_img/h05666Z.jpg
+Number of detections:14
+box.x:328 box.y:312 box.width:74 box.height:129
+box.x:318 box.y:590 box.width:67 box.height:82
+box.x:413 box.y:116 box.width:78 box.height:75
+box.x:538 box.y:57 box.width:61 box.height:146
+box.x:434 box.y:222 box.width:60 box.height:151
+box.x:568 box.y:470 box.width:67 box.height:111
+box.x:402 box.y:651 box.width:65 box.height:93
+box.x:206 box.y:329 box.width:58 box.height:48
+box.x:352 box.y:161 box.width:63 box.height:129
+box.x:430 box.y:436 box.width:37 box.height:40
+box.x:542 box.y:618 box.width:63 box.height:42
+box.x:274 box.y:176 box.width:59 box.height:141
+box.x:642 box.y:483 box.width:68 box.height:104
+box.x:518 box.y:276 box.width:109 box.height:156
+../input_img/h05569F.jpg
+Number of detections:1
+box.x:147 box.y:418 box.width:56 box.height:69
+../input_img/W00025.jpg
+Number of detections:6
+box.x:123 box.y:204 box.width:50 box.height:76
+box.x:190 box.y:219 box.width:46 box.height:48
+box.x:243 box.y:210 box.width:42 box.height:50
+box.x:172 box.y:121 box.width:29 box.height:60
+box.x:124 box.y:109 box.width:30 box.height:53
+box.x:211 box.y:131 box.width:34 box.height:46
+../input_img/h05646.jpg
+Number of detections:2
+box.x:170 box.y:110 box.width:71 box.height:186
+box.x:70 box.y:191 box.width:69 box.height:100
+../input_img/h05568F.jpg
+Number of detections:0
+../input_img/h05580.jpg
+Number of detections:1
+box.x:221 box.y:362 box.width:54 box.height:164
+../input_img/h05711.jpg
+Number of detections:15
+box.x:420 box.y:1104 box.width:33 box.height:53
+box.x:782 box.y:436 box.width:31 box.height:58
+box.x:372 box.y:1107 box.width:39 box.height:49
+box.x:745 box.y:434 box.width:31 box.height:33
+box.x:828 box.y:511 box.width:27 box.height:33
+box.x:785 box.y:508 box.width:30 box.height:43
+box.x:418 box.y:929 box.width:29 box.height:59
+box.x:370 box.y:586 box.width:31 box.height:74
+box.x:880 box.y:627 box.width:37 box.height:61
+box.x:338 box.y:1051 box.width:28 box.height:54
+box.x:579 box.y:755 box.width:42 box.height:71
+box.x:869 box.y:391 box.width:52 box.height:64
+box.x:354 box.y:666 box.width:41 box.height:48
+box.x:822 box.y:397 box.width:25 box.height:43
+box.x:407 box.y:798 box.width:48 box.height:102
+../input_img/W00040.jpg
+Number of detections:6
+box.x:88 box.y:124 box.width:41 box.height:54
+box.x:191 box.y:130 box.width:33 box.height:40
+box.x:181 box.y:88 box.width:33 box.height:33
+box.x:226 box.y:55 box.width:34 box.height:56
+box.x:164 box.y:115 box.width:20 box.height:39
+box.x:129 box.y:96 box.width:29 box.height:43
+../input_img/h05628GJ.jpg
+Number of detections:5
+box.x:40 box.y:174 box.width:67 box.height:76
+box.x:156 box.y:208 box.width:65 box.height:161
+box.x:57 box.y:63 box.width:71 box.height:63
+box.x:65 box.y:275 box.width:75 box.height:64
+box.x:106 box.y:348 box.width:44 box.height:60
+../input_img/W00092.jpg
+Number of detections:3
+box.x:132 box.y:85 box.width:65 box.height:115
+box.x:216 box.y:165 box.width:63 box.height:60
+box.x:209 box.y:84 box.width:52 box.height:63
+../input_img/W00175.jpg
+Number of detections:4
+box.x:71 box.y:131 box.width:58 box.height:71
+box.x:143 box.y:144 box.width:29 box.height:42
+box.x:148 box.y:70 box.width:39 box.height:59
+box.x:105 box.y:74 box.width:29 box.height:66
+../input_img/h05615.jpg
+Number of detections:7
+box.x:173 box.y:172 box.width:30 box.height:69
+box.x:212 box.y:173 box.width:32 box.height:70
+box.x:124 box.y:180 box.width:40 box.height:101
+box.x:82 box.y:126 box.width:40 box.height:63
+box.x:77 box.y:218 box.width:39 box.height:40
+box.x:53 box.y:109 box.width:22 box.height:51
+box.x:82 box.y:265 box.width:41 box.height:38
+../input_img/W00063Z.jpg
+Number of detections:2
+box.x:138 box.y:162 box.width:56 box.height:82
+box.x:105 box.y:189 box.width:29 box.height:70
+../input_img/W00113.jpg
+Number of detections:0
+../input_img/W00187.jpg
+Number of detections:5
+box.x:148 box.y:123 box.width:34 box.height:38
+box.x:162 box.y:50 box.width:43 box.height:61
+box.x:106 box.y:63 box.width:31 box.height:56
+box.x:76 box.y:143 box.width:42 box.height:37
+box.x:194 box.y:123 box.width:41 box.height:28
+../input_img/h05717Z.jpg
+Number of detections:12
+box.x:333 box.y:477 box.width:47 box.height:69
+box.x:328 box.y:369 box.width:51 box.height:77
+box.x:269 box.y:102 box.width:53 box.height:122
+box.x:262 box.y:389 box.width:53 box.height:101
+box.x:258 box.y:249 box.width:62 box.height:107
+box.x:343 box.y:95 box.width:38 box.height:38
+box.x:195 box.y:119 box.width:44 box.height:89
+box.x:330 box.y:260 box.width:39 box.height:55
+box.x:205 box.y:403 box.width:41 box.height:90
+box.x:333 box.y:159 box.width:40 box.height:80
+box.x:254 box.y:582 box.width:32 box.height:31
+box.x:199 box.y:540 box.width:30 box.height:73
+../input_img/h05743.jpg
+Number of detections:2
+box.x:95 box.y:106 box.width:50 box.height:65
+box.x:102 box.y:190 box.width:56 box.height:80
+../input_img/h05576F.jpg
+Number of detections:3
+box.x:348 box.y:458 box.width:103 box.height:202
+box.x:324 box.y:283 box.width:101 box.height:161
+box.x:340 box.y:728 box.width:90 box.height:92
+../input_img/h05570.jpg
+Number of detections:8
+box.x:108 box.y:188 box.width:34 box.height:33
+box.x:187 box.y:188 box.width:29 box.height:44
+box.x:229 box.y:104 box.width:21 box.height:55
+box.x:224 box.y:175 box.width:29 box.height:34
+box.x:167 box.y:99 box.width:35 box.height:27
+box.x:133 box.y:104 box.width:20 box.height:75
+box.x:148 box.y:184 box.width:25 box.height:36
+box.x:165 box.y:138 box.width:32 box.height:46
+../input_img/W00093F.jpg
+Number of detections:1
+box.x:85 box.y:50 box.width:75 box.height:111
+../input_img/h05579Z.jpg
+Number of detections:13
+box.x:341 box.y:379 box.width:83 box.height:154
+box.x:59 box.y:771 box.width:112 box.height:216
+box.x:332 box.y:581 box.width:83 box.height:96
+box.x:372 box.y:1230 box.width:117 box.height:206
+box.x:639 box.y:991 box.width:43 box.height:68
+box.x:351 box.y:135 box.width:65 box.height:226
+box.x:379 box.y:1041 box.width:57 box.height:132
+box.x:366 box.y:762 box.width:61 box.height:188
+box.x:546 box.y:631 box.width:71 box.height:143
+box.x:755 box.y:1022 box.width:51 box.height:59
+box.x:572 box.y:823 box.width:124 box.height:147
+box.x:775 box.y:1117 box.width:69 box.height:122
+box.x:74 box.y:465 box.width:117 box.height:222
+../input_img/h05619.jpg
+Number of detections:9
+box.x:375 box.y:1006 box.width:59 box.height:66
+box.x:576 box.y:211 box.width:60 box.height:88
+box.x:518 box.y:404 box.width:42 box.height:76
+box.x:513 box.y:209 box.width:47 box.height:58
+box.x:591 box.y:138 box.width:34 box.height:53
+box.x:587 box.y:411 box.width:30 box.height:75
+box.x:289 box.y:1012 box.width:58 box.height:66
+box.x:286 box.y:1195 box.width:39 box.height:58
+box.x:297 box.y:1090 box.width:25 box.height:91
+../input_img/W00083.jpg
+Number of detections:2
+box.x:234 box.y:228 box.width:72 box.height:89
+box.x:75 box.y:202 box.width:47 box.height:93
+../input_img/W00084.jpg
+Number of detections:4
+box.x:173 box.y:354 box.width:46 box.height:79
+box.x:95 box.y:300 box.width:58 box.height:69
+box.x:232 box.y:357 box.width:37 box.height:46
+box.x:73 box.y:227 box.width:30 box.height:52
+../input_img/h05600.jpg
+Number of detections:17
+box.x:429 box.y:1099 box.width:58 box.height:112
+box.x:381 box.y:798 box.width:55 box.height:95
+box.x:435 box.y:1243 box.width:72 box.height:104
+box.x:446 box.y:795 box.width:61 box.height:72
+box.x:362 box.y:497 box.width:47 box.height:87
+box.x:537 box.y:1205 box.width:65 box.height:125
+box.x:393 box.y:919 box.width:51 box.height:122
+box.x:450 box.y:881 box.width:66 box.height:149
+box.x:425 box.y:507 box.width:90 box.height:114
+box.x:235 box.y:1352 box.width:41 box.height:50
+box.x:359 box.y:608 box.width:65 box.height:126
+box.x:526 box.y:1072 box.width:52 box.height:100
+box.x:216 box.y:130 box.width:60 box.height:60
+box.x:306 box.y:1384 box.width:45 box.height:29
+box.x:520 box.y:792 box.width:58 box.height:146
+box.x:202 box.y:98 box.width:52 box.height:33
+box.x:260 box.y:1109 box.width:62 box.height:31
+../input_img/W00174.jpg
+Number of detections:4
+box.x:58 box.y:133 box.width:41 box.height:106
+box.x:99 box.y:28 box.width:46 box.height:94
+box.x:105 box.y:159 box.width:41 box.height:74
+box.x:47 box.y:32 box.width:46 box.height:78
+../input_img/h05679.jpg
+Number of detections:4
+box.x:341 box.y:411 box.width:36 box.height:61
+box.x:295 box.y:407 box.width:36 box.height:112
+box.x:323 box.y:505 box.width:44 box.height:74
+box.x:339 box.y:359 box.width:27 box.height:47
+../input_img/h05550Z.jpg
+Number of detections:3
+box.x:197 box.y:105 box.width:42 box.height:92
+box.x:132 box.y:115 box.width:57 box.height:94
+box.x:418 box.y:149 box.width:39 box.height:72
+../input_img/W00033.jpg
+Number of detections:3
+box.x:143 box.y:210 box.width:33 box.height:53
+box.x:185 box.y:219 box.width:38 box.height:60
+box.x:103 box.y:206 box.width:30 box.height:48
+../input_img/W00013.jpg
+Number of detections:3
+box.x:93 box.y:18 box.width:31 box.height:77
+box.x:77 box.y:98 box.width:58 box.height:79
+box.x:137 box.y:71 box.width:34 box.height:57
+../input_img/W00176.jpg
+Number of detections:3
+box.x:196 box.y:80 box.width:56 box.height:72
+box.x:150 box.y:92 box.width:34 box.height:60
+box.x:122 box.y:109 box.width:34 box.height:59
+../input_img/h05590F.jpg
+Number of detections:2
+box.x:67 box.y:261 box.width:62 box.height:107
+box.x:86 box.y:82 box.width:43 box.height:123
+../input_img/h05572F.jpg
+Number of detections:2
+box.x:191 box.y:404 box.width:73 box.height:199
+box.x:181 box.y:194 box.width:86 box.height:177
+../input_img/h05704.jpg
+Number of detections:3
+box.x:141 box.y:189 box.width:26 box.height:35
+box.x:176 box.y:115 box.width:21 box.height:26
+box.x:175 box.y:175 box.width:35 box.height:44
+../input_img/h05635J.jpg
+Number of detections:6
+box.x:296 box.y:229 box.width:61 box.height:107
+box.x:320 box.y:157 box.width:45 box.height:44
+box.x:180 box.y:77 box.width:51 box.height:115
+box.x:232 box.y:55 box.width:50 box.height:98
+box.x:236 box.y:282 box.width:44 box.height:72
+box.x:227 box.y:178 box.width:40 box.height:87
+../input_img/h05657.jpg
+Number of detections:3
+box.x:513 box.y:91 box.width:45 box.height:49
+box.x:574 box.y:124 box.width:47 box.height:72
+box.x:575 box.y:70 box.width:30 box.height:47
+../input_img/h05605.jpg
+Number of detections:5
+box.x:171 box.y:108 box.width:66 box.height:129
+box.x:260 box.y:108 box.width:53 box.height:89
+box.x:271 box.y:229 box.width:48 box.height:77
+box.x:121 box.y:145 box.width:37 box.height:165
+box.x:74 box.y:191 box.width:46 box.height:38
+../input_img/W00142.jpg
+Number of detections:5
+box.x:598 box.y:93 box.width:58 box.height:54
+box.x:584 box.y:310 box.width:59 box.height:60
+box.x:371 box.y:304 box.width:53 box.height:61
+box.x:152 box.y:471 box.width:61 box.height:83
+box.x:592 box.y:411 box.width:58 box.height:108
+../input_img/W00157.jpg
+Number of detections:5
+box.x:119 box.y:117 box.width:75 box.height:104
+box.x:365 box.y:105 box.width:53 box.height:79
+box.x:418 box.y:105 box.width:42 box.height:83
+box.x:404 box.y:241 box.width:47 box.height:66
+box.x:196 box.y:81 box.width:55 box.height:143
+../input_img/h05714.jpg
+Number of detections:3
+box.x:248 box.y:63 box.width:50 box.height:65
+box.x:176 box.y:137 box.width:78 box.height:73
+box.x:204 box.y:63 box.width:37 box.height:58
+../input_img/W00056.jpg
+Number of detections:4
+box.x:86 box.y:141 box.width:47 box.height:87
+box.x:175 box.y:121 box.width:38 box.height:61
+box.x:143 box.y:140 box.width:38 box.height:67
+box.x:217 box.y:149 box.width:22 box.height:40
+../input_img/h05670.jpg
+Number of detections:5
+box.x:285 box.y:287 box.width:48 box.height:53
+box.x:239 box.y:278 box.width:30 box.height:69
+box.x:234 box.y:209 box.width:36 box.height:54
+box.x:299 box.y:202 box.width:30 box.height:65
+box.x:384 box.y:281 box.width:38 box.height:20
+../input_img/h05594.jpg
+Number of detections:0
+../input_img/h05598Z.jpg
+Number of detections:11
+box.x:352 box.y:264 box.width:64 box.height:92
+box.x:198 box.y:383 box.width:84 box.height:128
+box.x:351 box.y:380 box.width:66 box.height:118
+box.x:134 box.y:384 box.width:61 box.height:129
+box.x:344 box.y:128 box.width:64 box.height:106
+box.x:276 box.y:184 box.width:59 box.height:82
+box.x:417 box.y:152 box.width:67 box.height:51
+box.x:298 box.y:315 box.width:54 box.height:119
+box.x:423 box.y:407 box.width:64 box.height:66
+box.x:281 box.y:440 box.width:71 box.height:71
+box.x:428 box.y:210 box.width:73 box.height:180
+../input_img/h05561.jpg
+Number of detections:7
+box.x:204 box.y:106 box.width:36 box.height:76
+box.x:149 box.y:95 box.width:37 box.height:60
+box.x:60 box.y:74 box.width:25 box.height:67
+box.x:62 box.y:164 box.width:29 box.height:40
+box.x:97 box.y:77 box.width:34 box.height:37
+box.x:53 box.y:41 box.width:37 box.height:35
+box.x:99 box.y:125 box.width:33 box.height:18
+../input_img/h05723.jpg
+Number of detections:3
+box.x:78 box.y:299 box.width:55 box.height:82
+box.x:93 box.y:389 box.width:75 box.height:153
+box.x:136 box.y:171 box.width:68 box.height:154
+../input_img/h05653.jpg
+Number of detections:6
+box.x:110 box.y:178 box.width:54 box.height:46
+box.x:220 box.y:164 box.width:46 box.height:58
+box.x:201 box.y:81 box.width:54 box.height:62
+box.x:107 box.y:91 box.width:52 box.height:56
+box.x:53 box.y:178 box.width:38 box.height:46
+box.x:55 box.y:106 box.width:30 box.height:55
+../input_img/h05731.jpg
+Number of detections:3
+box.x:131 box.y:71 box.width:64 box.height:124
+box.x:206 box.y:156 box.width:32 box.height:22
+box.x:89 box.y:100 box.width:32 box.height:104
+../input_img/h05612.jpg
+Number of detections:8
+box.x:85 box.y:543 box.width:49 box.height:70
+box.x:127 box.y:755 box.width:48 box.height:82
+box.x:86 box.y:444 box.width:53 box.height:90
+box.x:70 box.y:314 box.width:56 box.height:101
+box.x:135 box.y:633 box.width:39 box.height:94
+box.x:71 box.y:644 box.width:41 box.height:101
+box.x:141 box.y:529 box.width:45 box.height:69
+box.x:63 box.y:774 box.width:42 box.height:60
+../input_img/W00159.jpg
+Number of detections:4
+box.x:120 box.y:142 box.width:67 box.height:78
+box.x:78 box.y:121 box.width:46 box.height:84
+box.x:80 box.y:228 box.width:55 box.height:46
+box.x:46 box.y:209 box.width:28 box.height:58
+../input_img/h05608.jpg
+Number of detections:1
+box.x:77 box.y:32 box.width:108 box.height:225
+../input_img/h05658F.jpg
+Number of detections:2
+box.x:545 box.y:1498 box.width:66 box.height:91
+box.x:878 box.y:1053 box.width:59 box.height:88
+../input_img/h05554.jpg
+Number of detections:3
+box.x:135 box.y:243 box.width:55 box.height:88
+box.x:78 box.y:91 box.width:42 box.height:118
+box.x:145 box.y:110 box.width:35 box.height:85
+../input_img/h05549Z.jpg
+Number of detections:4
+box.x:98 box.y:234 box.width:44 box.height:90
+box.x:238 box.y:108 box.width:45 box.height:103
+box.x:103 box.y:146 box.width:53 box.height:78
+box.x:172 box.y:169 box.width:74 box.height:143
+../input_img/h05745.jpg
+Number of detections:7
+box.x:505 box.y:264 box.width:33 box.height:55
+box.x:85 box.y:201 box.width:34 box.height:48
+box.x:285 box.y:324 box.width:57 box.height:103
+box.x:170 box.y:201 box.width:36 box.height:58
+box.x:286 box.y:207 box.width:35 box.height:75
+box.x:181 box.y:354 box.width:30 box.height:47
+box.x:144 box.y:193 box.width:16 box.height:63
+../input_img/h05634.jpg
+Number of detections:19
+box.x:311 box.y:480 box.width:50 box.height:69
+box.x:549 box.y:321 box.width:52 box.height:62
+box.x:252 box.y:460 box.width:49 box.height:63
+box.x:88 box.y:69 box.width:78 box.height:103
+box.x:142 box.y:233 box.width:46 box.height:121
+box.x:155 box.y:361 box.width:37 box.height:103
+box.x:175 box.y:74 box.width:48 box.height:106
+box.x:197 box.y:457 box.width:43 box.height:56
+box.x:89 box.y:201 box.width:54 box.height:122
+box.x:566 box.y:400 box.width:32 box.height:77
+box.x:462 box.y:325 box.width:53 box.height:97
+box.x:717 box.y:358 box.width:53 box.height:48
+box.x:653 box.y:347 box.width:52 box.height:56
+box.x:308 box.y:403 box.width:61 box.height:71
+box.x:94 box.y:347 box.width:34 box.height:100
+box.x:244 box.y:97 box.width:36 box.height:50
+box.x:154 box.y:478 box.width:32 box.height:23
+box.x:246 box.y:246 box.width:43 box.height:24
+box.x:612 box.y:398 box.width:28 box.height:17
+../input_img/h05689.jpg
+Number of detections:5
+box.x:82 box.y:196 box.width:33 box.height:29
+box.x:162 box.y:119 box.width:34 box.height:53
+box.x:61 box.y:49 box.width:19 box.height:69
+box.x:89 box.y:90 box.width:25 box.height:54
+box.x:205 box.y:124 box.width:31 box.height:54
+../input_img/h05639F.jpg
+Number of detections:2
+box.x:103 box.y:394 box.width:51 box.height:117
+box.x:91 box.y:245 box.width:82 box.height:128
+../input_img/h05720.jpg
+Number of detections:8
+box.x:166 box.y:491 box.width:33 box.height:63
+box.x:109 box.y:517 box.width:41 box.height:68
+box.x:164 box.y:339 box.width:26 box.height:70
+box.x:117 box.y:463 box.width:25 box.height:48
+box.x:121 box.y:354 box.width:25 box.height:80
+box.x:151 box.y:300 box.width:30 box.height:28
+box.x:171 box.y:438 box.width:21 box.height:37
+box.x:103 box.y:305 box.width:28 box.height:37
+../input_img/h05699.jpg
+Number of detections:7
+box.x:353 box.y:344 box.width:39 box.height:83
+box.x:290 box.y:427 box.width:32 box.height:58
+box.x:140 box.y:371 box.width:47 box.height:76
+box.x:83 box.y:500 box.width:56 box.height:62
+box.x:298 box.y:504 box.width:46 box.height:40
+box.x:82 box.y:396 box.width:38 box.height:74
+box.x:154 box.y:531 box.width:37 box.height:64
+../input_img/h05622.jpg
+Number of detections:27
+box.x:322 box.y:227 box.width:46 box.height:111
+box.x:425 box.y:102 box.width:51 box.height:55
+box.x:423 box.y:289 box.width:50 box.height:116
+box.x:541 box.y:136 box.width:38 box.height:79
+box.x:117 box.y:170 box.width:30 box.height:56
+box.x:268 box.y:230 box.width:41 box.height:60
+box.x:492 box.y:102 box.width:43 box.height:48
+box.x:157 box.y:191 box.width:38 box.height:54
+box.x:262 box.y:87 box.width:40 box.height:32
+box.x:618 box.y:57 box.width:42 box.height:54
+box.x:214 box.y:200 box.width:32 box.height:98
+box.x:125 box.y:235 box.width:32 box.height:54
+box.x:411 box.y:428 box.width:40 box.height:83
+box.x:47 box.y:199 box.width:33 box.height:40
+box.x:330 box.y:72 box.width:23 box.height:44
+box.x:434 box.y:169 box.width:32 box.height:113
+box.x:587 box.y:207 box.width:37 box.height:47
+box.x:495 box.y:292 box.width:32 box.height:86
+box.x:91 box.y:248 box.width:33 box.height:58
+box.x:533 box.y:238 box.width:44 box.height:65
+box.x:87 box.y:192 box.width:20 box.height:51
+box.x:201 box.y:18 box.width:31 box.height:43
+box.x:474 box.y:164 box.width:52 box.height:99
+box.x:365 box.y:90 box.width:37 box.height:26
+box.x:57 box.y:253 box.width:25 box.height:56
+box.x:593 box.y:135 box.width:41 box.height:65
+box.x:164 box.y:258 box.width:31 box.height:43
+../input_img/h05614.jpg
+Number of detections:3
+box.x:88 box.y:246 box.width:58 box.height:71
+box.x:190 box.y:329 box.width:68 box.height:90
+box.x:61 box.y:76 box.width:73 box.height:60
+../input_img/h05589.jpg
+Number of detections:2
+box.x:154 box.y:222 box.width:35 box.height:68
+box.x:155 box.y:140 box.width:38 box.height:58
+../input_img/h05660.jpg
+Number of detections:2
+box.x:81 box.y:111 box.width:40 box.height:58
+box.x:146 box.y:108 box.width:49 box.height:54
+../input_img/W00078.jpg
+Number of detections:4
+box.x:460 box.y:466 box.width:29 box.height:64
+box.x:380 box.y:490 box.width:32 box.height:39
+box.x:55 box.y:343 box.width:53 box.height:64
+box.x:417 box.y:467 box.width:31 box.height:70
+../input_img/h05663.jpg
+Number of detections:16
+box.x:181 box.y:652 box.width:60 box.height:81
+box.x:108 box.y:335 box.width:69 box.height:110
+box.x:106 box.y:738 box.width:59 box.height:71
+box.x:86 box.y:1383 box.width:80 box.height:98
+box.x:194 box.y:1406 box.width:72 box.height:105
+box.x:196 box.y:988 box.width:63 box.height:81
+box.x:101 box.y:995 box.width:66 box.height:130
+box.x:190 box.y:1092 box.width:59 box.height:70
+box.x:114 box.y:643 box.width:60 box.height:87
+box.x:43 box.y:638 box.width:61 box.height:65
+box.x:88 box.y:104 box.width:64 box.height:132
+box.x:76 box.y:1166 box.width:102 box.height:94
+box.x:49 box.y:729 box.width:37 box.height:128
+box.x:188 box.y:1193 box.width:60 box.height:98
+box.x:181 box.y:833 box.width:46 box.height:107
+box.x:98 box.y:824 box.width:56 box.height:154
+../input_img/W00166.jpg
+Number of detections:3
+box.x:209 box.y:70 box.width:43 box.height:55
+box.x:139 box.y:49 box.width:55 box.height:71
+box.x:80 box.y:46 box.width:57 box.height:41
+../input_img/W00044.jpg
+Number of detections:6
+box.x:180 box.y:200 box.width:38 box.height:57
+box.x:174 box.y:131 box.width:41 box.height:60
+box.x:223 box.y:154 box.width:43 box.height:54
+box.x:108 box.y:149 box.width:46 box.height:50
+box.x:122 box.y:207 box.width:36 box.height:46
+box.x:116 box.y:90 box.width:28 box.height:41
+../input_img/h05572Z.jpg
+Number of detections:4
+box.x:183 box.y:309 box.width:59 box.height:93
+box.x:124 box.y:317 box.width:45 box.height:93
+box.x:204 box.y:432 box.width:50 box.height:129
+box.x:214 box.y:33 box.width:60 box.height:89
+../input_img/h05708GJ.jpg
+Number of detections:2
+box.x:298 box.y:179 box.width:52 box.height:109
+box.x:303 box.y:318 box.width:47 box.height:88
+../input_img/W00155.jpg
+Number of detections:2
+box.x:74 box.y:129 box.width:116 box.height:147
+box.x:341 box.y:217 box.width:102 box.height:95
+../input_img/W00178.jpg
+Number of detections:4
+box.x:108 box.y:235 box.width:54 box.height:90
+box.x:88 box.y:42 box.width:42 box.height:95
+box.x:96 box.y:157 box.width:34 box.height:44
+box.x:193 box.y:38 box.width:39 box.height:112
+../input_img/W00109.jpg
+Number of detections:4
+box.x:157 box.y:87 box.width:35 box.height:99
+box.x:213 box.y:97 box.width:47 box.height:73
+box.x:85 box.y:132 box.width:18 box.height:43
+box.x:87 box.y:103 box.width:49 box.height:90
+../input_img/W00152.jpg
+Number of detections:8
+box.x:167 box.y:132 box.width:56 box.height:70
+box.x:51 box.y:123 box.width:46 box.height:95
+box.x:147 box.y:209 box.width:32 box.height:36
+box.x:107 box.y:99 box.width:49 box.height:51
+box.x:96 box.y:217 box.width:40 box.height:30
+box.x:194 box.y:213 box.width:51 box.height:45
+box.x:47 box.y:232 box.width:36 box.height:32
+box.x:107 box.y:155 box.width:42 box.height:56
+../input_img/h05581.jpg
+Number of detections:7
+box.x:214 box.y:422 box.width:31 box.height:112
+box.x:141 box.y:309 box.width:48 box.height:44
+box.x:147 box.y:394 box.width:27 box.height:52
+box.x:218 box.y:558 box.width:49 box.height:67
+box.x:149 box.y:474 box.width:38 box.height:49
+box.x:142 box.y:543 box.width:49 box.height:61
+box.x:218 box.y:354 box.width:23 box.height:42
+../input_img/h05633.jpg
+Number of detections:2
+box.x:175 box.y:233 box.width:44 box.height:103
+box.x:99 box.y:255 box.width:52 box.height:61
+../input_img/h05571F.jpg
+Number of detections:2
+box.x:423 box.y:386 box.width:89 box.height:149
+box.x:442 box.y:552 box.width:64 box.height:217
+../input_img/h05584.jpg
+Number of detections:6
+box.x:70 box.y:205 box.width:40 box.height:76
+box.x:120 box.y:197 box.width:56 box.height:95
+box.x:80 box.y:357 box.width:29 box.height:81
+box.x:75 box.y:286 box.width:35 box.height:39
+box.x:121 box.y:347 box.width:39 box.height:78
+box.x:82 box.y:447 box.width:46 box.height:64
+../input_img/h05558.jpg
+Number of detections:4
+box.x:167 box.y:347 box.width:44 box.height:80
+box.x:163 box.y:453 box.width:53 box.height:104
+box.x:90 box.y:419 box.width:48 box.height:108
+box.x:91 box.y:342 box.width:50 box.height:42
+../input_img/W00106.jpg
+Number of detections:3
+box.x:200 box.y:132 box.width:59 box.height:114
+box.x:134 box.y:104 box.width:63 box.height:82
+box.x:151 box.y:47 box.width:60 box.height:51
+../input_img/h05635Y.jpg
+Number of detections:2
+box.x:248 box.y:235 box.width:40 box.height:78
+box.x:174 box.y:109 box.width:54 box.height:111
+../input_img/W00007F.jpg
+Number of detections:1
+box.x:112 box.y:83 box.width:62 box.height:148
+../input_img/W00137.jpg
+Number of detections:4
+box.x:127 box.y:131 box.width:43 box.height:67
+box.x:80 box.y:144 box.width:43 box.height:69
+box.x:193 box.y:138 box.width:41 box.height:56
+box.x:128 box.y:214 box.width:64 box.height:50
+../input_img/h05628Z.jpg
+Number of detections:12
+box.x:316 box.y:113 box.width:78 box.height:106
+box.x:499 box.y:127 box.width:76 box.height:106
+box.x:229 box.y:117 box.width:57 box.height:81
+box.x:171 box.y:329 box.width:40 box.height:55
+box.x:226 box.y:222 box.width:66 box.height:73
+box.x:332 box.y:247 box.width:58 box.height:89
+box.x:271 box.y:347 box.width:46 box.height:66
+box.x:153 box.y:224 box.width:56 box.height:98
+box.x:354 box.y:367 box.width:44 box.height:56
+box.x:105 box.y:258 box.width:46 box.height:66
+box.x:424 box.y:104 box.width:38 box.height:86
+box.x:125 box.y:353 box.width:26 box.height:68
+../input_img/h05624.jpg
+Number of detections:20
+box.x:239 box.y:983 box.width:55 box.height:84
+box.x:322 box.y:484 box.width:54 box.height:78
+box.x:389 box.y:485 box.width:43 box.height:46
+box.x:278 box.y:599 box.width:44 box.height:57
+box.x:272 box.y:488 box.width:43 box.height:94
+box.x:316 box.y:968 box.width:35 box.height:63
+box.x:306 box.y:1057 box.width:29 box.height:57
+box.x:242 box.y:603 box.width:33 box.height:81
+box.x:407 box.y:538 box.width:71 box.height:128
+box.x:275 box.y:662 box.width:60 box.height:84
+box.x:256 box.y:852 box.width:33 box.height:46
+box.x:224 box.y:1078 box.width:53 box.height:72
+box.x:263 box.y:761 box.width:31 box.height:79
+box.x:229 box.y:698 box.width:37 box.height:58
+box.x:145 box.y:86 box.width:31 box.height:62
+box.x:248 box.y:939 box.width:30 box.height:36
+box.x:298 box.y:767 box.width:24 box.height:67
+box.x:333 box.y:580 box.width:62 box.height:72
+box.x:295 box.y:860 box.width:36 box.height:54
+box.x:86 box.y:86 box.width:25 box.height:52
+../input_img/h05742.jpg
+Number of detections:7
+box.x:98 box.y:429 box.width:55 box.height:91
+box.x:87 box.y:812 box.width:66 box.height:83
+box.x:99 box.y:697 box.width:47 box.height:62
+box.x:78 box.y:301 box.width:82 box.height:106
+box.x:117 box.y:557 box.width:28 box.height:99
+box.x:92 box.y:248 box.width:32 box.height:24
+box.x:98 box.y:211 box.width:28 box.height:22
+../input_img/h05696.jpg
+Number of detections:1
+box.x:92 box.y:92 box.width:44 box.height:68
+../input_img/W00053Z.jpg
+Number of detections:8
+box.x:177 box.y:768 box.width:55 box.height:103
+box.x:133 box.y:773 box.width:39 box.height:87
+box.x:1134 box.y:754 box.width:45 box.height:92
+box.x:1077 box.y:761 box.width:53 box.height:84
+box.x:244 box.y:775 box.width:64 box.height:109
+box.x:178 box.y:879 box.width:58 box.height:106
+box.x:245 box.y:894 box.width:57 box.height:112
+box.x:1076 box.y:864 box.width:49 box.height:97
+../input_img/h05744.jpg
+Number of detections:5
+box.x:129 box.y:114 box.width:43 box.height:68
+box.x:60 box.y:160 box.width:30 box.height:36
+box.x:181 box.y:161 box.width:32 box.height:37
+box.x:187 box.y:200 box.width:30 box.height:49
+box.x:96 box.y:154 box.width:35 box.height:49
+../input_img/h05664.jpg
+Number of detections:27
+box.x:655 box.y:568 box.width:72 box.height:109
+box.x:479 box.y:624 box.width:72 box.height:93
+box.x:359 box.y:527 box.width:58 box.height:90
+box.x:549 box.y:541 box.width:56 box.height:74
+box.x:422 box.y:534 box.width:47 box.height:76
+box.x:255 box.y:577 box.width:90 box.height:134
+box.x:184 box.y:621 box.width:60 box.height:87
+box.x:355 box.y:641 box.width:44 box.height:119
+box.x:222 box.y:263 box.width:51 box.height:87
+box.x:372 box.y:349 box.width:45 box.height:79
+box.x:358 box.y:262 box.width:57 box.height:64
+box.x:421 box.y:639 box.width:41 box.height:152
+box.x:392 box.y:455 box.width:33 box.height:51
+box.x:441 box.y:340 box.width:44 box.height:91
+box.x:666 box.y:472 box.width:34 box.height:57
+box.x:205 box.y:383 box.width:54 box.height:105
+box.x:427 box.y:250 box.width:49 box.height:62
+box.x:289 box.y:414 box.width:54 box.height:129
+box.x:540 box.y:329 box.width:50 box.height:68
+box.x:559 box.y:454 box.width:21 box.height:54
+box.x:492 box.y:325 box.width:39 box.height:103
+box.x:213 box.y:535 box.width:25 box.height:64
+box.x:493 box.y:478 box.width:27 box.height:94
+box.x:440 box.y:457 box.width:21 box.height:43
+box.x:296 box.y:263 box.width:52 box.height:34
+box.x:571 box.y:639 box.width:38 box.height:114
+box.x:291 box.y:311 box.width:52 box.height:41
+../input_img/h05725Z.jpg
+Number of detections:4
+box.x:531 box.y:366 box.width:66 box.height:105
+box.x:542 box.y:489 box.width:54 box.height:145
+box.x:425 box.y:350 box.width:52 box.height:23
+box.x:566 box.y:223 box.width:66 box.height:118
+../input_img/W00026.jpg
+Number of detections:5
+box.x:261 box.y:108 box.width:42 box.height:54
+box.x:226 box.y:187 box.width:39 box.height:34
+box.x:286 box.y:167 box.width:46 box.height:76
+box.x:226 box.y:124 box.width:25 box.height:50
+box.x:174 box.y:130 box.width:42 box.height:103
+../input_img/h05706.jpg
+Number of detections:0
+../input_img/W00145.jpg
+Number of detections:3
+box.x:73 box.y:149 box.width:56 box.height:122
+box.x:146 box.y:185 box.width:55 box.height:118
+box.x:211 box.y:184 box.width:42 box.height:101
+../input_img/W00015Z.jpg
+Number of detections:1
+box.x:130 box.y:78 box.width:66 box.height:154
+../input_img/h05552Z.jpg
+Number of detections:5
+box.x:63 box.y:124 box.width:58 box.height:113
+box.x:152 box.y:144 box.width:55 box.height:156
+box.x:210 box.y:117 box.width:64 box.height:101
+box.x:79 box.y:266 box.width:49 box.height:75
+box.x:227 box.y:262 box.width:47 box.height:71
+../input_img/W00144.jpg
+Number of detections:6
+box.x:42 box.y:232 box.width:41 box.height:63
+box.x:120 box.y:22 box.width:73 box.height:98
+box.x:127 box.y:170 box.width:39 box.height:81
+box.x:183 box.y:127 box.width:41 box.height:48
+box.x:182 box.y:185 box.width:38 box.height:58
+box.x:119 box.y:256 box.width:36 box.height:40
+../input_img/W00075Z.jpg
+Number of detections:2
+box.x:110 box.y:203 box.width:43 box.height:63
+box.x:167 box.y:213 box.width:37 box.height:44
+../input_img/W00043Z.jpg
+Number of detections:12
+box.x:968 box.y:742 box.width:60 box.height:90
+box.x:969 box.y:856 box.width:74 box.height:68
+box.x:1072 box.y:1095 box.width:53 box.height:112
+box.x:1047 box.y:735 box.width:62 box.height:106
+box.x:969 box.y:1104 box.width:54 box.height:104
+box.x:197 box.y:1111 box.width:54 box.height:128
+box.x:1079 box.y:990 box.width:57 box.height:83
+box.x:145 box.y:1112 box.width:51 box.height:96
+box.x:1023 box.y:995 box.width:46 box.height:76
+box.x:135 box.y:1000 box.width:41 box.height:101
+box.x:1024 box.y:1085 box.width:42 box.height:85
+box.x:188 box.y:989 box.width:45 box.height:105
+../input_img/W00020.jpg
+Number of detections:5
+box.x:190 box.y:266 box.width:62 box.height:78
+box.x:113 box.y:100 box.width:64 box.height:66
+box.x:198 box.y:404 box.width:51 box.height:53
+box.x:122 box.y:180 box.width:46 box.height:58
+box.x:199 box.y:175 box.width:54 box.height:39
+../input_img/h05623.jpg
+Number of detections:14
+box.x:101 box.y:197 box.width:45 box.height:63
+box.x:169 box.y:307 box.width:46 box.height:44
+box.x:114 box.y:280 box.width:32 box.height:91
+box.x:219 box.y:183 box.width:41 box.height:76
+box.x:76 box.y:422 box.width:44 box.height:61
+box.x:242 box.y:382 box.width:55 box.height:68
+box.x:132 box.y:416 box.width:45 box.height:59
+box.x:199 box.y:381 box.width:30 box.height:61
+box.x:79 box.y:347 box.width:22 box.height:47
+box.x:235 box.y:285 box.width:43 box.height:59
+box.x:161 box.y:196 box.width:45 box.height:89
+box.x:65 box.y:238 box.width:25 box.height:56
+box.x:56 box.y:205 box.width:34 box.height:24
+box.x:116 box.y:376 box.width:40 box.height:40
+../input_img/W00182.jpg
+Number of detections:3
+box.x:118 box.y:221 box.width:57 box.height:136
+box.x:119 box.y:86 box.width:58 box.height:111
+box.x:118 box.y:375 box.width:56 box.height:62
+../input_img/h05640.jpg
+Number of detections:3
+box.x:141 box.y:309 box.width:72 box.height:104
+box.x:160 box.y:143 box.width:44 box.height:112
+box.x:143 box.y:458 box.width:51 box.height:66
+../input_img/h05652.jpg
+Number of detections:14
+box.x:281 box.y:322 box.width:56 box.height:84
+box.x:62 box.y:81 box.width:53 box.height:97
+box.x:178 box.y:325 box.width:51 box.height:74
+box.x:43 box.y:205 box.width:73 box.height:94
+box.x:279 box.y:445 box.width:45 box.height:97
+box.x:83 box.y:318 box.width:82 box.height:96
+box.x:210 box.y:73 box.width:42 box.height:96
+box.x:116 box.y:425 box.width:50 box.height:95
+box.x:135 box.y:83 box.width:64 box.height:107
+box.x:242 box.y:321 box.width:22 box.height:96
+box.x:42 box.y:331 box.width:39 box.height:112
+box.x:175 box.y:413 box.width:48 box.height:105
+box.x:211 box.y:233 box.width:30 box.height:69
+box.x:232 box.y:438 box.width:36 box.height:95
+../input_img/h05559.jpg
+Number of detections:5
+box.x:332 box.y:376 box.width:113 box.height:207
+box.x:212 box.y:300 box.width:61 box.height:197
+box.x:167 box.y:171 box.width:57 box.height:94
+box.x:328 box.y:200 box.width:90 box.height:141
+box.x:91 box.y:366 box.width:57 box.height:124
+../input_img/W00022.jpg
+Number of detections:11
+box.x:221 box.y:170 box.width:56 box.height:86
+box.x:291 box.y:357 box.width:42 box.height:60
+box.x:289 box.y:167 box.width:54 box.height:65
+box.x:349 box.y:173 box.width:39 box.height:51
+box.x:243 box.y:348 box.width:33 box.height:48
+box.x:348 box.y:237 box.width:40 box.height:48
+box.x:142 box.y:211 box.width:41 box.height:41
+box.x:154 box.y:170 box.width:40 box.height:34
+box.x:98 box.y:185 box.width:33 box.height:41
+box.x:347 box.y:322 box.width:33 box.height:51
+box.x:207 box.y:344 box.width:27 box.height:63
+../input_img/W00124.jpg
+Number of detections:3
+box.x:164 box.y:71 box.width:71 box.height:94
+box.x:110 box.y:167 box.width:39 box.height:53
+box.x:167 box.y:188 box.width:24 box.height:56
+../input_img/W00075F.jpg
+Number of detections:1
+box.x:95 box.y:104 box.width:42 box.height:100
+../input_img/h05675.jpg
+Number of detections:2
+box.x:102 box.y:191 box.width:44 box.height:63
+box.x:96 box.y:91 box.width:41 box.height:81
+../input_img/W00140.jpg
+Number of detections:3
+box.x:144 box.y:145 box.width:38 box.height:79
+box.x:280 box.y:180 box.width:41 box.height:62
+box.x:202 box.y:164 box.width:41 box.height:56
+../input_img/h05718.jpg
+Number of detections:2
+box.x:94 box.y:195 box.width:46 box.height:81
+box.x:90 box.y:76 box.width:44 box.height:78
+../input_img/h05750F.jpg
+Number of detections:1
+box.x:84 box.y:326 box.width:53 box.height:85
+../input_img/W00158.jpg
+Number of detections:2
+box.x:96 box.y:105 box.width:50 box.height:60
+box.x:170 box.y:108 box.width:40 box.height:86
+../input_img/W00016Z.jpg
+Number of detections:3
+box.x:138 box.y:204 box.width:53 box.height:100
+box.x:216 box.y:191 box.width:44 box.height:73
+box.x:132 box.y:117 box.width:70 box.height:68
+../input_img/h05593.jpg
+Number of detections:1
+box.x:137 box.y:387 box.width:56 box.height:61
+../input_img/W00030.jpg
+Number of detections:4
+box.x:186 box.y:385 box.width:83 box.height:85
+box.x:184 box.y:171 box.width:74 box.height:87
+box.x:108 box.y:392 box.width:46 box.height:71
+box.x:215 box.y:486 box.width:59 box.height:88
+../input_img/W00050.jpg
+Number of detections:11
+box.x:158 box.y:223 box.width:51 box.height:81
+box.x:221 box.y:395 box.width:36 box.height:83
+box.x:175 box.y:442 box.width:31 box.height:65
+box.x:118 box.y:450 box.width:46 box.height:58
+box.x:120 box.y:348 box.width:30 box.height:69
+box.x:71 box.y:383 box.width:41 box.height:63
+box.x:75 box.y:228 box.width:20 box.height:68
+box.x:113 box.y:152 box.width:41 box.height:100
+box.x:231 box.y:258 box.width:25 box.height:89
+box.x:177 box.y:332 box.width:26 box.height:90
+box.x:123 box.y:269 box.width:21 box.height:57
+../input_img/W00043F.jpg
+Number of detections:0
+../input_img/h05630F.jpg
+Number of detections:2
+box.x:503 box.y:293 box.width:45 box.height:66
+box.x:509 box.y:371 box.width:34 box.height:60
+../input_img/h05735.jpg
+Number of detections:8
+box.x:144 box.y:313 box.width:63 box.height:50
+box.x:157 box.y:199 box.width:57 box.height:104
+box.x:285 box.y:344 box.width:39 box.height:41
+box.x:75 box.y:310 box.width:49 box.height:51
+box.x:95 box.y:236 box.width:35 box.height:68
+box.x:347 box.y:269 box.width:41 box.height:75
+box.x:235 box.y:85 box.width:45 box.height:57
+box.x:203 box.y:214 box.width:57 box.height:111
+../input_img/W00162.jpg
+Number of detections:4
+box.x:85 box.y:75 box.width:33 box.height:73
+box.x:224 box.y:56 box.width:48 box.height:74
+box.x:177 box.y:111 box.width:35 box.height:35
+box.x:133 box.y:67 box.width:30 box.height:33
+../input_img/W00148.jpg
+Number of detections:1
+box.x:55 box.y:270 box.width:42 box.height:70
+../input_img/W00181.jpg
+Number of detections:3
+box.x:156 box.y:114 box.width:46 box.height:54
+box.x:121 box.y:178 box.width:54 box.height:76
+box.x:79 box.y:129 box.width:29 box.height:43
+../input_img/h05716.jpg
+Number of detections:12
+box.x:129 box.y:308 box.width:37 box.height:45
+box.x:62 box.y:199 box.width:32 box.height:63
+box.x:97 box.y:200 box.width:34 box.height:67
+box.x:176 box.y:299 box.width:49 box.height:58
+box.x:90 box.y:313 box.width:34 box.height:33
+box.x:54 box.y:162 box.width:20 box.height:30
+box.x:42 box.y:89 box.width:30 box.height:63
+box.x:96 box.y:359 box.width:30 box.height:38
+box.x:144 box.y:58 box.width:45 box.height:73
+box.x:200 box.y:88 box.width:40 box.height:20
+box.x:80 box.y:67 box.width:50 box.height:109
+box.x:42 box.y:55 box.width:30 box.height:23
+../input_img/W00072.jpg
+Number of detections:7
+box.x:203 box.y:136 box.width:30 box.height:29
+box.x:172 box.y:120 box.width:24 box.height:59
+box.x:194 box.y:180 box.width:32 box.height:42
+box.x:230 box.y:84 box.width:22 box.height:44
+box.x:104 box.y:129 box.width:17 box.height:34
+box.x:145 box.y:83 box.width:24 box.height:47
+box.x:75 box.y:127 box.width:24 box.height:27
+../input_img/h05732.jpg
+Number of detections:26
+box.x:878 box.y:394 box.width:47 box.height:62
+box.x:34 box.y:556 box.width:53 box.height:91
+box.x:815 box.y:67 box.width:70 box.height:76
+box.x:815 box.y:375 box.width:51 box.height:113
+box.x:812 box.y:937 box.width:34 box.height:88
+box.x:852 box.y:155 box.width:34 box.height:99
+box.x:890 box.y:468 box.width:38 box.height:74
+box.x:858 box.y:553 box.width:27 box.height:98
+box.x:179 box.y:571 box.width:54 box.height:62
+box.x:842 box.y:833 box.width:30 box.height:34
+box.x:785 box.y:820 box.width:48 box.height:49
+box.x:904 box.y:606 box.width:37 box.height:42
+box.x:565 box.y:128 box.width:35 box.height:60
+box.x:881 box.y:268 box.width:34 box.height:102
+box.x:803 box.y:595 box.width:34 box.height:68
+box.x:67 box.y:708 box.width:43 box.height:60
+box.x:737 box.y:76 box.width:57 box.height:78
+box.x:900 box.y:552 box.width:36 box.height:31
+box.x:843 box.y:916 box.width:38 box.height:45
+box.x:260 box.y:576 box.width:48 box.height:53
+box.x:872 box.y:992 box.width:25 box.height:48
+box.x:689 box.y:124 box.width:39 box.height:20
+box.x:655 box.y:167 box.width:40 box.height:68
+box.x:788 box.y:305 box.width:45 box.height:20
+box.x:26 box.y:666 box.width:40 box.height:36
+box.x:97 box.y:553 box.width:39 box.height:81
+../input_img/h05626.jpg
+Number of detections:5
+box.x:150 box.y:162 box.width:43 box.height:61
+box.x:200 box.y:288 box.width:34 box.height:72
+box.x:233 box.y:278 box.width:41 box.height:62
+box.x:400 box.y:139 box.width:46 box.height:64
+box.x:372 box.y:126 box.width:23 box.height:66
+../input_img/h05727.jpg
+Number of detections:1
+box.x:190 box.y:253 box.width:49 box.height:68
+../input_img/W00090.jpg
+Number of detections:2
+box.x:103 box.y:84 box.width:70 box.height:120
+box.x:99 box.y:245 box.width:61 box.height:65
+../input_img/h05710.jpg
+Number of detections:5
+box.x:141 box.y:183 box.width:40 box.height:69
+box.x:243 box.y:289 box.width:40 box.height:63
+box.x:169 box.y:369 box.width:34 box.height:45
+box.x:245 box.y:227 box.width:33 box.height:45
+box.x:195 box.y:165 box.width:50 box.height:99
+../input_img/h05712.jpg
+Number of detections:8
+box.x:71 box.y:224 box.width:30 box.height:50
+box.x:29 box.y:188 box.width:30 box.height:53
+box.x:56 box.y:125 box.width:31 box.height:74
+box.x:36 box.y:248 box.width:33 box.height:30
+box.x:107 box.y:193 box.width:46 box.height:107
+box.x:163 box.y:225 box.width:46 box.height:82
+box.x:150 box.y:56 box.width:32 box.height:40
+box.x:30 box.y:309 box.width:29 box.height:26
+../input_img/h05601Z.jpg
+Number of detections:4
+box.x:225 box.y:226 box.width:87 box.height:130
+box.x:133 box.y:229 box.width:71 box.height:143
+box.x:125 box.y:139 box.width:49 box.height:88
+box.x:129 box.y:132 box.width:104 box.height:97
+../input_img/W00077.jpg
+Number of detections:6
+box.x:106 box.y:253 box.width:32 box.height:66
+box.x:101 box.y:180 box.width:35 box.height:52
+box.x:106 box.y:78 box.width:44 box.height:55
+box.x:155 box.y:197 box.width:30 box.height:53
+box.x:156 box.y:131 box.width:34 box.height:43
+box.x:157 box.y:77 box.width:40 box.height:29
+../input_img/h05671.jpg
+Number of detections:7
+box.x:326 box.y:102 box.width:64 box.height:61
+box.x:41 box.y:256 box.width:48 box.height:73
+box.x:406 box.y:132 box.width:34 box.height:63
+box.x:333 box.y:194 box.width:31 box.height:103
+box.x:264 box.y:122 box.width:44 box.height:65
+box.x:217 box.y:128 box.width:39 box.height:52
+box.x:210 box.y:203 box.width:25 box.height:50
+../input_img/h05583.jpg
+Number of detections:6
+box.x:213 box.y:138 box.width:45 box.height:60
+box.x:169 box.y:169 box.width:34 box.height:45
+box.x:111 box.y:52 box.width:32 box.height:61
+box.x:268 box.y:146 box.width:26 box.height:53
+box.x:169 box.y:113 box.width:21 box.height:45
+box.x:103 box.y:120 box.width:38 box.height:79
+../input_img/h05739.jpg
+Number of detections:15
+box.x:156 box.y:705 box.width:68 box.height:98
+box.x:78 box.y:975 box.width:55 box.height:87
+box.x:35 box.y:1423 box.width:60 box.height:95
+box.x:168 box.y:160 box.width:61 box.height:72
+box.x:112 box.y:382 box.width:74 box.height:143
+box.x:93 box.y:1207 box.width:60 box.height:113
+box.x:193 box.y:258 box.width:55 box.height:95
+box.x:178 box.y:1202 box.width:44 box.height:129
+box.x:150 box.y:826 box.width:52 box.height:117
+box.x:194 box.y:363 box.width:49 box.height:54
+box.x:118 box.y:1440 box.width:73 box.height:56
+box.x:114 box.y:283 box.width:67 box.height:85
+box.x:80 box.y:132 box.width:67 box.height:181
+box.x:152 box.y:969 box.width:81 box.height:58
+box.x:184 box.y:72 box.width:37 box.height:65
+../input_img/W00037.jpg
+Number of detections:6
+box.x:108 box.y:123 box.width:48 box.height:78
+box.x:110 box.y:74 box.width:35 box.height:41
+box.x:76 box.y:112 box.width:30 box.height:55
+box.x:77 box.y:68 box.width:27 box.height:39
+box.x:79 box.y:185 box.width:19 box.height:30
+box.x:151 box.y:87 box.width:31 box.height:37
+../input_img/W00064Z.jpg
+Number of detections:2
+box.x:194 box.y:97 box.width:48 box.height:117
+box.x:128 box.y:80 box.width:47 box.height:116
+../input_img/h05659.jpg
+Number of detections:8
+box.x:103 box.y:118 box.width:54 box.height:66
+box.x:161 box.y:213 box.width:47 box.height:88
+box.x:50 box.y:325 box.width:33 box.height:49
+box.x:99 box.y:288 box.width:32 box.height:36
+box.x:98 box.y:207 box.width:74 box.height:66
+box.x:114 box.y:47 box.width:23 box.height:40
+box.x:68 box.y:112 box.width:29 box.height:64
+box.x:56 box.y:250 box.width:35 box.height:64
+../input_img/h05578.jpg
+Number of detections:2
+box.x:170 box.y:286 box.width:40 box.height:133
+box.x:89 box.y:253 box.width:78 box.height:160
+../input_img/W00081.jpg
+Number of detections:2
+box.x:167 box.y:136 box.width:55 box.height:79
+box.x:156 box.y:65 box.width:41 box.height:46
+../input_img/h05585Z.jpg
+Number of detections:5
+box.x:138 box.y:251 box.width:38 box.height:64
+box.x:102 box.y:252 box.width:34 box.height:45
+box.x:181 box.y:249 box.width:45 box.height:74
+box.x:147 box.y:186 box.width:29 box.height:49
+box.x:97 box.y:189 box.width:43 box.height:48
+../input_img/W00034.jpg
+Number of detections:2
+box.x:201 box.y:165 box.width:34 box.height:60
+box.x:81 box.y:122 box.width:43 box.height:96
+../input_img/h05631.jpg
+Number of detections:2
+box.x:129 box.y:343 box.width:50 box.height:88
+box.x:131 box.y:245 box.width:50 box.height:64
+../input_img/W00082.jpg
+Number of detections:3
+box.x:89 box.y:73 box.width:35 box.height:73
+box.x:47 box.y:81 box.width:30 box.height:66
+box.x:143 box.y:102 box.width:53 box.height:48
+../input_img/h05685Z.jpg
+Number of detections:13
+box.x:182 box.y:649 box.width:54 box.height:74
+box.x:188 box.y:560 box.width:47 box.height:80
+box.x:151 box.y:450 box.width:43 box.height:47
+box.x:245 box.y:458 box.width:39 box.height:63
+box.x:130 box.y:580 box.width:45 box.height:68
+box.x:242 box.y:527 box.width:36 box.height:74
+box.x:242 box.y:618 box.width:42 box.height:81
+box.x:199 box.y:455 box.width:41 box.height:86
+box.x:290 box.y:552 box.width:34 box.height:49
+box.x:138 box.y:512 box.width:45 box.height:40
+box.x:88 box.y:526 box.width:40 box.height:93
+box.x:287 box.y:471 box.width:45 box.height:69
+box.x:86 box.y:447 box.width:55 box.height:31
+../input_img/h05620.jpg
+Number of detections:7
+box.x:148 box.y:251 box.width:36 box.height:72
+box.x:200 box.y:362 box.width:38 box.height:75
+box.x:151 box.y:426 box.width:50 box.height:85
+box.x:220 box.y:464 box.width:25 box.height:53
+box.x:112 box.y:229 box.width:23 box.height:73
+box.x:93 box.y:469 box.width:38 box.height:32
+box.x:209 box.y:250 box.width:19 box.height:79
+../input_img/h05591.jpg
+Number of detections:3
+box.x:74 box.y:165 box.width:61 box.height:75
+box.x:81 box.y:264 box.width:43 box.height:117
+box.x:163 box.y:189 box.width:69 box.height:99
+../input_img/W00074.jpg
+Number of detections:5
+box.x:269 box.y:169 box.width:28 box.height:84
+box.x:205 box.y:143 box.width:41 box.height:53
+box.x:110 box.y:173 box.width:36 box.height:46
+box.x:149 box.y:203 box.width:25 box.height:57
+box.x:161 box.y:135 box.width:33 box.height:60
+../input_img/h05644.jpg
+Number of detections:6
+box.x:96 box.y:181 box.width:33 box.height:73
+box.x:141 box.y:172 box.width:42 box.height:72
+box.x:202 box.y:164 box.width:42 box.height:71
+box.x:134 box.y:269 box.width:47 box.height:41
+box.x:202 box.y:244 box.width:33 box.height:52
+box.x:107 box.y:269 box.width:17 box.height:53
+../input_img/W00103.jpg
+Number of detections:3
+box.x:106 box.y:115 box.width:36 box.height:74
+box.x:195 box.y:162 box.width:49 box.height:45
+box.x:105 box.y:213 box.width:37 box.height:32
+../input_img/W00183.jpg
+Number of detections:2
+box.x:98 box.y:51 box.width:74 box.height:126
+box.x:48 box.y:82 box.width:33 box.height:80
