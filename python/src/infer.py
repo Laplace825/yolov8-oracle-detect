@@ -2,7 +2,7 @@
 Author: laplace825
 Date: 2024-04-08 21:15:57
 LastEditors: laplace825
-LastEditTime: 2024-04-16 14:09:23
+LastEditTime: 2024-04-16 14:49:35
 FilePath: /python/src/infer.py
 Description: 
 
@@ -81,7 +81,7 @@ class Inference:
         pt_cls_path = self.working_space + "/pt/best_cls.pt"
         cls.cls_yolo(
             pt_cls_path,
-            output_det_dir + "/0",
+            output_det_dir,
             output_cls_result,
         )
         print(

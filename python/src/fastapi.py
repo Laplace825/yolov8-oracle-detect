@@ -2,8 +2,8 @@
 Author: laplace825
 Date: 2024-04-12 15:45:16
 LastEditors: laplace825
-LastEditTime: 2024-04-16 13:00:51
-FilePath: /python/fastapi_test.py
+LastEditTime: 2024-04-16 14:52:38
+FilePath: /python/src/fastapi_test.py
 Description: 
 
 Copyright (c) 2024 by laplace825, All Rights Reserved. 
@@ -31,7 +31,7 @@ upload_loader = working_space + "/upload_img"
 
 
 def is_image_file(file: UploadFile) -> bool:
-    allow_image = [".jpg", ".png", ".jpeg"]
+    allow_image = ["jpg", "png", "jpeg"]
     return file.filename.split(".")[-1].lower() in allow_image
 
 
@@ -41,8 +41,8 @@ def index():
 
 
 # 提交文件
-@app.post("/upload/")
-async def upload_file(file: UploadFile = File(...)):
+@app.post("/upload_tapian/")
+async def upload_file_tapian(file: UploadFile = File(...)):
     try:
         if not is_image_file(file):
             return JSONResponse(
@@ -65,8 +65,38 @@ async def upload_file(file: UploadFile = File(...)):
             new_folder_path + "/output_img_pt",
         )
         model.use_pt_cls(
-            new_folder_path + "/output_img_pt/",
+            new_folder_path + "/output_img_pt/0/",
             new_folder_path + "/output_img_pt/0/cls",
+        )
+
+        return JSONResponse(content={"message": "Upload file success!"})
+    except Exception as e:
+        return JSONResponse(
+            status_code=500, content={"message": f"An error occured,{e}"}
+        )
+
+
+@app.post("/upload_hwrite/")
+async def upload_file_hwrite(file: UploadFile = File(...)):
+    try:
+        if not is_image_file(file):
+            return JSONResponse(
+                status_code=400,
+                content={"message": "Only support image file(jpg,png,jpeg)!"},
+            )
+        # 根据当前上传时间新建文件夹，并把文件保存到该文件夹
+        current_time = datetime.now()
+        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
+        new_folder_path = os.path.join(upload_loader, time_str)
+        os.makedirs(new_folder_path, exist_ok=True)
+
+        file_path = os.path.join(new_folder_path, file.filename)
+        with open(file_path, "wb") as buffer:
+            shutil.copyfileobj(file.file, buffer)
+
+        model.use_pt_cls(
+            new_folder_path,
+            new_folder_path + "/cls",
         )
 
         return JSONResponse(content={"message": "Upload file success!"})
