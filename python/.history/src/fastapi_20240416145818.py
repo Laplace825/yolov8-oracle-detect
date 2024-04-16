@@ -107,4 +107,4 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
 
 
 if __name__ == "__main__":
-    uvicorn.run(app="fastapi_test:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run(app="fastapi:app", host="0.0.0.0", port=8000, reload=True)
