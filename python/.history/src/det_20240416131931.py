@@ -3,9 +3,10 @@ import numpy as np
 import os
 import sys
 from ultralytics import YOLO
+from datetime import datetime
 
 # 类别
-CLASSES = {0: "0"}
+CLASSES = {datetime.now(): "0"}
 # 80个类别对应80中随机颜色
 colors = np.random.uniform(0, 255, size=(len(CLASSES), 3))
 
@@ -114,21 +115,15 @@ def det_yolo(pt_path, input_img_dir, output_img_dir):
                 )
                 i += 1
 
-    # # 将检测结果全部反色
-    # for file in os.listdir(f"{output_img_dir}/0"):
-    #     if file.endswith(".jpg"):
-    #         img_path = os.path.join(f"{output_img_dir}/0", file)
-    #         img = cv2.imread(img_path)
-    #         img = cv2.bitwise_not(img)
-    #         cv2.imwrite(img_path, img)
+    # 将检测结果全部反色
+    for file in os.listdir(f"{output_img_dir}/0"):
+        if file.endswith(".jpg"):
+            img_path = os.path.join(f"{output_img_dir}/0", file)
+            img = cv2.imread(img_path)
+            img = cv2.bitwise_not(img)
+            cv2.imwrite(img_path, img)
 
 
 if __name__ == "__main__":
-    from datetime import datetime
-    
-    det_yolo(
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.pt",
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img",
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test_img/" + datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    )
+
     pass

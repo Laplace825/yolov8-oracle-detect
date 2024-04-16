@@ -124,11 +124,9 @@ def det_yolo(pt_path, input_img_dir, output_img_dir):
 
 
 if __name__ == "__main__":
-    from datetime import datetime
-    
     det_yolo(
         "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.pt",
         "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img",
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test_img/" + datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test_img",
     )
     pass
