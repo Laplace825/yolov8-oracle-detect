@@ -12,6 +12,9 @@
 **请确保有以下Python环境**(版本相关保持最新即可)
 + `Yolo`
 + `tqdm`
++ `fastapi`
++ `shutil`
++ `uvicorn`
 + `OpenCV-Python`
 + `onnxruntime`
 + `numpy`
