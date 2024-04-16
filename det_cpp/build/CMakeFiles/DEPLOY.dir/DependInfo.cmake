@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/inference.cpp" "CMakeFiles/DEPLOY.dir/inference.cpp.o" "gcc" "CMakeFiles/DEPLOY.dir/inference.cpp.o.d"
-  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/predict.cpp" "CMakeFiles/DEPLOY.dir/predict.cpp.o" "gcc" "CMakeFiles/DEPLOY.dir/predict.cpp.o.d"
+  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/inference.cpp" "CMakeFiles/DEPLOY.dir/inference.cpp.o" "gcc" "CMakeFiles/DEPLOY.dir/inference.cpp.o.d"
+  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/predict.cpp" "CMakeFiles/DEPLOY.dir/predict.cpp.o" "gcc" "CMakeFiles/DEPLOY.dir/predict.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

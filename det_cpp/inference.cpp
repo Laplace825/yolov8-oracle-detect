@@ -159,6 +159,7 @@ void Inference::loadClassesFromFile()
     }
 }
 
+
 void Inference::loadOnnxNetwork()
 {
     net = cv::dnn::readNetFromONNX(modelPath);

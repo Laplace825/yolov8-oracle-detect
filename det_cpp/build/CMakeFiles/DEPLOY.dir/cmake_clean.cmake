@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/bin/DEPLOY"
-  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/bin/DEPLOY.pdb"
+  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/bin/DEPLOY"
+  "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/bin/DEPLOY.pdb"
   "CMakeFiles/DEPLOY.dir/inference.cpp.o"
   "CMakeFiles/DEPLOY.dir/inference.cpp.o.d"
   "CMakeFiles/DEPLOY.dir/predict.cpp.o"

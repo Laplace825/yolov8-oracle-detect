@@ -39,11 +39,11 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : ""
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/build"
+			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -514,16 +514,12 @@
 			"properties" : 
 			[
 				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
 					"name" : "HELPSTRING",
-					"value" : "Enable/Disable output of compile commands during generation."
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "BOOL",
-			"value" : ""
+			"value" : "TRUE"
 		},
 		{
 			"name" : "CMAKE_EXTRA_GENERATOR",
@@ -547,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -619,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det"
+			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1963,7 +1959,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det/build"
+			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp/build"
 		},
 		{
 			"name" : "DEPLOY_IS_TOP_LEVEL",
@@ -1987,7 +1983,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det"
+			"value" : "/home/lap/app/AI/YOLOv8/ultralytics/deploy/det_cpp"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_CUDA",
