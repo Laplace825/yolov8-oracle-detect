@@ -2,8 +2,8 @@
 Author: laplace825
 Date: 2024-04-12 15:45:16
 LastEditors: laplace825
-LastEditTime: 2024-04-16 14:52:38
-FilePath: /python/src/fastapi_test.py
+LastEditTime: 2024-04-17 16:37:51
+FilePath: /python/src/api.py
 Description: 
 
 Copyright (c) 2024 by laplace825, All Rights Reserved. 
@@ -17,6 +17,7 @@ import os
 import sys
 from datetime import datetime
 import infer
+import base64
 
 app = FastAPI()
 
@@ -63,23 +64,23 @@ async def upload_file_tapian(file: UploadFile = File(...)):
             shutil.copyfileobj(file.file, buffer)
 
         # 检测和分类结果保存路径
-        model.use_pt_det(
+        model.use_onnx_det(
             new_folder_path,
-            new_folder_path + "/output_img_pt",
+            new_folder_path + "/output_img",
         )
         model.use_pt_cls(
-            new_folder_path + "/output_img_pt/0/",
-            new_folder_path + "/output_img_pt/0/cls",
+            new_folder_path + "/output_img/0/",
+            new_folder_path + "/output_img/0/cls",
         )
 
         # 读取目录下的所有分类结果
 
         cls_result = dict()
         cls = 0
-        for file in os.listdir(new_folder_path + "/output_img_pt/0/cls"):
+        for file in os.listdir(new_folder_path + "/output_img/0/cls"):
             if file.endswith(".txt"):
                 with open(
-                    os.path.join(new_folder_path + "/output_img_pt/0/cls", file), "r"
+                    os.path.join(new_folder_path + "/output_img/0/cls", file), "r"
                 ) as f:
                     one_file_result = dict()
                     # 将单一文件中的所有结果分成二级字典
@@ -88,6 +89,15 @@ async def upload_file_tapian(file: UploadFile = File(...)):
                         one_file_result[f"{cls_name}"] = float(score)
                     cls_result[cls] = one_file_result
                     cls += 1
+        # 读取目录下的检测结果图片,只有一张图片,返回base64编码
+        det_result = "data:image/jpg;base64,"
+        for file_det in os.listdir(new_folder_path + "/output_img/0/det"):
+            if file_det.endswith(".jpg"):
+                with open(
+                    os.path.join(new_folder_path + "/output_img/0/det", file_det), "rb"
+                ) as f_det:
+                    det_result += base64.b64encode(f_det.read()).decode("utf-8")
+                    break
 
         return JSONResponse(
             status_code=200,
@@ -96,6 +106,7 @@ async def upload_file_tapian(file: UploadFile = File(...)):
                 "message": "success!",
                 "time": f"{time_str}",
                 f"cls_result": cls_result,
+                "det_file": det_result,
             },
         )
     except Exception as e:
@@ -133,14 +144,16 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
 
         model.use_pt_cls(
             new_folder_path,
-            new_folder_path + "/cls",
+            new_folder_path + "/output_img/0/cls",
         )
         # 读取目录下的所有分类结果
         cls_result = dict()
         cls = 0
-        for file in os.listdir(new_folder_path + "/cls"):
+        for file in os.listdir(new_folder_path + "/output_img/0/cls"):
             if file.endswith(".txt"):
-                with open(os.path.join(new_folder_path + "/cls", file), "r") as f:
+                with open(
+                    os.path.join(new_folder_path + "/output_img/0/cls", file), "r"
+                ) as f:
                     one_file_result = dict()
                     # 将单一文件中的所有结果分成二级字典
                     for line in f.readlines():

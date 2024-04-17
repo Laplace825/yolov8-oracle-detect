@@ -1,13 +1,13 @@
-'''
+"""
 Author: laplace825
 Date: 2024-04-08 21:15:57
 LastEditors: laplace825
-LastEditTime: 2024-04-17 09:00:45
+LastEditTime: 2024-04-17 16:32:46
 FilePath: /python/src/infer.py
 Description: 
 
 Copyright (c) 2024 by laplace825, All Rights Reserved. 
-'''
+"""
 
 # -*- coding: UTF-8 -*-
 import cv2
@@ -24,12 +24,10 @@ class Inference:
         self.working_space = working_space
         self.uplaod_loader = working_space + "/upload_img"
 
-    def use_onnx(
+    def use_onnx_det(
         self,
         input_img_det_path,
         output_det_img_path,
-        input__img_cls_path,
-        output_cls_txt_path,
     ):
         """
         description: 使用onnx模型进行检测和分类
@@ -39,8 +37,6 @@ class Inference:
         return {*}
         """
         net_det_path = self.working_space + "/onnx/best_det.onnx"
-        net_cls_path = self.working_space + "/onnx/best_cls.onnx"
-        class_name_path = self.working_space + "/class_cls.txt"  # 分类类别文件
 
         # 读取input_img下所有图片，进行检测和分类
         for file in tqdm.tqdm(os.listdir(input_img_det_path), desc="Detecting"):
@@ -51,15 +47,6 @@ class Inference:
                     img_path,
                     output_det_img_path,
                 )
-        print(">>>> Classfiying...\n")
-        # 分类
-        cls.cls(
-            net_cls_path,
-            input__img_cls_path,
-            class_name_path,
-            output_cls_txt_path,
-        )
-        print(f"Done! cls result saved at {output_cls_txt_path}")
 
     def use_pt_det(self, input_img_det_path, output_det_dir):
         """
