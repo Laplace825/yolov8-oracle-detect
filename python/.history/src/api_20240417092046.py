@@ -44,17 +44,14 @@ def index():
 @app.post("/upload_tapian/")
 async def upload_file_tapian(file: UploadFile = File(...)):
     try:
-        current_time = datetime.now()
-        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         if not is_image_file(file):
             return JSONResponse(
-                content={
-                    "status": 1,
-                    "time": f"{time_str}",
-                    "message": "An error occured,only support image file(jpg,png,jpeg)!",
-                },
+                status_code=400,
+                content={"message": "Only support image file(jpg,png,jpeg)!"},
             )
         # 根据当前上传时间新建文件夹，并把文件保存到该文件夹
+        current_time = datetime.now()
+        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         new_folder_path = os.path.join(upload_loader, time_str)
         os.makedirs(new_folder_path, exist_ok=True)
 
@@ -75,55 +72,46 @@ async def upload_file_tapian(file: UploadFile = File(...)):
         # 读取目录下的所有分类结果
 
         cls_result = dict()
-        cls = 0
         for file in os.listdir(new_folder_path + "/output_img_pt/0/cls"):
             if file.endswith(".txt"):
                 with open(
                     os.path.join(new_folder_path + "/output_img_pt/0/cls", file), "r"
                 ) as f:
                     one_file_result = dict()
+                    cls = 0
                     # 将单一文件中的所有结果分成二级字典
                     for line in f.readlines():
                         score, cls_name = line.strip().split(" ")
                         one_file_result[f"{cls_name}"] = float(score)
-                    cls_result[cls] = one_file_result
-                    cls += 1
+                        cls_result[cls] = one_file_result
+                        cls += 1
 
         return JSONResponse(
             status_code=200,
             content={
                 "status": 0,
                 "message": "success!",
-                "time": f"{time_str}",
+                "time":f"{time_str}",
                 f"cls_result": cls_result,
             },
         )
     except Exception as e:
         return JSONResponse(
-            status_code=500,
-            content={
-                "status": 2,
-                "time": f"{time_str}",
-                "message": f"An error occured,{e}",
-            },
+            status_code=500, content={"status": 1, "message": f"An error occured,{e}"}
         )
 
 
 @app.post("/upload_hwrite/")
 async def upload_file_hwrite(file: UploadFile = File(...)):
     try:
-        current_time = datetime.now()
-        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         if not is_image_file(file):
             return JSONResponse(
-                status_code=500,
-                content={
-                    "status": 1,
-                    "time": f"{time_str}",
-                    "message": f"An error occured,only support image file(jpg,png,jpeg)!",
-                },
+                status_code=400,
+                content={"message": "Only support image file(jpg,png,jpeg)!"},
             )
         # 根据当前上传时间新建文件夹，并把文件保存到该文件夹
+        current_time = datetime.now()
+        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         new_folder_path = os.path.join(upload_loader, time_str)
         os.makedirs(new_folder_path, exist_ok=True)
 
@@ -137,7 +125,6 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
         )
         # 读取目录下的所有分类结果
         cls_result = dict()
-        cls = 0
         for file in os.listdir(new_folder_path + "/cls"):
             if file.endswith(".txt"):
                 with open(os.path.join(new_folder_path + "/cls", file), "r") as f:
@@ -146,26 +133,14 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
                     for line in f.readlines():
                         score, cls_name = line.strip().split(" ")
                         one_file_result[f"{cls_name}"] = float(score)
-                    cls_result[cls] = one_file_result
-                    cls += 1
+                        cls_result[file] = one_file_result
 
         return JSONResponse(
-            status_code=200,
-            content={
-                "status": 0,
-                "message": "success!",
-                "time": f"{time_str}",
-                f"cls_result": cls_result,
-            },
+            content={"message": "success!", f"{time_str}_result": cls_result}
         )
     except Exception as e:
         return JSONResponse(
-            status_code=500,
-            content={
-                "status": 2,
-                "time": f"{time_str}",
-                "message": f"An error occured,{e}",
-            },
+            status_code=500, content={"message": f"An error occured,{e}"}
         )
 
 

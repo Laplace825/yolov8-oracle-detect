@@ -44,17 +44,18 @@ def index():
 @app.post("/upload_tapian/")
 async def upload_file_tapian(file: UploadFile = File(...)):
     try:
-        current_time = datetime.now()
-        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         if not is_image_file(file):
             return JSONResponse(
+                status_code=500,
                 content={
                     "status": 1,
                     "time": f"{time_str}",
-                    "message": "An error occured,only support image file(jpg,png,jpeg)!",
+                    "message": f"An error occured,only support image file(jpg,png,jpeg)!",
                 },
             )
         # 根据当前上传时间新建文件夹，并把文件保存到该文件夹
+        current_time = datetime.now()
+        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         new_folder_path = os.path.join(upload_loader, time_str)
         os.makedirs(new_folder_path, exist_ok=True)
 
@@ -112,8 +113,6 @@ async def upload_file_tapian(file: UploadFile = File(...)):
 @app.post("/upload_hwrite/")
 async def upload_file_hwrite(file: UploadFile = File(...)):
     try:
-        current_time = datetime.now()
-        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         if not is_image_file(file):
             return JSONResponse(
                 status_code=500,
@@ -124,6 +123,8 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
                 },
             )
         # 根据当前上传时间新建文件夹，并把文件保存到该文件夹
+        current_time = datetime.now()
+        time_str = current_time.strftime("%Y-%m-%d_%H-%M-%S")
         new_folder_path = os.path.join(upload_loader, time_str)
         os.makedirs(new_folder_path, exist_ok=True)
 
@@ -162,7 +163,7 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
         return JSONResponse(
             status_code=500,
             content={
-                "status": 2,
+                "status": 1,
                 "time": f"{time_str}",
                 "message": f"An error occured,{e}",
             },
