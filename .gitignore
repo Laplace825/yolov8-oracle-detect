@@ -36,3 +36,5 @@
 build/*
 *.jpg
 .cache/
+.histroy/*
+__pycache__/*
