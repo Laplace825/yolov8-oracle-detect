@@ -18,6 +18,7 @@
 + `opencv-python`
 + `onnxruntime`
 + `numpy`
++ `python-multipart`
 + `pydantic`
 ---
 
