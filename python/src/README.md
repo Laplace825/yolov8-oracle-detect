@@ -2,7 +2,7 @@
  * @Author: laplace825
  * @Date: 2024-04-16 14:18:27
  * @LastEditors: laplace825
- * @LastEditTime: 2024-04-16 15:04:43
+ * @LastEditTime: 2024-04-17 16:45:13
  * @FilePath: /python/src/README.md
  * @Description: 
  * 
@@ -28,22 +28,44 @@ src
 │   ├── api.cpython-310.pyc
 │   ├── cls.cpython-310.pyc
 │   ├── det.cpython-310.pyc
-│   ├── fastapi.cpython-310.pyc
-│   ├── fastapi_test.cpython-310.pyc
 │   └── infer.cpython-310.pyc
 ├── README.md
 └── upload_img
-    ├── 2024-04-16_15-00-42 (单字识别情况)
-    │   ├── 41_E38E-1.jpg
-    │   └── cls
-    │       └── 41_E38E-1.txt (分类结果)
-    └── 2024-04-16_15-04-23 (拓片识别情况)
-        ├── b00923.jpg
-        └── output_img_pt (分割图片)
+    ├── 2024-04-17_16-34-48
+    │   ├── b00762.jpg 
+    │   └── output_img
+    │       └── 0 (0之后有切割的图片也有cls、det，这是检测)
+    │           ├── b00762_0.jpg
+    │           ├── b00762_10.jpg
+    │           ├── b00762_11.jpg
+    │           ├── b00762_1.jpg
+    │           ├── b00762_2.jpg
+    │           ├── b00762_3.jpg
+    │           ├── b00762_4.jpg
+    │           ├── b00762_5.jpg
+    │           ├── b00762_6.jpg
+    │           ├── b00762_7.jpg
+    │           ├── b00762_8.jpg
+    │           ├── b00762_9.jpg
+    │           ├── cls
+    │           │   ├── b00762_0.txt
+    │           │   ├── b00762_10.txt
+    │           │   ├── b00762_11.txt
+    │           │   ├── b00762_1.txt
+    │           │   ├── b00762_2.txt
+    │           │   ├── b00762_3.txt
+    │           │   ├── b00762_4.txt
+    │           │   ├── b00762_5.txt
+    │           │   ├── b00762_6.txt
+    │           │   ├── b00762_7.txt
+    │           │   ├── b00762_8.txt
+    │           │   └── b00762_9.txt
+    │           └── det
+    │               └── b00762.jpg
+    └── 2024-04-17_16-38-07
+        ├── 41_F57A-1.jpg (只有cls,是单字检测的)
+        └── output_img
             └── 0
-                ├── b00923_02.jpg (分割后的结果)
-                ├── b00923_0.jpg
                 └── cls
-                    ├── b00923_02.txt (分类结果)
-                    └── b00923_0.txt
+                    └── 41_F57A-1.txt
 ```

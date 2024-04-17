@@ -1,3 +1,13 @@
+"""
+Author: laplace825
+Date: 2024-04-08 22:11:56
+LastEditors: laplace825
+LastEditTime: 2024-04-17 16:56:04
+FilePath: /python/src/det.py
+Description: 
+
+Copyright (c) 2024 by laplace825, All Rights Reserved. 
+"""
 import cv2.dnn
 import numpy as np
 import os
@@ -7,17 +17,7 @@ from ultralytics import YOLO
 # 类别
 CLASSES = {0: "0"}
 # 80个类别对应80中随机颜色
-colors = np.random.uniform(0, 255, size=(len(CLASSES), 3))
-
-
-# 绘制
-def draw_bounding_box(img, class_id, confidence, x, y, x_plus_w, y_plus_h):
-    label = f"{CLASSES[class_id]} ({confidence:.2f})"
-    color = colors[class_id]
-    # 绘制矩形框
-    cv2.rectangle(img, (x, y), (x_plus_w, y_plus_h), color, 2)
-    # 绘制类别
-    # cv2.putText(img, label, (x - 10, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
+colors = np.random.uniform(0, 255, size=(80, 3))
 
 
 def det(onnx_model, input_image, output_image_dir):
@@ -64,6 +64,8 @@ def det(onnx_model, input_image, output_image_dir):
     # opencv版最极大值抑制
     result_boxes = cv2.dnn.NMSBoxes(boxes, scores, 0.25, 0.45, 0.5)
 
+    os.makedirs(output_image_dir + "/0/det", exist_ok=True)
+    cls_id = 0    
     for i in range(len(result_boxes)):
         index = result_boxes[i]
         box = boxes[index]
@@ -83,19 +85,32 @@ def det(onnx_model, input_image, output_image_dir):
         h = round(h * scale)
         crop = original_image[y : y + h, x : x + w]
         # 將crop 顏色反轉
-        crop = cv2.bitwise_not(crop)
         # print(f"{output_image_dir}/{input_image.split('.')[0].split('/')[-1]}_{i}.jpg")
         # 保存裁剪出來的目标
         cv2.imwrite(
-            f"{output_image_dir}/{input_image.split('.')[0].split('/')[-1]}_{i}.jpg",
+            f"{output_image_dir}/0/{input_image.split('.')[0].split('/')[-1]}_{i}.jpg",
             crop,
         )
-        # # 绘制边界框
-        # draw_bounding_box(original_image, class_ids[index], scores[index], round(box[0] * scale), round(box[1] * scale),
-        #                   round((box[0] + box[2]) * scale), round((box[1] + box[3]) * scale))
-    # cv2.imwrite(
-    #     "/test/img.jpg", original_image
-    # )
+        
+        # 再遍历进行边界框的绘制
+    for i in range(len(result_boxes)):
+        index = result_boxes[i]
+        box = boxes[index]
+        x, y, w, h = box
+        x = round(x * scale)
+        y = round(y * scale)
+        w = round(w * scale)
+        h = round(h * scale)
+        # 绘制边界框
+        label = f"{cls_id}"
+        color = colors[cls_id]
+        # 绘制矩形框
+        cv2.rectangle(original_image, (round(box[0] * scale), round(box[1] * scale)), (round((box[0] + box[2]) * scale), round((box[1] + box[3]) * scale)), color, 2)
+        # 绘制类别
+        cv2.putText(original_image, label, (x - 10, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1, color, 2)
+        cls_id += 1
+    # 保存检测结果
+    cv2.imwrite(f"{output_image_dir}/0/det/{input_image.split('.')[0].split('/')[-1]}.jpg", original_image)
 
 
 def det_yolo(pt_path, input_img_dir, output_img_dir):
@@ -105,8 +120,9 @@ def det_yolo(pt_path, input_img_dir, output_img_dir):
     for file in os.listdir(input_img_dir):
         if file.endswith(".jpg") or file.endswith(".png"):
             img_path = os.path.join(input_img_dir, file)
-            result = model(img_path)
+            result = model(img_path,save=True,show_conf=False,show_labels=False,name=output_img_dir+"/0/det")
             i = 0
+            
             for res in result:
                 res.save_crop(
                     output_img_dir,
@@ -125,10 +141,13 @@ def det_yolo(pt_path, input_img_dir, output_img_dir):
 
 if __name__ == "__main__":
     from datetime import datetime
-    
-    det_yolo(
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.pt",
-        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img",
+    det("/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/src/onnx/best_det.onnx",
+        "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/b00759Z.jpg",
         "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test_img/" + datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    )
+        )
+    # det_yolo(
+    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/best_det.pt",
+    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/input_img",
+    #     "/home/lap/app/AI/YOLOv8/ultralytics/deploy/python/test_img/" + datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    # )
     pass
