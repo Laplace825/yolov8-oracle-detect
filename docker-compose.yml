@@ -1,0 +1,9 @@
+version: '3'
+services:
+  oracle-backend:
+    container_name: oracle-backend
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "34101:8000"
