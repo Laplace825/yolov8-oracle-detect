@@ -10,17 +10,18 @@
 + 支持 `C++17` 及以上的编译器
 
 **请确保有以下Python环境**(版本相关保持最新即可)
-+ `Yolo`
++ `ultralytics`
 + `tqdm`
 + `fastapi`
 + `shutil`
 + `uvicorn`
-+ `OpenCV-Python`
++ `opencv-python`
 + `onnxruntime`
 + `numpy`
++ `pydantic`
 ---
 
-以上`Python`模块使用`pip`或`conda`安装即可。
+以上`Python`模块使用`pip`或`conda`安装即可。你也可以到python文件夹内使用requirements.txt
 
 ## REFERENCE
 
