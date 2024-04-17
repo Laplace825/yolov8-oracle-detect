@@ -1,9 +1,0 @@
-ultralytics
-numpy
-opencv-python
-fastapi
-uvicorn[standard]
-pydantic
-onnxruntime
-shutil
-tqdm
