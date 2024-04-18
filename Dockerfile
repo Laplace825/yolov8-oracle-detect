@@ -13,6 +13,6 @@ RUN echo > /etc/apt/sources.list && \
 
 RUN apt install -y libgl1-mesa-glx
 
-RUN pip install fastapi uvicorn opencv-python ultralytics tqdm python-multipart
+RUN pip install fastapi uvicorn opencv-python ultralytics tqdm python-multipart -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ENTRYPOINT ["python3", "/app/python/src/api.py"]
