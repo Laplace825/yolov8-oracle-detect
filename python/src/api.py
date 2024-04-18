@@ -182,7 +182,7 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
         )
 
 
-@app.get("/jgwfont")
+@app.get("/jgwfont.woff")
 async def jgwfont():
     # 把 ./assets/jgwfont.ttf 文件返回给前端
     return FileResponse(working_space + "/assets/jgw.woff")
