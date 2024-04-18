@@ -10,7 +10,7 @@ Copyright (c) 2024 by laplace825, All Rights Reserved.
 """
 
 from fastapi import FastAPI, File, UploadFile
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
 import shutil
 import uvicorn
 import os
@@ -180,6 +180,12 @@ async def upload_file_hwrite(file: UploadFile = File(...)):
                 "message": f"An error occured,{e}",
             },
         )
+
+
+@app.get("/jgwfont")
+async def jgwfont():
+    # 把 ./assets/jgwfont.ttf 文件返回给前端
+    return FileResponse(working_space + "/assets/jgw.woff")
 
 
 if __name__ == "__main__":
