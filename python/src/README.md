@@ -2,7 +2,7 @@
  * @Author: laplace825
  * @Date: 2024-04-16 14:18:27
  * @LastEditors: laplace825
- * @LastEditTime: 2024-04-17 16:45:13
+ * @LastEditTime: 2024-04-19 13:25:35
  * @FilePath: /python/src/README.md
  * @Description: 
  * 
@@ -31,10 +31,10 @@ src
 │   └── infer.cpython-310.pyc
 ├── README.md
 └── upload_img
-    ├── 2024-04-17_16-34-48
+    ├── 2024-04-13_16-34-48
     │   ├── b00762.jpg 
     │   └── output_img
-    │       └── 0 (0之后有切割的图片也有cls、det，这是检测)
+    │       └── 0 
     │           ├── b00762_0.jpg
     │           ├── b00762_10.jpg
     │           ├── b00762_11.jpg
@@ -62,8 +62,8 @@ src
     │           │   └── b00762_9.txt
     │           └── det
     │               └── b00762.jpg
-    └── 2024-04-17_16-38-07
-        ├── 41_F57A-1.jpg (只有cls,是单字检测的)
+    └── 2024-04-13_16-38-07
+        ├── 41_F57A-1.jpg 
         └── output_img
             └── 0
                 └── cls
