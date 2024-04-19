@@ -2,7 +2,7 @@
 Author: laplace825
 Date: 2024-04-08 21:15:57
 LastEditors: laplace825
-LastEditTime: 2024-04-19 16:32:57
+LastEditTime: 2024-04-19 16:36:33
 FilePath: /python/src/infer.py
 Description: 
 
@@ -22,7 +22,7 @@ from ultralytics import YOLO
 class Inference:
     def __init__(self, working_space) -> None:
         self.__working_space = working_space
-        self.__upload_load = working_space + "/upload_img"
+        self.__upload_loader = working_space + "/upload_img"
 
     def use_onnx_det(
         self,
