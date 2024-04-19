@@ -2,7 +2,7 @@
 Author: laplace825
 Date: 2024-04-08 21:15:57
 LastEditors: laplace825
-LastEditTime: 2024-04-17 16:32:46
+LastEditTime: 2024-04-19 16:32:57
 FilePath: /python/src/infer.py
 Description: 
 
@@ -21,8 +21,8 @@ from ultralytics import YOLO
 
 class Inference:
     def __init__(self, working_space) -> None:
-        self.working_space = working_space
-        self.uplaod_loader = working_space + "/upload_img"
+        self.__working_space = working_space
+        self.__upload_load = working_space + "/upload_img"
 
     def use_onnx_det(
         self,
@@ -36,7 +36,7 @@ class Inference:
         param {*} output_cls_txt_path: 分类结果保存路径 保存格式为：图片名:分类结果
         return {*}
         """
-        net_det_path = self.working_space + "/onnx/best_det.onnx"
+        net_det_path = self.__working_space + "/onnx/best_det.onnx"
 
         # 读取input_img下所有图片，进行检测和分类
         for file in tqdm.tqdm(os.listdir(input_img_det_path), desc="Detecting"):
@@ -56,7 +56,7 @@ class Inference:
         NOTE: 注意output_det_dir下会生成一个0文件夹,存放检测结果
         return {*}
         """
-        pt_det_path = self.working_space + "/pt/best_det.pt"
+        pt_det_path = self.__working_space + "/pt/best_det.pt"
 
         det.det_yolo(
             pt_det_path,
@@ -65,7 +65,7 @@ class Inference:
         )
 
     def use_pt_cls(self, output_det_dir, output_cls_result):
-        pt_cls_path = self.working_space + "/pt/best_cls.pt"
+        pt_cls_path = self.__working_space + "/pt/best_cls.pt"
         cls.cls_yolo(
             pt_cls_path,
             output_det_dir,
